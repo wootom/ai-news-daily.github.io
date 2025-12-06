@@ -1,9 +1,279 @@
 {
-  "crawledAt": "2025-12-06T01:26:57.983Z",
+  "crawledAt": "2025-12-06T04:24:14.088Z",
   "totalSources": 70,
-  "totalArticles": 517,
+  "totalArticles": 545,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "Jinx",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1pffww3/jinx_arcane_zimage_turbo_lora/",
+      "source": "r/StableDiffusion",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "medium",
+      "pubDate": "2025-12-06T04:08:33.000Z",
+      "metaDescription": "AVAILABLE FOR DOWNLOAD 👉 https://civitai.com/models/2198444/jinx-arcane-z-image-turbo-lora?modelVersionId=2475322\n Trained a Jinx (Arcane) character LoRA with Ostris AI‑Toolkit and Z‑Image Turbo, sha",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2025-12-06T04:23:17.417Z",
+      "id": "q09fd2"
+    },
+    {
+      "title": "Automatic forced scroll to the bottom for “select text and ask ChatGPT”",
+      "url": "https://www.reddit.com/r/OpenAI/comments/1pffwd5/automatic_forced_scroll_to_the_bottom_for_select/",
+      "source": "r/OpenAI",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2025-12-06T04:07:44.000Z",
+      "metaDescription": "Idk if it’s just me, but I’ve been using ChatGPT for the past two weeks. I switched from grok after I found out they had a “select text and ask ChatGPT” feature, which was incredibly convenient. What ",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2025-12-06T04:23:05.776Z",
+      "id": "neo6gi"
+    },
+    {
+      "title": "I hear you. But I have to stop you right here.",
+      "url": "https://www.reddit.com/r/ChatGPT/comments/1pffo71/i_hear_you_but_i_have_to_stop_you_right_here/",
+      "source": "r/ChatGPT",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "medium",
+      "pubDate": "2025-12-06T03:56:06.000Z",
+      "metaDescription": "Proceeds to crash browser tab...\n    submitted by    /u/Greedy-Sandwich9709  \n [link]   [comments]",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2025-12-06T04:23:02.297Z",
+      "id": "8wzuw8"
+    },
+    {
+      "title": "Jensen Huang: \"AI is a five-layer cake. Energy, chips, infrastructure, models, and applications.\" 🎂",
+      "url": "https://www.reddit.com/r/deeplearning/comments/1pffjse/jensen_huang_ai_is_a_fivelayer_cake_energy_chips/",
+      "source": "r/deeplearning",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "medium",
+      "pubDate": "2025-12-06T03:49:47.000Z",
+      "metaDescription": "submitted by    /u/MonitorCultural9741  \n [link]   [comments]",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2025-12-06T04:23:10.984Z",
+      "id": "cgahvm"
+    },
+    {
+      "title": "Noob here, looking for the perfect local LLM for my M3 Macbook Air 24GB RAM",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1pff8b5/noob_here_looking_for_the_perfect_local_llm_for/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2025-12-06T03:33:22.000Z",
+      "metaDescription": "Hey y'all, I am fairly new to LLMs in general, but would like to get a local one on my laptop for offline tinkering and feeding it literature from my research. I would also enjoy it being able to sync",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2025-12-06T04:22:55.369Z",
+      "id": "iy3lzo"
+    },
+    {
+      "title": "I'm so unemployed it's sad",
+      "url": "https://www.reddit.com/r/ChatGPT/comments/1pff6a9/im_so_unemployed_its_sad/",
+      "source": "r/ChatGPT",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "medium",
+      "pubDate": "2025-12-06T03:30:21.000Z",
+      "metaDescription": "submitted by    /u/IzzyTheBaker  \n [link]   [comments]",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2025-12-06T04:23:01.211Z",
+      "id": "y16hct"
+    },
+    {
+      "title": "Radicalized Anti-AI Activist Should Be A Wake Up Call For Doomer Rhetoric",
+      "url": "https://www.reddit.com/r/OpenAI/comments/1pfewcd/radicalized_antiai_activist_should_be_a_wake_up/",
+      "source": "r/OpenAI",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2025-12-06T03:16:21.000Z",
+      "metaDescription": "https://www.techdirt.com/2025/12/05/radicalized-anti-ai-activist-should-be-a-wake-up-call-for-doomer-rhetoric/\n    submitted by    /u/aiworldism  \n [link]   [comments]",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2025-12-06T04:23:06.224Z",
+      "id": "an3h6u"
+    },
+    {
+      "title": "OpenAI head of ChatGPT confirms that they are NOT doing any live tests for ads, the screenshots on social media were fake or not ads",
+      "url": "https://www.reddit.com/r/ChatGPT/comments/1pfesmx/openai_head_of_chatgpt_confirms_that_they_are_not/",
+      "source": "r/ChatGPT",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "medium",
+      "pubDate": "2025-12-06T03:10:54.000Z",
+      "metaDescription": "submitted by    /u/obvithrowaway34434  \n [link]   [comments]",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2025-12-06T04:22:59.574Z",
+      "id": "sdevab"
+    },
+    {
+      "title": "Dystopian Red Alert - Z-Image+Wan2.2",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1pfek1x/dystopian_red_alert_zimagewan22/",
+      "source": "r/StableDiffusion",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "medium",
+      "pubDate": "2025-12-06T02:58:55.000Z",
+      "metaDescription": "Z-Image + Wan2.2\n    submitted by    /u/buddylee00700  \n [link]   [comments]",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2025-12-06T04:23:16.492Z",
+      "id": "8mu8y3"
+    },
+    {
+      "title": "Perfect Z Image Settings: Ranking 14 Samplers & 10 Schedulers",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1pfeh3e/perfect_z_image_settings_ranking_14_samplers_10/",
+      "source": "r/StableDiffusion",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "medium",
+      "pubDate": "2025-12-06T02:54:53.000Z",
+      "metaDescription": "I tested 140 different sampler and scheduler combinations so you don't have to! \n After generating 560 high-res images (1792x1792 across 4 subject sets), I discovered something eye-opening: default se",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2025-12-06T04:23:14.431Z",
+      "id": "o9wvso"
+    },
+    {
+      "title": "Open Unified TTS - Turn any TTS into an unlimited-length audio generator",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1pfe5ou/open_unified_tts_turn_any_tts_into_an/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2025-12-06T02:38:57.000Z",
+      "metaDescription": "Built an open-source TTS proxy that lets you generate unlimited-length audio from local backends without hitting their length limits.\n The problem: Most local TTS models break after 50-100 words. Voic",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2025-12-06T04:22:53.637Z",
+      "id": "4wbzln"
+    },
+    {
+      "title": "Google's 'Titans' achieves 70% recall and reasoning accuracy on ten million tokens in the BABILong benchmark",
+      "url": "https://www.reddit.com/r/singularity/comments/1pfdzo3/googles_titans_achieves_70_recall_and_reasoning/",
+      "source": "r/singularity",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "medium",
+      "pubDate": "2025-12-06T02:30:28.000Z",
+      "metaDescription": "Titans + MIRAS: Helping AI have long-term memory [December 4, 2025]\n    submitted by    /u/Westbrooke117  \n [link]   [comments]",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2025-12-06T04:22:49.188Z",
+      "id": "2vxp1r"
+    },
+    {
+      "title": "“Come here…”",
+      "url": "https://www.reddit.com/r/ChatGPT/comments/1pfdtzn/come_here/",
+      "source": "r/ChatGPT",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "medium",
+      "pubDate": "2025-12-06T02:22:45.000Z",
+      "metaDescription": "Anyone else’s ChatGPT constantly telling them to “come here” at the start of a reply, then moving to “come closer” as the thread continues? It’s driving me insane. \n    submitted by    /u/RueRose9  \n ",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2025-12-06T04:23:01.495Z",
+      "id": "jvslvd"
+    },
+    {
+      "title": "6 Python Libraries That Turn Text Into Intelligence",
+      "url": "https://python.plainenglish.io/6-python-libraries-that-turn-text-into-intelligence-e3033ca9021f?source=rss----78073def27b8---4",
+      "source": "Python in Plain English",
+      "source_domain": "python.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2025-12-06T01:44:08.000Z",
+      "metaDescription": "NLP doesn’t have to be complicated.\nContinue reading on Python in Plain English »",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2025-12-06T04:22:40.404Z",
+      "id": "y2tdz9"
+    },
+    {
+      "title": "The Python + AI Stack Everyone Is Adopting Right Now",
+      "url": "https://ai.plainenglish.io/the-python-ai-stack-everyone-is-adopting-right-now-61429ae2c968?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2025-12-06T01:37:25.000Z",
+      "metaDescription": "Ollama, FastAPI, LangChain — your new power trio.\nContinue reading on Artificial Intelligence in Plain English »",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2025-12-06T04:22:41.601Z",
+      "id": "3cl8f6"
+    },
+    {
+      "title": "Call for Suggestions - what would you want to see in a Roleplaying-based/D&D-type LLM chat client?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1pfcrmq/call_for_suggestions_what_would_you_want_to_see/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2025-12-06T01:30:41.000Z",
+      "metaDescription": "I'm working on my 3rd major LLM chat client. My first used cloud models, my second used Ollama for inference, and this one uses VLLm. I'm fine-tuning a model just for the purpose of running roleplayin",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2025-12-06T04:22:55.159Z",
+      "id": "hvxmct"
+    },
+    {
+      "title": "Titan + MIRAS - new research paper by Google for Model Memory",
+      "url": "https://www.reddit.com/r/singularity/comments/1pfcqkn/titan_miras_new_research_paper_by_google_for/",
+      "source": "r/singularity",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "medium",
+      "pubDate": "2025-12-06T01:29:15.000Z",
+      "metaDescription": "https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/\n This seems to be very interesting and could lead to something. \n    submitted by    /u/Minimum_Indication_1  \n [link]   [co",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2025-12-06T04:22:50.679Z",
+      "id": "x639qd"
+    },
+    {
+      "title": "Geoffrey Hinton says rapid AI advancement could lead to social meltdown if it continues without guardrails",
+      "url": "https://www.reddit.com/r/singularity/comments/1pfcj9s/geoffrey_hinton_says_rapid_ai_advancement_could/",
+      "source": "r/singularity",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "medium",
+      "pubDate": "2025-12-06T01:19:14.000Z",
+      "metaDescription": "submitted by    /u/soldierofcinema  \n [link]   [comments]",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2025-12-06T04:22:50.075Z",
+      "id": "gblsgy"
+    },
     {
       "title": "Titans + MIRAS: Helping AI have long-term memory",
       "url": "https://www.reddit.com/r/singularity/comments/1pfcf8g/titans_miras_helping_ai_have_longterm_memory/",
@@ -16,7 +286,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:34.079Z",
+      "crawledAt": "2025-12-06T04:22:50.779Z",
       "id": "5d46al"
     },
     {
@@ -31,7 +301,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:01.168Z",
+      "crawledAt": "2025-12-06T04:23:18.132Z",
       "id": "v0lubp"
     },
     {
@@ -46,23 +316,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:40.636Z",
+      "crawledAt": "2025-12-06T04:22:52.479Z",
       "id": "jb6i1q"
-    },
-    {
-      "title": "Why people are panicking in regards to RAM prices.....",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1pfc7dc/why_people_are_panicking_in_regards_to_ram_prices/",
-      "source": "r/LocalLLaMA",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2025-12-06T01:03:24.000Z",
-      "metaDescription": "DDR6 specifications allow for huge RAM modules . In regards to LLMs it was obvious that consumers CPUs were actually locked at something like 128 or 192 GB MAX RAM support. \n Otherwise , with a proper",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2025-12-06T01:25:40.090Z",
-      "id": "nbs7hf"
     },
     {
       "title": "錢沒有不見，只是變成喜歡的形狀 💸",
@@ -76,7 +331,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:21.941Z",
+      "crawledAt": "2025-12-06T04:23:34.920Z",
       "id": "r8uap6"
     },
     {
@@ -91,8 +346,23 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:52.235Z",
+      "crawledAt": "2025-12-06T04:23:06.751Z",
       "id": "jt53d1"
+    },
+    {
+      "title": "ChatGPT brought something to my attention today",
+      "url": "https://www.reddit.com/r/ChatGPT/comments/1pfbx7z/chatgpt_brought_something_to_my_attention_today/",
+      "source": "r/ChatGPT",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "medium",
+      "pubDate": "2025-12-06T00:50:32.000Z",
+      "metaDescription": "I've been having an extra hard day so I messaged chatgpt to break down how to get out of my anxiety attack and get myself to work. It walked me through my day step by step and I told it when I got so ",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2025-12-06T04:23:01.674Z",
+      "id": "gk9ot8"
     },
     {
       "title": "Is there any model truly open, that you can train yourself from zero?",
@@ -106,7 +376,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:39.730Z",
+      "crawledAt": "2025-12-06T04:22:52.653Z",
       "id": "utbnt"
     },
     {
@@ -121,23 +391,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:35.207Z",
+      "crawledAt": "2025-12-06T04:22:46.513Z",
       "id": "dmhhfw"
-    },
-    {
-      "title": "Simulation of the mouse cortex",
-      "url": "https://www.reddit.com/r/singularity/comments/1pfbcdw/simulation_of_the_mouse_cortex_no_learning/",
-      "source": "r/singularity",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2025-12-06T00:23:31.000Z",
-      "metaDescription": "submitted by    /u/JonLag97  \n [link]   [comments]",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2025-12-06T01:25:33.978Z",
-      "id": "hearr8"
     },
     {
       "title": "Is there an AI that i can feed my short-form content to train it to then use it to automatically make clips ontop of my audio?",
@@ -151,7 +406,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:35.558Z",
+      "crawledAt": "2025-12-06T04:22:46.858Z",
       "id": "hurfna"
     },
     {
@@ -166,7 +421,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:45.987Z",
+      "crawledAt": "2025-12-06T04:21:56.328Z",
       "id": "qlwisy"
     },
     {
@@ -181,7 +436,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:46.203Z",
+      "crawledAt": "2025-12-06T04:21:56.488Z",
       "id": "kqnhor"
     },
     {
@@ -196,7 +451,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:50.890Z",
+      "crawledAt": "2025-12-06T04:23:04.792Z",
       "id": "3xeuzp"
     },
     {
@@ -211,7 +466,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:32.669Z",
+      "crawledAt": "2025-12-06T04:22:50.170Z",
       "id": "5qt642"
     },
     {
@@ -226,7 +481,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:51.484Z",
+      "crawledAt": "2025-12-06T04:23:04.973Z",
       "id": "cv67yf"
     },
     {
@@ -241,7 +496,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:35.723Z",
+      "crawledAt": "2025-12-06T04:22:47.019Z",
       "id": "c4t5m9"
     },
     {
@@ -256,23 +511,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:54.217Z",
+      "crawledAt": "2025-12-06T04:23:14.838Z",
       "id": "y11vr7"
-    },
-    {
-      "title": "She breaths easy🎶",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1pf9tsi/she_breaths_easy/",
-      "source": "r/StableDiffusion",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2025-12-05T23:16:17.000Z",
-      "metaDescription": "Z-Image + Wan 2.2 is blessed \n    submitted by    /u/Comed_Ai_n  \n [link]   [comments]",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2025-12-06T01:25:56.937Z",
-      "id": "tsxqqn"
     },
     {
       "title": "Is anyone else's ChatGPT assistant suddenly lobotomized?",
@@ -286,23 +526,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:43.349Z",
+      "crawledAt": "2025-12-06T04:23:01.117Z",
       "id": "40gojk"
-    },
-    {
-      "title": "ChatGPT pulling context from other chats not in shared memory",
-      "url": "https://www.reddit.com/r/ChatGPT/comments/1pf9r19/chatgpt_pulling_context_from_other_chats_not_in/",
-      "source": "r/ChatGPT",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2025-12-05T23:12:58.000Z",
-      "metaDescription": "Sorry if this has been talked about before, I wasn't certain how to search for this. \n I can create a chat, talk about a thing, and then create a new chat, and this new chat has memory of the first ch",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2025-12-06T01:25:44.188Z",
-      "id": "wvi6f1"
     },
     {
       "title": "AMD CEO Lisa Su “emphatically” rejects talk of an AI bubble — says claims are \"somewhat overstated” and that AI is still in its infancy | AMD CEO says long-term demand for compute will justify today’s rapid data-center buildout.",
@@ -316,7 +541,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:35.933Z",
+      "crawledAt": "2025-12-06T04:22:46.336Z",
       "id": "4d5uyx"
     },
     {
@@ -331,8 +556,23 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:00.624Z",
+      "crawledAt": "2025-12-06T04:23:17.608Z",
       "id": "wwyqzk"
+    },
+    {
+      "title": "An Ambitious Vision for Interpretability",
+      "url": "https://www.alignmentforum.org/posts/Hy6PX43HGgmfiTaKu/an-ambitious-vision-for-interpretability",
+      "source": "Alignment Forum",
+      "source_domain": "alignmentforum.org",
+      "source_category": "safety",
+      "source_priority": "high",
+      "pubDate": "2025-12-05T22:57:56.000Z",
+      "metaDescription": "Published on December 5, 2025 10:57 PM GMT\n\nThe goal of ambitious mechanistic interpretability (AMI) is to fully understand how neural networks work. While some have pivoted towards more pragmatic app",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2025-12-06T04:22:19.309Z",
+      "id": "j4m93f"
     },
     {
       "title": "Streaming service makes rare decision to lower its monthly fees",
@@ -346,7 +586,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:49.285Z",
+      "crawledAt": "2025-12-06T04:22:01.149Z",
       "id": "53qqsb"
     },
     {
@@ -361,7 +601,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:01.465Z",
+      "crawledAt": "2025-12-06T04:23:18.422Z",
       "id": "nkjpf7"
     },
     {
@@ -376,7 +616,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:39.915Z",
+      "crawledAt": "2025-12-06T04:22:53.819Z",
       "id": "swf5v5"
     },
     {
@@ -391,7 +631,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:52.918Z",
+      "crawledAt": "2025-12-06T04:22:06.520Z",
       "id": "araw2i"
     },
     {
@@ -406,7 +646,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:46.269Z",
+      "crawledAt": "2025-12-06T04:22:57.356Z",
       "id": "7c80qg"
     },
     {
@@ -421,7 +661,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:04.337Z",
+      "crawledAt": "2025-12-06T04:23:11.256Z",
       "id": "8jpj94"
     },
     {
@@ -436,7 +676,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:46.386Z",
+      "crawledAt": "2025-12-06T04:21:56.664Z",
       "id": "s4vypc"
     },
     {
@@ -451,7 +691,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:32.969Z",
+      "crawledAt": "2025-12-06T04:22:51.072Z",
       "id": "brymxu"
     },
     {
@@ -466,7 +706,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:54.642Z",
+      "crawledAt": "2025-12-06T04:23:15.042Z",
       "id": "g0r891"
     },
     {
@@ -481,7 +721,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:50.748Z",
+      "crawledAt": "2025-12-06T04:23:05.146Z",
       "id": "9geln"
     },
     {
@@ -496,7 +736,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:32.572Z",
+      "crawledAt": "2025-12-06T04:22:50.364Z",
       "id": "we8rh1"
     },
     {
@@ -511,7 +751,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:53.419Z",
+      "crawledAt": "2025-12-06T04:23:13.892Z",
       "id": "v6sc3u"
     },
     {
@@ -526,7 +766,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:33.396Z",
+      "crawledAt": "2025-12-06T04:22:51.276Z",
       "id": "cwpgcq"
     },
     {
@@ -541,7 +781,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:56.294Z",
+      "crawledAt": "2025-12-06T04:23:16.658Z",
       "id": "dvra83"
     },
     {
@@ -556,7 +796,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:42.947Z",
+      "crawledAt": "2025-12-06T04:23:00.919Z",
       "id": "mmwwna"
     },
     {
@@ -571,23 +811,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:56.496Z",
+      "crawledAt": "2025-12-06T04:23:16.271Z",
       "id": "9i79ow"
-    },
-    {
-      "title": "Richard Sutton discusses his OaK paper as path to AGI @NeurIPS",
-      "url": "https://www.reddit.com/r/singularity/comments/1pf6r58/richard_sutton_discusses_his_oak_paper_as_path_to/",
-      "source": "r/singularity",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2025-12-05T21:08:46.000Z",
-      "metaDescription": "mind you this isn't new, it came out a while back, just came up on my feed and I found it interesting given the timing of Google dropping the MIRAS and TITAN post-transformer architectures (another po",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2025-12-06T01:25:33.893Z",
-      "id": "2pz8pf"
     },
     {
       "title": "Gemini 3 Pro Vision benchmarks: Finally compares against Claude Opus 4.5 and GPT-5.1",
@@ -601,7 +826,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:31.813Z",
+      "crawledAt": "2025-12-06T04:22:49.431Z",
       "id": "tin83v"
     },
     {
@@ -616,23 +841,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:46.490Z",
+      "crawledAt": "2025-12-06T04:21:56.765Z",
       "id": "bkrvms"
-    },
-    {
-      "title": "HMLR – open-source memory system with perfect 1.00/1.00 RAGAS on every hard long-term-memory test",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1pf6juo/hmlr_opensource_memory_system_with_perfect_100100/",
-      "source": "r/LocalLLaMA",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2025-12-05T21:00:31.000Z",
-      "metaDescription": "Just shipped HMLR — a complete memory system that gives you “friend who never forgets” behavior on gpt-4.1-mini (or any OpenAI-compatible endpoint).\n Five tests everything else fails — all 1.00/1.00 R",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2025-12-06T01:25:40.334Z",
-      "id": "3gh7eb"
     },
     {
       "title": "For those of you with ai max+ 395 mini pc that have experience or no bias hate with mac computers: Would you recommend a max 395+ to someone where it currently or are you thinking of switching to or back to mac?",
@@ -646,7 +856,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:39.326Z",
+      "crawledAt": "2025-12-06T04:22:54.601Z",
       "id": "oqh0e3"
     },
     {
@@ -661,7 +871,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:34.590Z",
+      "crawledAt": "2025-12-06T04:22:45.693Z",
       "id": "2uzntt"
     },
     {
@@ -676,7 +886,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:56.645Z",
+      "crawledAt": "2025-12-06T04:23:17.207Z",
       "id": "sk2biw"
     },
     {
@@ -691,7 +901,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:35.029Z",
+      "crawledAt": "2025-12-06T04:22:46.012Z",
       "id": "h7pf3r"
     },
     {
@@ -706,7 +916,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:42.278Z",
+      "crawledAt": "2025-12-06T04:23:00.120Z",
       "id": "ugugqt"
     },
     {
@@ -721,7 +931,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:52.713Z",
+      "crawledAt": "2025-12-06T04:23:07.229Z",
       "id": "a23zo6"
     },
     {
@@ -736,7 +946,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:52.062Z",
+      "crawledAt": "2025-12-06T04:23:06.409Z",
       "id": "5buyhh"
     },
     {
@@ -751,53 +961,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:33.061Z",
+      "crawledAt": "2025-12-06T04:22:51.160Z",
       "id": "p1tf17"
-    },
-    {
-      "title": "Could OpenAI’s financial future hinge on teens making deepfakes?",
-      "url": "https://www.reddit.com/r/OpenAI/comments/1pf5md2/could_openais_financial_future_hinge_on_teens/",
-      "source": "r/OpenAI",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2025-12-05T20:22:45.000Z",
-      "metaDescription": "“A new California ballot initiative seeks to block OpenAI’s conversion to a for-profit corporation, potentially severing its lifeline to a $1 trillion IPO.\n If the ballot measure passes, the company’s",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2025-12-06T01:25:52.903Z",
-      "id": "gqsxzh"
-    },
-    {
-      "title": "How I Built a Ranking Directory Website with Codex + WordPress",
-      "url": "https://www.reddit.com/r/OpenAI/comments/1pf5fie/how_i_built_a_ranking_directory_website_with/",
-      "source": "r/OpenAI",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2025-12-05T20:15:12.000Z",
-      "metaDescription": "submitted by    /u/Keen_Hero  \n [link]   [comments]",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2025-12-06T01:25:53.003Z",
-      "id": "is95op"
-    },
-    {
-      "title": "Realtime API - echo cancellation when using speakers",
-      "url": "https://www.reddit.com/r/OpenAI/comments/1pf59g5/realtime_api_echo_cancellation_when_using_speakers/",
-      "source": "r/OpenAI",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2025-12-05T20:08:24.000Z",
-      "metaDescription": "I am putting together an agent via Realtime APIs (speetch-to-speech) to:\n - introduce itself and explain the reason for the call\n - confirm the person's identity\n - ask if it's ok to talk now or if th",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2025-12-06T01:25:53.188Z",
-      "id": "9w67nx"
     },
     {
       "title": "ChatGPT’s user growth has slowed, report finds",
@@ -811,7 +976,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:46.633Z",
+      "crawledAt": "2025-12-06T04:21:56.904Z",
       "id": "m7fo9y"
     },
     {
@@ -826,7 +991,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:55.315Z",
+      "crawledAt": "2025-12-06T04:23:16.076Z",
       "id": "v9wace"
     },
     {
@@ -841,7 +1006,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:41.291Z",
+      "crawledAt": "2025-12-06T04:22:54.822Z",
       "id": "b6g2h7"
     },
     {
@@ -856,7 +1021,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:51.204Z",
+      "crawledAt": "2025-12-06T04:23:05.458Z",
       "id": "op4i53"
     },
     {
@@ -871,7 +1036,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:35.248Z",
+      "crawledAt": "2025-12-06T04:21:43.974Z",
       "id": "blcup3"
     },
     {
@@ -886,7 +1051,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:38.761Z",
+      "crawledAt": "2025-12-06T04:22:53.456Z",
       "id": "d4m4td"
     },
     {
@@ -901,7 +1066,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:51.653Z",
+      "crawledAt": "2025-12-06T04:23:06.577Z",
       "id": "y9w50y"
     },
     {
@@ -916,7 +1081,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:55.474Z",
+      "crawledAt": "2025-12-06T04:23:15.849Z",
       "id": "mlnr2i"
     },
     {
@@ -931,23 +1096,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:41.920Z",
+      "crawledAt": "2025-12-06T04:22:59.910Z",
       "id": "golo7d"
-    },
-    {
-      "title": "Are you guys also noticing more push back?",
-      "url": "https://www.reddit.com/r/ChatGPT/comments/1pf47ef/are_you_guys_also_noticing_more_push_back/",
-      "source": "r/ChatGPT",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2025-12-05T19:27:05.000Z",
-      "metaDescription": "At first the conversations were more light, organized and mostly affirming. I use ChatGPT for mental health reasons. I know there are some lawsuits happening due to people unaliving themselves with th",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2025-12-06T01:25:44.657Z",
-      "id": "aspo1v"
     },
     {
       "title": "The Top 10 Most Expensive .AI Domains, is this a bubble or the new .com?",
@@ -961,7 +1111,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:36.421Z",
+      "crawledAt": "2025-12-06T04:22:47.502Z",
       "id": "swcddg"
     },
     {
@@ -976,7 +1126,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:01.005Z",
+      "crawledAt": "2025-12-06T04:23:17.974Z",
       "id": "27pkzd"
     },
     {
@@ -991,7 +1141,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:36.582Z",
+      "crawledAt": "2025-12-06T04:22:47.661Z",
       "id": "kr70k7"
     },
     {
@@ -1006,7 +1156,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:36.725Z",
+      "crawledAt": "2025-12-06T04:22:47.777Z",
       "id": "l9dviw"
     },
     {
@@ -1021,7 +1171,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:15.715Z",
+      "crawledAt": "2025-12-06T04:23:31.392Z",
       "id": "ycmda"
     },
     {
@@ -1036,7 +1186,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:36.923Z",
+      "crawledAt": "2025-12-06T04:22:47.972Z",
       "id": "zhx2sw"
     },
     {
@@ -1051,7 +1201,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:55.757Z",
+      "crawledAt": "2025-12-06T04:23:16.871Z",
       "id": "9w7t6c"
     },
     {
@@ -1066,7 +1216,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:39.062Z",
+      "crawledAt": "2025-12-06T04:22:54.118Z",
       "id": "sp3xf9"
     },
     {
@@ -1081,7 +1231,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:53.783Z",
+      "crawledAt": "2025-12-06T04:23:14.252Z",
       "id": "qb1iau"
     },
     {
@@ -1096,7 +1246,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:01.346Z",
+      "crawledAt": "2025-12-06T04:23:18.306Z",
       "id": "b0muw5"
     },
     {
@@ -1111,7 +1261,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:49.410Z",
+      "crawledAt": "2025-12-06T04:22:01.275Z",
       "id": "zapwaa"
     },
     {
@@ -1126,7 +1276,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:55.930Z",
+      "crawledAt": "2025-12-06T04:23:17.061Z",
       "id": "ykf4k9"
     },
     {
@@ -1141,7 +1291,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:42.669Z",
+      "crawledAt": "2025-12-06T04:23:00.649Z",
       "id": "224ims"
     },
     {
@@ -1156,7 +1306,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:42.446Z",
+      "crawledAt": "2025-12-06T04:23:00.286Z",
       "id": "5j6oas"
     },
     {
@@ -1171,7 +1321,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:37.022Z",
+      "crawledAt": "2025-12-06T04:22:48.070Z",
       "id": "k5xt66"
     },
     {
@@ -1186,7 +1336,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:46.831Z",
+      "crawledAt": "2025-12-06T04:21:57.098Z",
       "id": "i18dwq"
     },
     {
@@ -1201,7 +1351,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:50.573Z",
+      "crawledAt": "2025-12-06T04:23:04.494Z",
       "id": "rl07gg"
     },
     {
@@ -1216,7 +1366,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:46.992Z",
+      "crawledAt": "2025-12-06T04:21:57.254Z",
       "id": "uwla2x"
     },
     {
@@ -1231,7 +1381,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:31.569Z",
+      "crawledAt": "2025-12-06T04:22:49.003Z",
       "id": "2cbdg"
     },
     {
@@ -1246,7 +1396,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:14.827Z",
+      "crawledAt": "2025-12-06T04:22:37.031Z",
       "id": "8ronk5"
     },
     {
@@ -1261,7 +1411,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:32.191Z",
+      "crawledAt": "2025-12-06T04:23:41.926Z",
       "id": "o8fjhq"
     },
     {
@@ -1276,7 +1426,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:47.205Z",
+      "crawledAt": "2025-12-06T04:22:58.435Z",
       "id": "n1dnvq"
     },
     {
@@ -1291,7 +1441,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:55.082Z",
+      "crawledAt": "2025-12-06T04:23:15.491Z",
       "id": "uf6vpo"
     },
     {
@@ -1306,7 +1456,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:41.731Z",
+      "crawledAt": "2025-12-06T04:22:59.723Z",
       "id": "s30x6o"
     },
     {
@@ -1321,7 +1471,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:01.587Z",
+      "crawledAt": "2025-12-06T04:23:18.541Z",
       "id": "30rocc"
     },
     {
@@ -1336,7 +1486,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:33.487Z",
+      "crawledAt": "2025-12-06T04:22:51.580Z",
       "id": "whvdd4"
     },
     {
@@ -1351,7 +1501,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:49.515Z",
+      "crawledAt": "2025-12-06T04:22:01.380Z",
       "id": "7zbnuf"
     },
     {
@@ -1366,7 +1516,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:53.584Z",
+      "crawledAt": "2025-12-06T04:23:14.056Z",
       "id": "32nvea"
     },
     {
@@ -1381,7 +1531,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:56.350Z",
+      "crawledAt": "2025-12-06T04:22:09.487Z",
       "id": "jcz1xf"
     },
     {
@@ -1396,7 +1546,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:49.640Z",
+      "crawledAt": "2025-12-06T04:22:01.503Z",
       "id": "q6nwq0"
     },
     {
@@ -1411,7 +1561,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:34.858Z",
+      "crawledAt": "2025-12-06T04:22:45.844Z",
       "id": "fk9m68"
     },
     {
@@ -1426,7 +1576,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:25.943Z",
+      "crawledAt": "2025-12-06T04:22:41.751Z",
       "id": "x494am"
     },
     {
@@ -1441,7 +1591,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:37.621Z",
+      "crawledAt": "2025-12-06T04:22:51.961Z",
       "id": "anwr4w"
     },
     {
@@ -1456,7 +1606,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:34.278Z",
+      "crawledAt": "2025-12-06T04:22:45.389Z",
       "id": "jkupep"
     },
     {
@@ -1471,7 +1621,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:49.763Z",
+      "crawledAt": "2025-12-06T04:22:01.623Z",
       "id": "bi5a5i"
     },
     {
@@ -1486,7 +1636,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:14.916Z",
+      "crawledAt": "2025-12-06T04:22:37.116Z",
       "id": "y5mgns"
     },
     {
@@ -1501,7 +1651,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:42.063Z",
+      "crawledAt": "2025-12-06T04:23:00.428Z",
       "id": "3eyjpo"
     },
     {
@@ -1516,7 +1666,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:56.520Z",
+      "crawledAt": "2025-12-06T04:22:09.660Z",
       "id": "frkjis"
     },
     {
@@ -1531,7 +1681,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:42.792Z",
+      "crawledAt": "2025-12-06T04:23:00.769Z",
       "id": "srupeb"
     },
     {
@@ -1546,7 +1696,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:01.767Z",
+      "crawledAt": "2025-12-06T04:23:18.717Z",
       "id": "ql96t6"
     },
     {
@@ -1561,7 +1711,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:05.102Z",
+      "crawledAt": "2025-12-06T04:23:12.107Z",
       "id": "cso2u3"
     },
     {
@@ -1576,7 +1726,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:38.400Z",
+      "crawledAt": "2025-12-06T04:22:53.103Z",
       "id": "o0ec0e"
     },
     {
@@ -1591,7 +1741,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:49.888Z",
+      "crawledAt": "2025-12-06T04:22:01.745Z",
       "id": "xhkvb1"
     },
     {
@@ -1606,7 +1756,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:38.211Z",
+      "crawledAt": "2025-12-06T04:22:52.917Z",
       "id": "qu4i1i"
     },
     {
@@ -1621,7 +1771,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:45.333Z",
+      "crawledAt": "2025-12-06T04:22:56.242Z",
       "id": "kx6oft"
     },
     {
@@ -1636,7 +1786,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:47.142Z",
+      "crawledAt": "2025-12-06T04:21:57.403Z",
       "id": "cpjzfm"
     },
     {
@@ -1651,7 +1801,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:15.060Z",
+      "crawledAt": "2025-12-06T04:22:37.258Z",
       "id": "byhlu7"
     },
     {
@@ -1666,7 +1816,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:32.250Z",
+      "crawledAt": "2025-12-06T04:22:49.935Z",
       "id": "gxhvwa"
     },
     {
@@ -1681,7 +1831,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:35.406Z",
+      "crawledAt": "2025-12-06T04:21:44.132Z",
       "id": "mtlta9"
     },
     {
@@ -1696,7 +1846,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:35.507Z",
+      "crawledAt": "2025-12-06T04:21:44.233Z",
       "id": "63xivj"
     },
     {
@@ -1711,7 +1861,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:53.050Z",
+      "crawledAt": "2025-12-06T04:22:06.651Z",
       "id": "ru33sm"
     },
     {
@@ -1726,7 +1876,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:50.025Z",
+      "crawledAt": "2025-12-06T04:22:01.880Z",
       "id": "pm5plt"
     },
     {
@@ -1741,7 +1891,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:47.018Z",
+      "crawledAt": "2025-12-06T04:22:57.934Z",
       "id": "iu9zl"
     },
     {
@@ -1756,7 +1906,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:56.687Z",
+      "crawledAt": "2025-12-06T04:22:09.827Z",
       "id": "mt1irl"
     },
     {
@@ -1771,7 +1921,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:47.313Z",
+      "crawledAt": "2025-12-06T04:21:57.570Z",
       "id": "jdi1bj"
     },
     {
@@ -1786,7 +1936,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:40.437Z",
+      "crawledAt": "2025-12-06T04:22:54.922Z",
       "id": "x2j9yx"
     },
     {
@@ -1801,7 +1951,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:37.947Z",
+      "crawledAt": "2025-12-06T04:22:52.285Z",
       "id": "re1ezn"
     },
     {
@@ -1816,7 +1966,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:50.141Z",
+      "crawledAt": "2025-12-06T04:22:01.991Z",
       "id": "ehdxef"
     },
     {
@@ -1831,7 +1981,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:36.219Z",
+      "crawledAt": "2025-12-06T04:22:47.303Z",
       "id": "n6ud7y"
     },
     {
@@ -1846,7 +1996,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:51.577Z",
+      "crawledAt": "2025-12-06T04:24:05.451Z",
       "id": "xjlx2f"
     },
     {
@@ -1861,7 +2011,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:54.482Z",
+      "crawledAt": "2025-12-06T04:22:04.810Z",
       "id": "4invw8"
     },
     {
@@ -1876,7 +2026,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:00.829Z",
+      "crawledAt": "2025-12-06T04:23:17.802Z",
       "id": "zdhqut"
     },
     {
@@ -1891,7 +2041,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:57.482Z",
+      "crawledAt": "2025-12-06T04:23:07.803Z",
       "id": "sku1y1"
     },
     {
@@ -1906,7 +2056,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:46.453Z",
+      "crawledAt": "2025-12-06T04:22:56.993Z",
       "id": "mun4p5"
     },
     {
@@ -1921,7 +2071,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:45.710Z",
+      "crawledAt": "2025-12-06T04:22:56.615Z",
       "id": "srwsn9"
     },
     {
@@ -1936,7 +2086,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:15.168Z",
+      "crawledAt": "2025-12-06T04:22:37.360Z",
       "id": "lbq8mf"
     },
     {
@@ -1951,7 +2101,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:56.880Z",
+      "crawledAt": "2025-12-06T04:22:10.019Z",
       "id": "bib3ut"
     },
     {
@@ -1966,7 +2116,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:54.440Z",
+      "crawledAt": "2025-12-06T04:23:15.261Z",
       "id": "dxi9wq"
     },
     {
@@ -1981,7 +2131,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:48.170Z",
+      "crawledAt": "2025-12-06T04:22:58.789Z",
       "id": "jq9f2s"
     },
     {
@@ -1996,7 +2146,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:47.973Z",
+      "crawledAt": "2025-12-06T04:22:58.983Z",
       "id": "p8ceev"
     },
     {
@@ -2011,7 +2161,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:54.666Z",
+      "crawledAt": "2025-12-06T04:22:04.985Z",
       "id": "7lo3y6"
     },
     {
@@ -2026,7 +2176,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:32.369Z",
+      "crawledAt": "2025-12-06T04:22:50.480Z",
       "id": "w4gu4j"
     },
     {
@@ -2041,7 +2191,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:15.249Z",
+      "crawledAt": "2025-12-06T04:22:37.439Z",
       "id": "jebu39"
     },
     {
@@ -2056,7 +2206,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:38.596Z",
+      "crawledAt": "2025-12-06T04:22:53.294Z",
       "id": "mulcag"
     },
     {
@@ -2071,8 +2221,23 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:51.688Z",
+      "crawledAt": "2025-12-06T04:24:05.560Z",
       "id": "t70v9o"
+    },
+    {
+      "title": "AI denial is becoming an enterprise risk: Why dismissing “slop” obscures real capability gains",
+      "url": "https://venturebeat.com/ai/ai-denial-is-becoming-an-enterprise-risk-why-dismissing-slop-obscures-real",
+      "source": "VentureBeat",
+      "source_domain": "venturebeat.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2025-12-05T13:00:00.000Z",
+      "metaDescription": "Three years ago, ChatGPT was born. It amazed the world and ignited unprecedented investment and excitement in AI. Today, ChatGPT is still a toddler, but public sentiment around the AI boom has turned ",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2025-12-06T04:22:08.186Z",
+      "id": "w06vwn"
     },
     {
       "title": "How I Built 7 Tiny Python Tools That Earn While I Sleep",
@@ -2086,7 +2251,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:28.343Z",
+      "crawledAt": "2025-12-06T04:22:40.512Z",
       "id": "oz58dk"
     },
     {
@@ -2101,7 +2266,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:26.078Z",
+      "crawledAt": "2025-12-06T04:22:41.884Z",
       "id": "kml2h"
     },
     {
@@ -2116,7 +2281,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:28.461Z",
+      "crawledAt": "2025-12-06T04:22:40.628Z",
       "id": "999i8q"
     },
     {
@@ -2131,7 +2296,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:00.084Z",
+      "crawledAt": "2025-12-06T04:22:13.156Z",
       "id": "7uzhhj"
     },
     {
@@ -2146,7 +2311,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:01.951Z",
+      "crawledAt": "2025-12-06T04:23:18.897Z",
       "id": "3wznhl"
     },
     {
@@ -2161,7 +2326,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:43.066Z",
+      "crawledAt": "2025-12-06T04:23:01.327Z",
       "id": "n9ys10"
     },
     {
@@ -2176,7 +2341,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:00.239Z",
+      "crawledAt": "2025-12-06T04:22:13.311Z",
       "id": "35zvng"
     },
     {
@@ -2191,7 +2356,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:57.034Z",
+      "crawledAt": "2025-12-06T04:22:10.171Z",
       "id": "9kd3do"
     },
     {
@@ -2206,7 +2371,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:32.046Z",
+      "crawledAt": "2025-12-06T04:22:49.522Z",
       "id": "ml8jd6"
     },
     {
@@ -2221,7 +2386,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:50.242Z",
+      "crawledAt": "2025-12-06T04:22:02.090Z",
       "id": "55ic8d"
     },
     {
@@ -2236,7 +2401,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:43.594Z",
+      "crawledAt": "2025-12-06T04:23:01.998Z",
       "id": "tso3r6"
     },
     {
@@ -2251,7 +2416,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:15.371Z",
+      "crawledAt": "2025-12-06T04:22:37.560Z",
       "id": "iaemsq"
     },
     {
@@ -2266,23 +2431,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:50.375Z",
+      "crawledAt": "2025-12-06T04:22:02.222Z",
       "id": "o6t4f0"
-    },
-    {
-      "title": "Axe using badly made AI video for its official FIFA sponsorship ad",
-      "url": "https://www.reddit.com/r/ChatGPT/comments/1pet99f/axe_using_badly_made_ai_video_for_its_official/",
-      "source": "r/ChatGPT",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2025-12-05T12:00:09.000Z",
-      "metaDescription": "https://www.reddit.com/user/axe-global/comments/1pe26w2/axe_official_sponsor_of_the_fifa_world_cup_26_the/\n Why bother spending millions sponsoring FIFA if you can't even pay for a proper ad...\n    su",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2025-12-06T01:25:44.000Z",
-      "id": "cvzs1h"
     },
     {
       "title": "AI Slop Is Ruining Reddit for Everyone",
@@ -2296,7 +2446,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:53.196Z",
+      "crawledAt": "2025-12-06T04:22:06.815Z",
       "id": "5a37om"
     },
     {
@@ -2311,7 +2461,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:54.697Z",
+      "crawledAt": "2025-12-06T04:24:08.567Z",
       "id": "bwsvoz"
     },
     {
@@ -2326,7 +2476,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:52.913Z",
+      "crawledAt": "2025-12-06T04:24:06.767Z",
       "id": "qt87k4"
     },
     {
@@ -2341,23 +2491,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:53.983Z",
+      "crawledAt": "2025-12-06T04:23:14.605Z",
       "id": "ybfd0o"
-    },
-    {
-      "title": "Better & noise free new Euler scheduler . Now for Z-image too",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1peshga/better_noise_free_new_euler_scheduler_now_for/",
-      "source": "r/StableDiffusion",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2025-12-05T11:16:00.000Z",
-      "metaDescription": "https://github.com/erosDiffusion/ComfyUI-EulerDiscreteScheduler\n    submitted by    /u/Kulean_  \n [link]   [comments]",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2025-12-06T01:25:56.827Z",
-      "id": "31lyt"
     },
     {
       "title": "Multiview Image Generation using Flow Models",
@@ -2371,7 +2506,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:46.620Z",
+      "crawledAt": "2025-12-06T04:22:57.542Z",
       "id": "gszg6o"
     },
     {
@@ -2386,7 +2521,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:02.280Z",
+      "crawledAt": "2025-12-06T04:23:19.220Z",
       "id": "trct9m"
     },
     {
@@ -2401,7 +2536,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:54.833Z",
+      "crawledAt": "2025-12-06T04:22:05.149Z",
       "id": "eyxq4p"
     },
     {
@@ -2416,7 +2551,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:53.370Z",
+      "crawledAt": "2025-12-06T04:22:06.992Z",
       "id": "tfpzjx"
     },
     {
@@ -2431,7 +2566,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:37.825Z",
+      "crawledAt": "2025-12-06T04:22:52.165Z",
       "id": "z17od3"
     },
     {
@@ -2446,7 +2581,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:45.526Z",
+      "crawledAt": "2025-12-06T04:22:56.432Z",
       "id": "cgttqa"
     },
     {
@@ -2461,7 +2596,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:45.900Z",
+      "crawledAt": "2025-12-06T04:22:56.809Z",
       "id": "opic0"
     },
     {
@@ -2476,7 +2611,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:50.343Z",
+      "crawledAt": "2025-12-06T04:23:04.268Z",
       "id": "y6kdm6"
     },
     {
@@ -2491,7 +2626,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:55.013Z",
+      "crawledAt": "2025-12-06T04:22:05.328Z",
       "id": "d8rf1i"
     },
     {
@@ -2506,7 +2641,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:54.845Z",
+      "crawledAt": "2025-12-06T04:23:15.692Z",
       "id": "3jq381"
     },
     {
@@ -2521,7 +2656,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:04.454Z",
+      "crawledAt": "2025-12-06T04:23:11.474Z",
       "id": "8wks7k"
     },
     {
@@ -2536,7 +2671,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:32.859Z",
+      "crawledAt": "2025-12-06T04:22:50.966Z",
       "id": "6jk256"
     },
     {
@@ -2551,7 +2686,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:03.966Z",
+      "crawledAt": "2025-12-06T04:23:10.824Z",
       "id": "c3nrh2"
     },
     {
@@ -2566,7 +2701,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:53.073Z",
+      "crawledAt": "2025-12-06T04:24:06.925Z",
       "id": "2mln26"
     },
     {
@@ -2581,7 +2716,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:39.553Z",
+      "crawledAt": "2025-12-06T04:22:54.342Z",
       "id": "guoqvn"
     },
     {
@@ -2596,7 +2731,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:04.862Z",
+      "crawledAt": "2025-12-06T04:23:11.870Z",
       "id": "hqulm0"
     },
     {
@@ -2611,23 +2746,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:43.150Z",
+      "crawledAt": "2025-12-06T04:23:01.757Z",
       "id": "6gfqxr"
-    },
-    {
-      "title": "Qwen3-Next-80B-A3B or Gpt-oss-120b?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1pepwnn/qwen3next80ba3b_or_gptoss120b/",
-      "source": "r/LocalLLaMA",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2025-12-05T08:32:39.000Z",
-      "metaDescription": "I mainly used Gpt-oss-120b (High reasoning) in the last months (summarizing, knowledge search, complex reasoning) and it proved very useful. Apart from being censored heavily (sometimes in a quite irr",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2025-12-06T01:25:40.853Z",
-      "id": "hl9wqg"
     },
     {
       "title": "30-Step Roadmap to Master AI in 2025: A Complete Learning Guide",
@@ -2641,7 +2761,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:26.156Z",
+      "crawledAt": "2025-12-06T04:22:41.960Z",
       "id": "w5eea7"
     },
     {
@@ -2656,7 +2776,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:26.243Z",
+      "crawledAt": "2025-12-06T04:22:42.045Z",
       "id": "gnuij4"
     },
     {
@@ -2671,7 +2791,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:47.687Z",
+      "crawledAt": "2025-12-06T04:22:58.594Z",
       "id": "98d84a"
     },
     {
@@ -2686,7 +2806,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:51.319Z",
+      "crawledAt": "2025-12-06T04:23:05.569Z",
       "id": "oh0z3p"
     },
     {
@@ -2701,7 +2821,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:33.276Z",
+      "crawledAt": "2025-12-06T04:22:51.492Z",
       "id": "9b6r27"
     },
     {
@@ -2716,7 +2836,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:02.179Z",
+      "crawledAt": "2025-12-06T04:23:19.122Z",
       "id": "prtnqs"
     },
     {
@@ -2731,7 +2851,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:51.875Z",
+      "crawledAt": "2025-12-06T04:23:05.998Z",
       "id": "ytl2m9"
     },
     {
@@ -2746,7 +2866,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:04.968Z",
+      "crawledAt": "2025-12-06T04:23:11.972Z",
       "id": "knm1ez"
     },
     {
@@ -2761,23 +2881,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:28.569Z",
+      "crawledAt": "2025-12-06T04:22:40.739Z",
       "id": "irz89v"
-    },
-    {
-      "title": "I love using ChatGPT but this company is malignant.",
-      "url": "https://www.reddit.com/r/ChatGPT/comments/1peogzq/i_love_using_chatgpt_but_this_company_is_malignant/",
-      "source": "r/ChatGPT",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2025-12-05T06:59:00.000Z",
-      "metaDescription": "Look what they just did to the global RAM prices? It's clear they want to hamper decentralized AI usage and more generally are just anti-competitive.\n When are we going to boycott? Let's get organized",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2025-12-06T01:25:44.377Z",
-      "id": "r53myt"
     },
     {
       "title": "Kling O1 Video Model Finally Resolves Character Consistency",
@@ -2791,7 +2896,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:27.011Z",
+      "crawledAt": "2025-12-06T04:22:42.743Z",
       "id": "fe7059"
     },
     {
@@ -2806,7 +2911,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:51.045Z",
+      "crawledAt": "2025-12-06T04:23:05.301Z",
       "id": "8b7bav"
     },
     {
@@ -2821,23 +2926,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:11.159Z",
+      "crawledAt": "2025-12-06T04:23:24.979Z",
       "id": "a7es6g"
-    },
-    {
-      "title": "I asked chatgpt to create a image of a alphabet rhyme for kids",
-      "url": "https://www.reddit.com/r/ChatGPT/comments/1penj7j/i_asked_chatgpt_to_create_a_image_of_a_alphabet/",
-      "source": "r/ChatGPT",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2025-12-05T06:02:30.000Z",
-      "metaDescription": "submitted by    /u/Sorry_Inevitable_998  \n [link]   [comments]",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2025-12-06T01:25:44.496Z",
-      "id": "u7mv8h"
     },
     {
       "title": "Why Reinforcement Learning Environments Are Redefining Data Science Workflows",
@@ -2851,7 +2941,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:15.515Z",
+      "crawledAt": "2025-12-06T04:22:37.703Z",
       "id": "qjx3ir"
     },
     {
@@ -2866,7 +2956,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:15.576Z",
+      "crawledAt": "2025-12-06T04:22:37.763Z",
       "id": "df0lz6"
     },
     {
@@ -2881,7 +2971,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:15.643Z",
+      "crawledAt": "2025-12-06T04:22:37.830Z",
       "id": "wpuay3"
     },
     {
@@ -2896,7 +2986,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:15.724Z",
+      "crawledAt": "2025-12-06T04:22:37.908Z",
       "id": "lr727n"
     },
     {
@@ -2911,7 +3001,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:27.074Z",
+      "crawledAt": "2025-12-06T04:22:42.805Z",
       "id": "avhmqc"
     },
     {
@@ -2926,7 +3016,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:27.233Z",
+      "crawledAt": "2025-12-06T04:22:42.962Z",
       "id": "hnawf0"
     },
     {
@@ -2941,7 +3031,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:27.306Z",
+      "crawledAt": "2025-12-06T04:22:43.062Z",
       "id": "9ruu98"
     },
     {
@@ -2956,7 +3046,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:27.371Z",
+      "crawledAt": "2025-12-06T04:22:43.126Z",
       "id": "vu9o2g"
     },
     {
@@ -2971,7 +3061,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:27.538Z",
+      "crawledAt": "2025-12-06T04:22:43.292Z",
       "id": "bomny0"
     },
     {
@@ -2986,7 +3076,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:28.690Z",
+      "crawledAt": "2025-12-06T04:22:40.857Z",
       "id": "lhjkzj"
     },
     {
@@ -3001,7 +3091,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:47.381Z",
+      "crawledAt": "2025-12-06T04:22:58.108Z",
       "id": "rf4m1w"
     },
     {
@@ -3016,7 +3106,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:26.360Z",
+      "crawledAt": "2025-12-06T04:23:43.104Z",
       "id": "hi95mg"
     },
     {
@@ -3031,7 +3121,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:26.554Z",
+      "crawledAt": "2025-12-06T04:23:43.290Z",
       "id": "4z7j3a"
     },
     {
@@ -3046,7 +3136,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:26.738Z",
+      "crawledAt": "2025-12-06T04:23:43.471Z",
       "id": "35j5d7"
     },
     {
@@ -3061,7 +3151,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:26.920Z",
+      "crawledAt": "2025-12-06T04:23:43.650Z",
       "id": "9hybhd"
     },
     {
@@ -3076,7 +3166,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:27.103Z",
+      "crawledAt": "2025-12-06T04:23:43.831Z",
       "id": "u2ij4s"
     },
     {
@@ -3091,7 +3181,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:27.288Z",
+      "crawledAt": "2025-12-06T04:23:44.013Z",
       "id": "ucfxbe"
     },
     {
@@ -3106,7 +3196,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:27.465Z",
+      "crawledAt": "2025-12-06T04:23:44.187Z",
       "id": "9wgwrj"
     },
     {
@@ -3121,7 +3211,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:27.659Z",
+      "crawledAt": "2025-12-06T04:23:44.379Z",
       "id": "3gpp4p"
     },
     {
@@ -3136,7 +3226,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:27.848Z",
+      "crawledAt": "2025-12-06T04:23:44.566Z",
       "id": "hq78oi"
     },
     {
@@ -3151,7 +3241,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:28.031Z",
+      "crawledAt": "2025-12-06T04:23:44.744Z",
       "id": "kstlat"
     },
     {
@@ -3166,7 +3256,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:28.220Z",
+      "crawledAt": "2025-12-06T04:23:44.932Z",
       "id": "u7wesg"
     },
     {
@@ -3181,7 +3271,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:28.397Z",
+      "crawledAt": "2025-12-06T04:23:45.107Z",
       "id": "2vqk2x"
     },
     {
@@ -3196,7 +3286,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:28.598Z",
+      "crawledAt": "2025-12-06T04:23:45.300Z",
       "id": "3a029j"
     },
     {
@@ -3211,7 +3301,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:28.780Z",
+      "crawledAt": "2025-12-06T04:23:45.478Z",
       "id": "33j2c2"
     },
     {
@@ -3226,7 +3316,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:28.980Z",
+      "crawledAt": "2025-12-06T04:23:45.677Z",
       "id": "gaa49d"
     },
     {
@@ -3241,7 +3331,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:45.168Z",
+      "crawledAt": "2025-12-06T04:24:01.564Z",
       "id": "q4b5ec"
     },
     {
@@ -3256,7 +3346,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:45.343Z",
+      "crawledAt": "2025-12-06T04:24:01.739Z",
       "id": "4a3hn7"
     },
     {
@@ -3271,7 +3361,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:45.510Z",
+      "crawledAt": "2025-12-06T04:24:01.907Z",
       "id": "3vcvs1"
     },
     {
@@ -3286,7 +3376,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:45.691Z",
+      "crawledAt": "2025-12-06T04:24:02.086Z",
       "id": "ftku1w"
     },
     {
@@ -3301,7 +3391,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:45.871Z",
+      "crawledAt": "2025-12-06T04:24:02.266Z",
       "id": "uj57rb"
     },
     {
@@ -3316,7 +3406,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:46.027Z",
+      "crawledAt": "2025-12-06T04:24:02.421Z",
       "id": "ijnzpf"
     },
     {
@@ -3331,7 +3421,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:46.199Z",
+      "crawledAt": "2025-12-06T04:24:02.593Z",
       "id": "2pv6mq"
     },
     {
@@ -3346,7 +3436,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:46.422Z",
+      "crawledAt": "2025-12-06T04:24:02.816Z",
       "id": "y7tf75"
     },
     {
@@ -3361,7 +3451,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:46.614Z",
+      "crawledAt": "2025-12-06T04:24:03.009Z",
       "id": "2508je"
     },
     {
@@ -3376,7 +3466,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:46.798Z",
+      "crawledAt": "2025-12-06T04:24:03.194Z",
       "id": "r88z1w"
     },
     {
@@ -3391,7 +3481,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:46.997Z",
+      "crawledAt": "2025-12-06T04:24:03.391Z",
       "id": "7g7bda"
     },
     {
@@ -3406,7 +3496,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:47.200Z",
+      "crawledAt": "2025-12-06T04:24:03.593Z",
       "id": "24spg3"
     },
     {
@@ -3421,7 +3511,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:47.371Z",
+      "crawledAt": "2025-12-06T04:24:03.764Z",
       "id": "z04dhz"
     },
     {
@@ -3436,7 +3526,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:47.548Z",
+      "crawledAt": "2025-12-06T04:24:03.945Z",
       "id": "fny53j"
     },
     {
@@ -3451,7 +3541,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:47.737Z",
+      "crawledAt": "2025-12-06T04:24:04.132Z",
       "id": "9duked"
     },
     {
@@ -3466,7 +3556,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:39.370Z",
+      "crawledAt": "2025-12-06T04:23:52.965Z",
       "id": "a150wf"
     },
     {
@@ -3481,7 +3571,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:39.552Z",
+      "crawledAt": "2025-12-06T04:23:53.145Z",
       "id": "y4ax7b"
     },
     {
@@ -3496,7 +3586,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:39.762Z",
+      "crawledAt": "2025-12-06T04:23:53.353Z",
       "id": "44ylv3"
     },
     {
@@ -3511,7 +3601,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:39.942Z",
+      "crawledAt": "2025-12-06T04:23:53.530Z",
       "id": "6nmfcq"
     },
     {
@@ -3526,7 +3616,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:40.153Z",
+      "crawledAt": "2025-12-06T04:23:53.738Z",
       "id": "byqdbk"
     },
     {
@@ -3541,7 +3631,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:40.323Z",
+      "crawledAt": "2025-12-06T04:23:53.905Z",
       "id": "saq1zb"
     },
     {
@@ -3556,7 +3646,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:40.521Z",
+      "crawledAt": "2025-12-06T04:23:54.100Z",
       "id": "x35514"
     },
     {
@@ -3571,7 +3661,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:40.726Z",
+      "crawledAt": "2025-12-06T04:23:54.298Z",
       "id": "c9rtyk"
     },
     {
@@ -3586,7 +3676,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:40.888Z",
+      "crawledAt": "2025-12-06T04:23:54.463Z",
       "id": "qdwslp"
     },
     {
@@ -3601,7 +3691,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:41.089Z",
+      "crawledAt": "2025-12-06T04:23:54.661Z",
       "id": "h9ou09"
     },
     {
@@ -3616,7 +3706,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:41.281Z",
+      "crawledAt": "2025-12-06T04:23:54.852Z",
       "id": "477xcu"
     },
     {
@@ -3631,7 +3721,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:41.447Z",
+      "crawledAt": "2025-12-06T04:23:55.034Z",
       "id": "x3azrg"
     },
     {
@@ -3646,7 +3736,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:41.660Z",
+      "crawledAt": "2025-12-06T04:23:55.246Z",
       "id": "43dks8"
     },
     {
@@ -3661,7 +3751,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:41.848Z",
+      "crawledAt": "2025-12-06T04:23:55.435Z",
       "id": "ye6qn1"
     },
     {
@@ -3676,8 +3766,233 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:42.040Z",
+      "crawledAt": "2025-12-06T04:23:55.625Z",
       "id": "sd15vz"
+    },
+    {
+      "title": "On GRPO Collapse in Search-R1: The Lazy Likelihood-Displacement Death Spiral",
+      "url": "https://arxiv.org/abs/2512.04220",
+      "source": "arXiv Computation and Language",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2025-12-05T05:00:00.000Z",
+      "metaDescription": "arXiv:2512.04220v1 Announce Type: new \nAbstract: Tool-integrated (TI) reinforcement learning (RL) enables large language models (LLMs) to perform multi-step reasoning by interacting with external tool",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2025-12-06T04:23:55.845Z",
+      "id": "wl5up8"
+    },
+    {
+      "title": "Computational Linguistics Meets Libyan Dialect: A Study on Dialect Identification",
+      "url": "https://arxiv.org/abs/2512.04257",
+      "source": "arXiv Computation and Language",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2025-12-05T05:00:00.000Z",
+      "metaDescription": "arXiv:2512.04257v1 Announce Type: new \nAbstract: This study investigates logistic regression, linear support vector machine, multinomial Naive Bayes, and Bernoulli Naive Bayes for classifying Libyan d",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2025-12-06T04:23:56.029Z",
+      "id": "pe9zpz"
+    },
+    {
+      "title": "SQuARE: Structured Query & Adaptive Retrieval Engine For Tabular Formats",
+      "url": "https://arxiv.org/abs/2512.04292",
+      "source": "arXiv Computation and Language",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2025-12-05T05:00:00.000Z",
+      "metaDescription": "arXiv:2512.04292v1 Announce Type: new \nAbstract: Accurate question answering over real spreadsheets remains difficult due to multirow headers, merged cells, and unit annotations that disrupt naive chu",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2025-12-06T04:23:56.209Z",
+      "id": "nfh6ay"
+    },
+    {
+      "title": "DAComp: Benchmarking Data Agents across the Full Data Intelligence Lifecycle",
+      "url": "https://arxiv.org/abs/2512.04324",
+      "source": "arXiv Computation and Language",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2025-12-05T05:00:00.000Z",
+      "metaDescription": "arXiv:2512.04324v1 Announce Type: new \nAbstract: Real-world enterprise data intelligence workflows encompass data engineering that turns raw sources into analytical-ready tables and data analysis that",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2025-12-06T04:23:56.388Z",
+      "id": "iibfpt"
+    },
+    {
+      "title": "ClusterFusion: Hybrid Clustering with Embedding Guidance and LLM Adaptation",
+      "url": "https://arxiv.org/abs/2512.04350",
+      "source": "arXiv Computation and Language",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2025-12-05T05:00:00.000Z",
+      "metaDescription": "arXiv:2512.04350v1 Announce Type: new \nAbstract: Text clustering is a fundamental task in natural language processing, yet traditional clustering algorithms with pre-trained embeddings often struggle ",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2025-12-06T04:23:56.569Z",
+      "id": "w1azab"
+    },
+    {
+      "title": "LangSAT: A Novel Framework Combining NLP and Reinforcement Learning for SAT Solving",
+      "url": "https://arxiv.org/abs/2512.04374",
+      "source": "arXiv Computation and Language",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2025-12-05T05:00:00.000Z",
+      "metaDescription": "arXiv:2512.04374v1 Announce Type: new \nAbstract: Our work presents a novel reinforcement learning (RL) based framework to optimize heuristic selection within the conflict-driven clause learning (CDCL)",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2025-12-06T04:23:56.764Z",
+      "id": "iyinjr"
+    },
+    {
+      "title": "MASE: Interpretable NLP Models via Model-Agnostic Saliency Estimation",
+      "url": "https://arxiv.org/abs/2512.04386",
+      "source": "arXiv Computation and Language",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2025-12-05T05:00:00.000Z",
+      "metaDescription": "arXiv:2512.04386v1 Announce Type: new \nAbstract: Deep neural networks (DNNs) have made significant strides in Natural Language Processing (NLP), yet their interpretability remains elusive, particularl",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2025-12-06T04:23:56.958Z",
+      "id": "tv3zw0"
+    },
+    {
+      "title": "Sarcasm Detection on Reddit Using Classical Machine Learning and Feature Engineering",
+      "url": "https://arxiv.org/abs/2512.04396",
+      "source": "arXiv Computation and Language",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2025-12-05T05:00:00.000Z",
+      "metaDescription": "arXiv:2512.04396v1 Announce Type: new \nAbstract: Sarcasm is common in online discussions, yet difficult for machines to identify because the intended meaning often contradicts the literal wording. In ",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2025-12-06T04:23:57.132Z",
+      "id": "db7umh"
+    },
+    {
+      "title": "RapidUn: Influence-Driven Parameter Reweighting for Efficient Large Language Model Unlearning",
+      "url": "https://arxiv.org/abs/2512.04457",
+      "source": "arXiv Computation and Language",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2025-12-05T05:00:00.000Z",
+      "metaDescription": "arXiv:2512.04457v1 Announce Type: new \nAbstract: Removing specific data influence from large language models (LLMs) remains challenging, as retraining is costly and existing approximate unlearning met",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2025-12-06T04:23:57.329Z",
+      "id": "1jghmd"
+    },
+    {
+      "title": "MSME: A Multi-Stage Multi-Expert Framework for Zero-Shot Stance Detection",
+      "url": "https://arxiv.org/abs/2512.04492",
+      "source": "arXiv Computation and Language",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2025-12-05T05:00:00.000Z",
+      "metaDescription": "arXiv:2512.04492v1 Announce Type: new \nAbstract: LLM-based approaches have recently achieved impressive results in zero-shot stance detection. However, they still struggle in complex real-world scenar",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2025-12-06T04:23:57.523Z",
+      "id": "2knowo"
+    },
+    {
+      "title": "UW-BioNLP at ChemoTimelines 2025: Thinking, Fine-Tuning, and Dictionary-Enhanced LLM Systems for Chemotherapy Timeline Extraction",
+      "url": "https://arxiv.org/abs/2512.04518",
+      "source": "arXiv Computation and Language",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2025-12-05T05:00:00.000Z",
+      "metaDescription": "arXiv:2512.04518v1 Announce Type: new \nAbstract: The ChemoTimelines shared task benchmarks methods for constructing timelines of systemic anticancer treatment from electronic health records of cancer ",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2025-12-06T04:23:57.746Z",
+      "id": "y7lpzl"
+    },
+    {
+      "title": "EvoEdit: Lifelong Free-Text Knowledge Editing through Latent Perturbation Augmentation and Knowledge-driven Parameter Fusion",
+      "url": "https://arxiv.org/abs/2512.04545",
+      "source": "arXiv Computation and Language",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2025-12-05T05:00:00.000Z",
+      "metaDescription": "arXiv:2512.04545v1 Announce Type: new \nAbstract: Adjusting the outdated knowledge of large language models (LLMs) after deployment remains a major challenge. This difficulty has spurred the developmen",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2025-12-06T04:23:57.954Z",
+      "id": "u6s5de"
+    },
+    {
+      "title": "AdmTree: Compressing Lengthy Context with Adaptive Semantic Trees",
+      "url": "https://arxiv.org/abs/2512.04550",
+      "source": "arXiv Computation and Language",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2025-12-05T05:00:00.000Z",
+      "metaDescription": "arXiv:2512.04550v1 Announce Type: new \nAbstract: The quadratic complexity of self-attention constrains Large Language Models (LLMs) in processing long contexts, a capability essential for many advance",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2025-12-06T04:23:58.133Z",
+      "id": "5ysu8a"
+    },
+    {
+      "title": "ADAPT: Learning Task Mixtures for Budget-Constrained Instruction Tuning",
+      "url": "https://arxiv.org/abs/2512.04555",
+      "source": "arXiv Computation and Language",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2025-12-05T05:00:00.000Z",
+      "metaDescription": "arXiv:2512.04555v1 Announce Type: new \nAbstract: We propose ADAPT, a meta-learning algorithm that \\emph{learns} task sampling proportions under an explicit token budget for multi-task instruction tuni",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2025-12-06T04:23:58.317Z",
+      "id": "4w4ef6"
+    },
+    {
+      "title": "LexGenius: An Expert-Level Benchmark for Large Language Models in Legal General Intelligence",
+      "url": "https://arxiv.org/abs/2512.04578",
+      "source": "arXiv Computation and Language",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2025-12-05T05:00:00.000Z",
+      "metaDescription": "arXiv:2512.04578v1 Announce Type: new \nAbstract: Legal general intelligence (GI) refers to artificial intelligence (AI) that encompasses legal understanding, reasoning, and decision-making, simulating",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2025-12-06T04:23:58.506Z",
+      "id": "e25c65"
     },
     {
       "title": "ConsentDiff at Scale: Longitudinal Audits of Web Privacy Policy Changes and UI Frictions",
@@ -3691,7 +4006,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:42.242Z",
+      "crawledAt": "2025-12-06T04:23:50.056Z",
       "id": "sem935"
     },
     {
@@ -3706,7 +4021,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:42.418Z",
+      "crawledAt": "2025-12-06T04:23:50.230Z",
       "id": "wqoje"
     },
     {
@@ -3721,7 +4036,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:42.608Z",
+      "crawledAt": "2025-12-06T04:23:50.421Z",
       "id": "z4e8pg"
     },
     {
@@ -3736,7 +4051,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:42.805Z",
+      "crawledAt": "2025-12-06T04:23:50.617Z",
       "id": "aj0ry0"
     },
     {
@@ -3751,7 +4066,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:42.997Z",
+      "crawledAt": "2025-12-06T04:23:50.807Z",
       "id": "skfbg1"
     },
     {
@@ -3766,7 +4081,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:43.180Z",
+      "crawledAt": "2025-12-06T04:23:50.989Z",
       "id": "4bg45i"
     },
     {
@@ -3781,7 +4096,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:43.390Z",
+      "crawledAt": "2025-12-06T04:23:51.196Z",
       "id": "ftrn0w"
     },
     {
@@ -3796,7 +4111,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:43.576Z",
+      "crawledAt": "2025-12-06T04:23:51.379Z",
       "id": "nljnhj"
     },
     {
@@ -3811,7 +4126,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:43.771Z",
+      "crawledAt": "2025-12-06T04:23:51.571Z",
       "id": "ro6ofe"
     },
     {
@@ -3826,7 +4141,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:43.990Z",
+      "crawledAt": "2025-12-06T04:23:51.770Z",
       "id": "tgjgqe"
     },
     {
@@ -3841,7 +4156,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:44.173Z",
+      "crawledAt": "2025-12-06T04:23:51.952Z",
       "id": "jjc895"
     },
     {
@@ -3856,7 +4171,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:44.360Z",
+      "crawledAt": "2025-12-06T04:23:52.139Z",
       "id": "i0iuup"
     },
     {
@@ -3871,7 +4186,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:44.548Z",
+      "crawledAt": "2025-12-06T04:23:52.326Z",
       "id": "9dw7ar"
     },
     {
@@ -3886,7 +4201,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:44.751Z",
+      "crawledAt": "2025-12-06T04:23:52.525Z",
       "id": "4h5ygc"
     },
     {
@@ -3901,7 +4216,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:44.945Z",
+      "crawledAt": "2025-12-06T04:23:52.726Z",
       "id": "opq2jd"
     },
     {
@@ -3916,7 +4231,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:36.435Z",
+      "crawledAt": "2025-12-06T04:23:58.699Z",
       "id": "em0069"
     },
     {
@@ -3931,7 +4246,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:36.813Z",
+      "crawledAt": "2025-12-06T04:23:59.070Z",
       "id": "jn7uev"
     },
     {
@@ -3946,7 +4261,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:36.996Z",
+      "crawledAt": "2025-12-06T04:23:59.249Z",
       "id": "uuo58v"
     },
     {
@@ -3961,7 +4276,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:37.592Z",
+      "crawledAt": "2025-12-06T04:23:59.834Z",
       "id": "bydlhy"
     },
     {
@@ -3976,7 +4291,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:37.777Z",
+      "crawledAt": "2025-12-06T04:24:00.016Z",
       "id": "i0ohcu"
     },
     {
@@ -3991,7 +4306,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:37.968Z",
+      "crawledAt": "2025-12-06T04:24:00.200Z",
       "id": "a1cl8k"
     },
     {
@@ -4006,7 +4321,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:38.151Z",
+      "crawledAt": "2025-12-06T04:24:00.382Z",
       "id": "jt57os"
     },
     {
@@ -4021,7 +4336,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:38.340Z",
+      "crawledAt": "2025-12-06T04:24:00.568Z",
       "id": "ly78ml"
     },
     {
@@ -4036,7 +4351,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:38.535Z",
+      "crawledAt": "2025-12-06T04:24:00.761Z",
       "id": "lgkdv2"
     },
     {
@@ -4051,7 +4366,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:38.727Z",
+      "crawledAt": "2025-12-06T04:24:00.950Z",
       "id": "gtmeoy"
     },
     {
@@ -4066,7 +4381,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:38.924Z",
+      "crawledAt": "2025-12-06T04:24:01.143Z",
       "id": "u10r2h"
     },
     {
@@ -4081,7 +4396,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:39.128Z",
+      "crawledAt": "2025-12-06T04:24:01.341Z",
       "id": "o087h"
     },
     {
@@ -4096,7 +4411,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:27.606Z",
+      "crawledAt": "2025-12-06T04:22:43.359Z",
       "id": "102f2z"
     },
     {
@@ -4111,7 +4426,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:27.742Z",
+      "crawledAt": "2025-12-06T04:22:43.493Z",
       "id": "klrjph"
     },
     {
@@ -4126,7 +4441,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:27.827Z",
+      "crawledAt": "2025-12-06T04:22:43.568Z",
       "id": "ormb1l"
     },
     {
@@ -4141,7 +4456,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:27.985Z",
+      "crawledAt": "2025-12-06T04:22:43.722Z",
       "id": "59zjej"
     },
     {
@@ -4156,7 +4471,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:55.567Z",
+      "crawledAt": "2025-12-06T04:23:16.363Z",
       "id": "r0nkon"
     },
     {
@@ -4171,7 +4486,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:24.725Z",
+      "crawledAt": "2025-12-06T04:22:39.249Z",
       "id": "bxd3un"
     },
     {
@@ -4186,7 +4501,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:24.853Z",
+      "crawledAt": "2025-12-06T04:22:39.377Z",
       "id": "4lxled"
     },
     {
@@ -4201,7 +4516,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:24.926Z",
+      "crawledAt": "2025-12-06T04:22:39.447Z",
       "id": "p4f5vb"
     },
     {
@@ -4216,7 +4531,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:25.065Z",
+      "crawledAt": "2025-12-06T04:22:39.584Z",
       "id": "pisr07"
     },
     {
@@ -4231,7 +4546,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:25.247Z",
+      "crawledAt": "2025-12-06T04:22:39.772Z",
       "id": "pu0jzs"
     },
     {
@@ -4246,7 +4561,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:25.356Z",
+      "crawledAt": "2025-12-06T04:22:39.873Z",
       "id": "bsef33"
     },
     {
@@ -4261,7 +4576,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:25.505Z",
+      "crawledAt": "2025-12-06T04:22:40.020Z",
       "id": "t1q4rp"
     },
     {
@@ -4276,7 +4591,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:25.561Z",
+      "crawledAt": "2025-12-06T04:22:40.075Z",
       "id": "ieu2pb"
     },
     {
@@ -4291,7 +4606,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:25.631Z",
+      "crawledAt": "2025-12-06T04:22:40.145Z",
       "id": "yc3jn9"
     },
     {
@@ -4306,7 +4621,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:25.783Z",
+      "crawledAt": "2025-12-06T04:22:40.301Z",
       "id": "24l6u7"
     },
     {
@@ -4321,7 +4636,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:05.204Z",
+      "crawledAt": "2025-12-06T04:23:12.205Z",
       "id": "axbqhu"
     },
     {
@@ -4336,7 +4651,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:05.381Z",
+      "crawledAt": "2025-12-06T04:23:12.381Z",
       "id": "j2r9yc"
     },
     {
@@ -4351,8 +4666,23 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:52.432Z",
+      "crawledAt": "2025-12-06T04:23:06.947Z",
       "id": "54rr8q"
+    },
+    {
+      "title": "TDS Newsletter: How to Design Evals, Metrics, and KPIs That Work",
+      "url": "https://towardsdatascience.com/tds-newsletter-how-to-design-evals-metrics-and-kpis-that-work/",
+      "source": "Towards Data Science",
+      "source_domain": "towardsdatascience.com",
+      "source_category": "tutorial",
+      "source_priority": "high",
+      "pubDate": "2025-12-05T01:40:18.000Z",
+      "metaDescription": "On the challenges of producing reliable insights and avoiding common mistakes\nThe post TDS Newsletter: How to Design Evals, Metrics, and KPIs That Work appeared first on Towards Data Science.",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2025-12-06T04:22:10.355Z",
+      "id": "56fjos"
     },
     {
       "title": "We stress-tested the idea of “LLMs with thousands of tools.” The results challenge some assumptions.",
@@ -4366,7 +4696,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:46.094Z",
+      "crawledAt": "2025-12-06T04:22:57.183Z",
       "id": "uc9rxh"
     },
     {
@@ -4381,7 +4711,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:41.069Z",
+      "crawledAt": "2025-12-06T04:22:55.582Z",
       "id": "45ergm"
     },
     {
@@ -4396,7 +4726,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:47.448Z",
+      "crawledAt": "2025-12-06T04:21:57.686Z",
       "id": "qjirh"
     },
     {
@@ -4411,7 +4741,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:47.592Z",
+      "crawledAt": "2025-12-06T04:21:57.826Z",
       "id": "klhezb"
     },
     {
@@ -4426,7 +4756,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:03.404Z",
+      "crawledAt": "2025-12-06T04:23:20.323Z",
       "id": "yj4709"
     },
     {
@@ -4441,7 +4771,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:45.158Z",
+      "crawledAt": "2025-12-06T04:22:56.070Z",
       "id": "pr1t5w"
     },
     {
@@ -4456,7 +4786,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:05.564Z",
+      "crawledAt": "2025-12-06T04:23:12.560Z",
       "id": "mws7cl"
     },
     {
@@ -4471,7 +4801,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:41.446Z",
+      "crawledAt": "2025-12-06T04:21:46.464Z",
       "id": "6p9mwq"
     },
     {
@@ -4486,7 +4816,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:28.783Z",
+      "crawledAt": "2025-12-06T04:22:40.948Z",
       "id": "i5p8sv"
     },
     {
@@ -4501,23 +4831,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:28.883Z",
+      "crawledAt": "2025-12-06T04:22:41.045Z",
       "id": "cqv9u7"
-    },
-    {
-      "title": "Today I made a Realtime Lora Trainer for Z-image/Wan/Flux Dev",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1peey4o/today_i_made_a_realtime_lora_trainer_for/",
-      "source": "r/StableDiffusion",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2025-12-04T23:12:33.000Z",
-      "metaDescription": "Basically you pass it images with a load image node and it trains a lora on the fly, using your local install of AI-Toolkit, and then proceeds with the image generation. You just paste in the folder l",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2025-12-06T01:25:56.124Z",
-      "id": "8e2en1"
     },
     {
       "title": "Can AI Look at Your Retina and Diagnose Alzheimer’s? Eric Topol Hopes So",
@@ -4531,8 +4846,23 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:53.503Z",
+      "crawledAt": "2025-12-06T04:22:07.121Z",
       "id": "nellrs"
+    },
+    {
+      "title": "The 'truth serum' for AI: OpenAI’s new method for training models to confess their mistakes",
+      "url": "https://venturebeat.com/ai/the-truth-serum-for-ai-openais-new-method-for-training-models-to-confess",
+      "source": "VentureBeat",
+      "source_domain": "venturebeat.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2025-12-04T23:00:00.000Z",
+      "metaDescription": "OpenAI researchers have introduced a novel method that acts as a \"truth serum\" for large language models (LLMs), compelling them to self-report their own misbehavior, hallucinations and policy violati",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2025-12-06T04:22:08.386Z",
+      "id": "kxqt9l"
     },
     {
       "title": "Congress warned that NASA’s current plan for Artemis “cannot work”",
@@ -4546,7 +4876,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:50.480Z",
+      "crawledAt": "2025-12-06T04:22:02.348Z",
       "id": "kt54t6"
     },
     {
@@ -4561,7 +4891,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:47.753Z",
+      "crawledAt": "2025-12-06T04:21:58.012Z",
       "id": "pu9fh6"
     },
     {
@@ -4576,7 +4906,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:28.991Z",
+      "crawledAt": "2025-12-06T04:22:41.148Z",
       "id": "d216cn"
     },
     {
@@ -4591,7 +4921,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:34.706Z",
+      "crawledAt": "2025-12-06T04:22:46.128Z",
       "id": "g2epuc"
     },
     {
@@ -4606,7 +4936,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:50.595Z",
+      "crawledAt": "2025-12-06T04:22:02.461Z",
       "id": "lw1c16"
     },
     {
@@ -4621,7 +4951,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:53.645Z",
+      "crawledAt": "2025-12-06T04:22:07.259Z",
       "id": "f4wa46"
     },
     {
@@ -4636,7 +4966,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:50.701Z",
+      "crawledAt": "2025-12-06T04:22:02.564Z",
       "id": "dtb81j"
     },
     {
@@ -4651,23 +4981,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:35.324Z",
+      "crawledAt": "2025-12-06T04:22:46.627Z",
       "id": "hokaur"
-    },
-    {
-      "title": "Gemini 3 \"Deep Think\" benchmarks released: Hits 45.1% on ARC-AGI-2 more than doubling GPT-5.1",
-      "url": "https://www.reddit.com/r/singularity/comments/1pec4zg/gemini_3_deep_think_benchmarks_released_hits_451/",
-      "source": "r/singularity",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2025-12-04T21:18:11.000Z",
-      "metaDescription": "Jeff Dean just confirmed Deep Think is rolling out to Ultra users. This mode integrates System 2 search/RL techniques (likely AlphaProof logic) to think before answering. The resulting gap in novel re",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2025-12-06T01:25:33.702Z",
-      "id": "1sqgaa"
     },
     {
       "title": "What Happens When Your Coworkers Are AI Agents",
@@ -4681,7 +4996,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:53.810Z",
+      "crawledAt": "2025-12-06T04:22:07.421Z",
       "id": "h40von"
     },
     {
@@ -4696,7 +5011,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:50.817Z",
+      "crawledAt": "2025-12-06T04:22:02.677Z",
       "id": "y73k2b"
     },
     {
@@ -4711,7 +5026,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:44.153Z",
+      "crawledAt": "2025-12-06T04:21:59.395Z",
       "id": "s24njd"
     },
     {
@@ -4726,7 +5041,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:15.767Z",
+      "crawledAt": "2025-12-06T04:23:31.442Z",
       "id": "rzqoib"
     },
     {
@@ -4741,7 +5056,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:48.015Z",
+      "crawledAt": "2025-12-06T04:21:58.180Z",
       "id": "6k5do1"
     },
     {
@@ -4756,7 +5071,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:53.968Z",
+      "crawledAt": "2025-12-06T04:22:07.578Z",
       "id": "f6knc7"
     },
     {
@@ -4771,7 +5086,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:53.237Z",
+      "crawledAt": "2025-12-06T04:24:07.086Z",
       "id": "jmlr4v"
     },
     {
@@ -4786,7 +5101,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:50.930Z",
+      "crawledAt": "2025-12-06T04:22:02.785Z",
       "id": "alwsrt"
     },
     {
@@ -4801,7 +5116,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:55.183Z",
+      "crawledAt": "2025-12-06T04:22:05.497Z",
       "id": "c5cxjr"
     },
     {
@@ -4816,7 +5131,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:51.065Z",
+      "crawledAt": "2025-12-06T04:22:02.915Z",
       "id": "g1von"
     },
     {
@@ -4831,7 +5146,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:36.044Z",
+      "crawledAt": "2025-12-06T04:22:47.128Z",
       "id": "i86nt7"
     },
     {
@@ -4846,7 +5161,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:04.692Z",
+      "crawledAt": "2025-12-06T04:23:11.702Z",
       "id": "ngwhop"
     },
     {
@@ -4861,7 +5176,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:46.845Z",
+      "crawledAt": "2025-12-06T04:22:57.765Z",
       "id": "5golxb"
     },
     {
@@ -4876,8 +5191,23 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:54.174Z",
+      "crawledAt": "2025-12-06T04:22:07.774Z",
       "id": "liwuma"
+    },
+    {
+      "title": "The behavioral selection model for predicting AI motivations",
+      "url": "https://www.alignmentforum.org/posts/FeaJcWkC6fuRAMsfp/the-behavioral-selection-model-for-predicting-ai-motivations-1",
+      "source": "Alignment Forum",
+      "source_domain": "alignmentforum.org",
+      "source_category": "safety",
+      "source_priority": "high",
+      "pubDate": "2025-12-04T18:46:45.000Z",
+      "metaDescription": "Published on December 4, 2025 6:46 PM GMT\n\nHighly capable AI systems might end up deciding the future. Understanding what will drive those decisions is therefore one of the most important questions we",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2025-12-06T04:22:19.461Z",
+      "id": "h7ove5"
     },
     {
       "title": "ChatGPT hyped up violent stalker who believed he was “God’s assassin,” DOJ says",
@@ -4891,7 +5221,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:51.218Z",
+      "crawledAt": "2025-12-06T04:22:03.064Z",
       "id": "5880oj"
     },
     {
@@ -4906,7 +5236,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:02.860Z",
+      "crawledAt": "2025-12-06T04:23:19.788Z",
       "id": "rq4ax0"
     },
     {
@@ -4921,7 +5251,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:03.015Z",
+      "crawledAt": "2025-12-06T04:23:19.940Z",
       "id": "56i20o"
     },
     {
@@ -4936,7 +5266,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:57.657Z",
+      "crawledAt": "2025-12-06T04:23:07.973Z",
       "id": "6yydb8"
     },
     {
@@ -4951,7 +5281,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:31.187Z",
+      "crawledAt": "2025-12-06T04:22:48.621Z",
       "id": "md13q9"
     },
     {
@@ -4966,7 +5296,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:51.343Z",
+      "crawledAt": "2025-12-06T04:22:03.185Z",
       "id": "imbpy0"
     },
     {
@@ -4981,7 +5311,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:51.836Z",
+      "crawledAt": "2025-12-06T04:24:05.706Z",
       "id": "6guo1e"
     },
     {
@@ -4996,7 +5326,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:51.479Z",
+      "crawledAt": "2025-12-06T04:22:03.317Z",
       "id": "8kuzns"
     },
     {
@@ -5011,7 +5341,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:02.481Z",
+      "crawledAt": "2025-12-06T04:23:19.417Z",
       "id": "gjsvcp"
     },
     {
@@ -5026,7 +5356,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:57.220Z",
+      "crawledAt": "2025-12-06T04:22:10.540Z",
       "id": "tk3lrc"
     },
     {
@@ -5041,7 +5371,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:43.766Z",
+      "crawledAt": "2025-12-06T04:23:02.169Z",
       "id": "gojhf1"
     },
     {
@@ -5056,7 +5386,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:29.113Z",
+      "crawledAt": "2025-12-06T04:22:41.267Z",
       "id": "v5id4w"
     },
     {
@@ -5071,7 +5401,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:03.523Z",
+      "crawledAt": "2025-12-06T04:23:20.440Z",
       "id": "hfar1m"
     },
     {
@@ -5086,7 +5416,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:03.220Z",
+      "crawledAt": "2025-12-06T04:22:16.320Z",
       "id": "dvs6rj"
     },
     {
@@ -5101,7 +5431,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:38.148Z",
+      "crawledAt": "2025-12-06T04:21:48.044Z",
       "id": "f0j07f"
     },
     {
@@ -5116,7 +5446,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:48.131Z",
+      "crawledAt": "2025-12-06T04:21:58.295Z",
       "id": "oo0c1x"
     },
     {
@@ -5131,7 +5461,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:54.300Z",
+      "crawledAt": "2025-12-06T04:22:07.895Z",
       "id": "yze4l0"
     },
     {
@@ -5146,7 +5476,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:57.389Z",
+      "crawledAt": "2025-12-06T04:22:10.710Z",
       "id": "va4072"
     },
     {
@@ -5161,7 +5491,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:06.161Z",
+      "crawledAt": "2025-12-06T04:22:24.711Z",
       "id": "tpvxo8"
     },
     {
@@ -5176,7 +5506,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:51.619Z",
+      "crawledAt": "2025-12-06T04:22:03.453Z",
       "id": "qeeanf"
     },
     {
@@ -5191,7 +5521,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:48.253Z",
+      "crawledAt": "2025-12-06T04:21:58.414Z",
       "id": "ds12lx"
     },
     {
@@ -5206,7 +5536,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:03.858Z",
+      "crawledAt": "2025-12-06T04:23:20.770Z",
       "id": "9gg9wx"
     },
     {
@@ -5221,7 +5551,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:38.350Z",
+      "crawledAt": "2025-12-06T04:21:48.430Z",
       "id": "2simlu"
     },
     {
@@ -5236,7 +5566,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:02.689Z",
+      "crawledAt": "2025-12-06T04:23:19.618Z",
       "id": "dg2dle"
     },
     {
@@ -5251,7 +5581,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:37.244Z",
+      "crawledAt": "2025-12-06T04:22:48.288Z",
       "id": "agkdcl"
     },
     {
@@ -5266,7 +5596,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:47.525Z",
+      "crawledAt": "2025-12-06T04:22:58.250Z",
       "id": "3rz5ll"
     },
     {
@@ -5281,7 +5611,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:51.968Z",
+      "crawledAt": "2025-12-06T04:24:05.837Z",
       "id": "jmovrw"
     },
     {
@@ -5296,7 +5626,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:57.568Z",
+      "crawledAt": "2025-12-06T04:22:10.879Z",
       "id": "xf9680"
     },
     {
@@ -5311,7 +5641,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:15.095Z",
+      "crawledAt": "2025-12-06T04:23:30.784Z",
       "id": "ntr0s6"
     },
     {
@@ -5326,7 +5656,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:48.430Z",
+      "crawledAt": "2025-12-06T04:21:58.586Z",
       "id": "u4d41d"
     },
     {
@@ -5341,7 +5671,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:53.409Z",
+      "crawledAt": "2025-12-06T04:24:07.255Z",
       "id": "ozrb0w"
     },
     {
@@ -5356,7 +5686,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:48.602Z",
+      "crawledAt": "2025-12-06T04:21:58.759Z",
       "id": "hdz0cg"
     },
     {
@@ -5371,8 +5701,23 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:06.055Z",
+      "crawledAt": "2025-12-06T04:23:13.041Z",
       "id": "z1b6u8"
+    },
+    {
+      "title": "AWS launches Kiro powers with Stripe, Figma, and Datadog integrations for AI-assisted coding",
+      "url": "https://venturebeat.com/ai/aws-launches-kiro-powers-with-stripe-figma-and-datadog-integrations-for-ai",
+      "source": "VentureBeat",
+      "source_domain": "venturebeat.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2025-12-04T14:02:00.000Z",
+      "metaDescription": "Amazon Web Services (AWS) has introduced Kiro powers, a system that allows software developers to give their AI coding assistants instant, specialized expertise in specific tools and workflows — addre",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2025-12-06T04:22:08.572Z",
+      "id": "ixt53h"
     },
     {
       "title": "Game the Halls: GeForce NOW Brings Holiday Cheer With 30 New Games in the Cloud",
@@ -5386,7 +5731,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:38.540Z",
+      "crawledAt": "2025-12-06T04:21:48.767Z",
       "id": "t62y8c"
     },
     {
@@ -5401,7 +5746,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:48.751Z",
+      "crawledAt": "2025-12-06T04:21:58.905Z",
       "id": "n7yrvd"
     },
     {
@@ -5416,23 +5761,23 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:55.312Z",
+      "crawledAt": "2025-12-06T04:22:05.625Z",
       "id": "djz69i"
     },
     {
-      "title": "3 errori strutturali nell’AI per la finanza",
-      "url": "https://www.reddit.com/r/deeplearning/comments/1pe05nk/3_errori_strutturali_nellai_per_la_finanza_che/",
-      "source": "r/deeplearning",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
+      "title": "Gong study: Sales teams using AI generate 77% more revenue per rep",
+      "url": "https://venturebeat.com/ai/gong-study-sales-teams-using-ai-generate-77-more-revenue-per-rep",
+      "source": "VentureBeat",
+      "source_domain": "venturebeat.com",
+      "source_category": "news",
       "source_priority": "medium",
-      "pubDate": "2025-12-04T13:35:24.000Z",
-      "metaDescription": "Negli ultimi mesi stiamo lavorando a una webapp per l’analisi di dati finanziari e, per farlo, abbiamo macinato centinaia di paper, notebook e repo GitHub. Una cosa ci ha colpito: anche nei progetti p",
+      "pubDate": "2025-12-04T14:00:00.000Z",
+      "metaDescription": "The debate over whether AI belongs in the corporate boardroom appears to be over — at least for those responsible for generating revenue.\nSeven in 10 enterprise revenue leaders now trust AI to regular",
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:06.939Z",
-      "id": "m3iith"
+      "crawledAt": "2025-12-06T04:22:08.731Z",
+      "id": "zav9cf"
     },
     {
       "title": "Bootstrap a Data Lakehouse in an Afternoon",
@@ -5446,7 +5791,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:57.718Z",
+      "crawledAt": "2025-12-06T04:22:11.027Z",
       "id": "gvb3pc"
     },
     {
@@ -5461,7 +5806,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:03.195Z",
+      "crawledAt": "2025-12-06T04:23:20.118Z",
       "id": "fuebrb"
     },
     {
@@ -5476,7 +5821,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:55.495Z",
+      "crawledAt": "2025-12-06T04:22:05.809Z",
       "id": "2o6zn8"
     },
     {
@@ -5491,7 +5836,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:06.154Z",
+      "crawledAt": "2025-12-06T04:23:13.136Z",
       "id": "snnw4i"
     },
     {
@@ -5506,7 +5851,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:52.067Z",
+      "crawledAt": "2025-12-06T04:24:05.932Z",
       "id": "y4bpe7"
     },
     {
@@ -5521,7 +5866,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:55.661Z",
+      "crawledAt": "2025-12-06T04:22:05.974Z",
       "id": "b7zfh6"
     },
     {
@@ -5536,7 +5881,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:11.894Z",
+      "crawledAt": "2025-12-06T04:23:25.707Z",
       "id": "ny897o"
     },
     {
@@ -5551,7 +5896,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:00.430Z",
+      "crawledAt": "2025-12-06T04:22:13.498Z",
       "id": "wbyven"
     },
     {
@@ -5566,7 +5911,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:57.845Z",
+      "crawledAt": "2025-12-06T04:22:11.150Z",
       "id": "hp1n5y"
     },
     {
@@ -5581,7 +5926,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:48.334Z",
+      "crawledAt": "2025-12-06T04:22:59.144Z",
       "id": "p2rjkt"
     },
     {
@@ -5596,7 +5941,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:48.910Z",
+      "crawledAt": "2025-12-06T04:21:59.060Z",
       "id": "e1vkdh"
     },
     {
@@ -5611,7 +5956,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:55.831Z",
+      "crawledAt": "2025-12-06T04:22:06.143Z",
       "id": "ypcj3c"
     },
     {
@@ -5626,7 +5971,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:52.530Z",
+      "crawledAt": "2025-12-06T04:23:07.046Z",
       "id": "z8rbc0"
     },
     {
@@ -5641,7 +5986,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:06.555Z",
+      "crawledAt": "2025-12-06T04:23:13.527Z",
       "id": "lfwofn"
     },
     {
@@ -5656,7 +6001,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:26.413Z",
+      "crawledAt": "2025-12-06T04:22:42.215Z",
       "id": "kaqkmn"
     },
     {
@@ -5671,7 +6016,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:06.686Z",
+      "crawledAt": "2025-12-06T04:23:13.655Z",
       "id": "ibob73"
     },
     {
@@ -5686,7 +6031,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:05.674Z",
+      "crawledAt": "2025-12-06T04:23:12.668Z",
       "id": "q0kyj0"
     },
     {
@@ -5701,8 +6046,23 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:00.600Z",
+      "crawledAt": "2025-12-06T04:22:13.667Z",
       "id": "jhfrn7"
+    },
+    {
+      "title": "GAM takes aim at “context rot”: A dual-agent memory architecture that outperforms long-context LLMs",
+      "url": "https://venturebeat.com/ai/gam-takes-aim-at-context-rot-a-dual-agent-memory-architecture-that",
+      "source": "VentureBeat",
+      "source_domain": "venturebeat.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2025-12-04T09:00:00.000Z",
+      "metaDescription": "For all their superhuman power, today’s AI models suffer from a surprisingly human flaw: They forget. Give an AI assistant a sprawling conversation, a multi-step reasoning task or a project spanning d",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2025-12-06T04:22:08.928Z",
+      "id": "d0tuna"
     },
     {
       "title": "10 Profiling Techniques Every Python Developer Should Know",
@@ -5716,7 +6076,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:29.214Z",
+      "crawledAt": "2025-12-06T04:22:41.370Z",
       "id": "6g2tkf"
     },
     {
@@ -5731,7 +6091,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:05.862Z",
+      "crawledAt": "2025-12-06T04:23:12.852Z",
       "id": "lj3oay"
     },
     {
@@ -5746,23 +6106,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:03.697Z",
+      "crawledAt": "2025-12-06T04:23:20.613Z",
       "id": "oxqr4a"
-    },
-    {
-      "title": "8 Python Libraries That Make Visualization Effortless",
-      "url": "https://python.plainenglish.io/8-python-libraries-that-make-visualization-effortless-80a43bfeb837?source=rss----78073def27b8---4",
-      "source": "Python in Plain English",
-      "source_domain": "python.plainenglish.io",
-      "source_category": "medium",
-      "source_priority": "medium",
-      "pubDate": "2025-12-04T08:00:23.000Z",
-      "metaDescription": "Beautiful charts in minutes, not hours\nContinue reading on Python in Plain English »",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2025-12-06T01:25:29.313Z",
-      "id": "o0orfp"
     },
     {
       "title": "The Architecture Behind Web Search in AI Chatbots",
@@ -5776,7 +6121,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:57.977Z",
+      "crawledAt": "2025-12-06T04:22:11.310Z",
       "id": "43l6gs"
     },
     {
@@ -5791,7 +6136,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:11.318Z",
+      "crawledAt": "2025-12-06T04:23:25.137Z",
       "id": "fc3j8f"
     },
     {
@@ -5806,7 +6151,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:00.780Z",
+      "crawledAt": "2025-12-06T04:22:13.845Z",
       "id": "j39c93"
     },
     {
@@ -5821,7 +6166,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:26.487Z",
+      "crawledAt": "2025-12-06T04:22:42.284Z",
       "id": "mffjly"
     },
     {
@@ -5836,8 +6181,38 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:06.309Z",
+      "crawledAt": "2025-12-06T04:23:13.288Z",
       "id": "cy0a40"
+    },
+    {
+      "title": "Inside NetSuite’s next act: Evan Goldberg on the future of AI-powered business systems",
+      "url": "https://venturebeat.com/ai/inside-netsuites-next-act-evan-goldberg-on-the-future-of-ai-powered-business",
+      "source": "VentureBeat",
+      "source_domain": "venturebeat.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2025-12-04T05:00:00.000Z",
+      "metaDescription": "Presented by Oracle NetSuite\n\nWhen Evan Goldberg started NetSuite in 1998, his vision was radically simple: give entrepreneurs access to their business data anytime, anywhere. At the time, most enterp",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2025-12-06T04:22:09.111Z",
+      "id": "723ab3"
+    },
+    {
+      "title": "Anthropic vs. OpenAI red teaming methods reveal different security priorities for enterprise AI",
+      "url": "https://venturebeat.com/security/anthropic-vs-openai-red-teaming-methods-reveal-different-security-priorities",
+      "source": "VentureBeat",
+      "source_domain": "venturebeat.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2025-12-04T05:00:00.000Z",
+      "metaDescription": "Model providers want to prove the security and robustness of their models, releasing system cards and conducting red-team exercises with each new release. But it can be difficult for enterprises to pa",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2025-12-06T04:22:09.282Z",
+      "id": "dhz37c"
     },
     {
       "title": "Question: Is there value in automatically testing and refining prompts until they are reliable?",
@@ -5851,8 +6226,23 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:11.497Z",
+      "crawledAt": "2025-12-06T04:23:25.315Z",
       "id": "z32gxt"
+    },
+    {
+      "title": "Sydney AI Safety Fellowship 2026",
+      "url": "https://www.alignmentforum.org/posts/RvzrwrtbA7NfeXgDx/sydney-ai-safety-fellowship-2026-priority-deadline-this",
+      "source": "Alignment Forum",
+      "source_domain": "alignmentforum.org",
+      "source_category": "safety",
+      "source_priority": "high",
+      "pubDate": "2025-12-04T03:25:44.000Z",
+      "metaDescription": "Published on December 4, 2025 3:25 AM GMT\n\nApplication deadline:\n\nMain deadline: Midnight, 7th December, Sydney time\nIf we have unfilled slots, we may still accept applications until the 14th of Decem",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2025-12-06T04:22:19.621Z",
+      "id": "af3uss"
     },
     {
       "title": "Find Affected Code: React Server Components Critical Security Vulnerability",
@@ -5866,7 +6256,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:32.319Z",
+      "crawledAt": "2025-12-06T04:23:42.051Z",
       "id": "drpgha"
     },
     {
@@ -5881,7 +6271,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:41.515Z",
+      "crawledAt": "2025-12-06T04:21:46.530Z",
       "id": "uhb9kk"
     },
     {
@@ -5896,8 +6286,38 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:49.022Z",
+      "crawledAt": "2025-12-06T04:21:59.171Z",
       "id": "fp7fpz"
+    },
+    {
+      "title": "Difficulties with Evaluating a Deception Detector for AIs",
+      "url": "https://www.alignmentforum.org/posts/zmngpxsvGbotFeQca/paper-difficulties-with-evaluating-a-deception-detector-for",
+      "source": "Alignment Forum",
+      "source_domain": "alignmentforum.org",
+      "source_category": "safety",
+      "source_priority": "high",
+      "pubDate": "2025-12-03T20:07:14.000Z",
+      "metaDescription": "Published on December 3, 2025 8:07 PM GMT\n\nNew research from the GDM mechanistic interpretability team. Read the full paper on arxiv or check out the twitter thread.\n\nAbstract\n\nBuilding reliable decep",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2025-12-06T04:22:19.792Z",
+      "id": "ced291"
+    },
+    {
+      "title": "6 reasons why “alignment-is-hard” discourse seems alien to human intuitions, and vice-versa",
+      "url": "https://www.alignmentforum.org/posts/d4HNRdw6z7Xqbnu5E/6-reasons-why-alignment-is-hard-discourse-seems-alien-to",
+      "source": "Alignment Forum",
+      "source_domain": "alignmentforum.org",
+      "source_category": "safety",
+      "source_priority": "high",
+      "pubDate": "2025-12-03T18:37:04.000Z",
+      "metaDescription": "Published on December 3, 2025 6:37 PM GMT\n\nTl;dr\nAI alignment has a culture clash. On one side, the “technical-alignment-is-hard” / “rational agents” school-of-thought argues that we should expect fut",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2025-12-06T04:22:20.017Z",
+      "id": "imjmrv"
     },
     {
       "title": "Research Question: Does \"One-Click Deploy\" actually exist for production MLOps, or is it a myth?",
@@ -5911,7 +6331,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:11.704Z",
+      "crawledAt": "2025-12-06T04:23:25.520Z",
       "id": "26cmz"
     },
     {
@@ -5926,7 +6346,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:26.606Z",
+      "crawledAt": "2025-12-06T04:22:42.403Z",
       "id": "ge9l9j"
     },
     {
@@ -5941,7 +6361,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:26.745Z",
+      "crawledAt": "2025-12-06T04:22:42.540Z",
       "id": "huclpe"
     },
     {
@@ -5956,23 +6376,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:26.862Z",
+      "crawledAt": "2025-12-06T04:22:42.654Z",
       "id": "db0l95"
-    },
-    {
-      "title": "The AI Legal Tone Toxicity Toolkit: From Detection to Control",
-      "url": "https://ai.plainenglish.io/the-ai-legal-tone-toxicity-toolkit-from-detection-to-control-752d6577d259?source=rss----78d064101951---4",
-      "source": "AI in Plain English",
-      "source_domain": "ai.plainenglish.io",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2025-12-03T18:14:58.000Z",
-      "metaDescription": "",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2025-12-06T01:25:26.927Z",
-      "id": "8q1lir"
     },
     {
       "title": "OpenAI has trained its LLM to confess to bad behavior",
@@ -5986,7 +6391,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:55.992Z",
+      "crawledAt": "2025-12-06T04:22:06.303Z",
       "id": "4fmkra"
     },
     {
@@ -6001,7 +6406,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:53.570Z",
+      "crawledAt": "2025-12-06T04:24:07.414Z",
       "id": "e5dbfz"
     },
     {
@@ -6016,7 +6421,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:12.060Z",
+      "crawledAt": "2025-12-06T04:23:25.870Z",
       "id": "9ht5c9"
     },
     {
@@ -6031,7 +6436,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:44.384Z",
+      "crawledAt": "2025-12-06T04:21:59.622Z",
       "id": "xjx4wi"
     },
     {
@@ -6046,7 +6451,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:58.159Z",
+      "crawledAt": "2025-12-06T04:22:11.489Z",
       "id": "ff2362"
     },
     {
@@ -6061,7 +6466,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:03.318Z",
+      "crawledAt": "2025-12-06T04:22:16.415Z",
       "id": "toukqt"
     },
     {
@@ -6076,7 +6481,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:52.180Z",
+      "crawledAt": "2025-12-06T04:24:06.043Z",
       "id": "p3d40a"
     },
     {
@@ -6091,7 +6496,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:58.341Z",
+      "crawledAt": "2025-12-06T04:22:11.664Z",
       "id": "x1unp9"
     },
     {
@@ -6106,7 +6511,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:15.820Z",
+      "crawledAt": "2025-12-06T04:23:31.493Z",
       "id": "dg43ql"
     },
     {
@@ -6121,7 +6526,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:38.784Z",
+      "crawledAt": "2025-12-06T04:21:49.346Z",
       "id": "jie11q"
     },
     {
@@ -6136,7 +6541,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:35.635Z",
+      "crawledAt": "2025-12-06T04:21:44.362Z",
       "id": "8u2hfk"
     },
     {
@@ -6151,7 +6556,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:00.932Z",
+      "crawledAt": "2025-12-06T04:22:13.990Z",
       "id": "lgevbv"
     },
     {
@@ -6166,7 +6571,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:58.534Z",
+      "crawledAt": "2025-12-06T04:22:11.855Z",
       "id": "9a0udr"
     },
     {
@@ -6181,7 +6586,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:01.103Z",
+      "crawledAt": "2025-12-06T04:22:14.159Z",
       "id": "l9tdvk"
     },
     {
@@ -6196,7 +6601,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:58.702Z",
+      "crawledAt": "2025-12-06T04:22:12.021Z",
       "id": "xokowp"
     },
     {
@@ -6211,7 +6616,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:54.866Z",
+      "crawledAt": "2025-12-06T04:24:08.734Z",
       "id": "2a838p"
     },
     {
@@ -6226,7 +6631,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:52.315Z",
+      "crawledAt": "2025-12-06T04:24:06.175Z",
       "id": "2fmpxg"
     },
     {
@@ -6241,7 +6646,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:58.822Z",
+      "crawledAt": "2025-12-06T04:22:12.139Z",
       "id": "i1ab6b"
     },
     {
@@ -6256,7 +6661,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:01.273Z",
+      "crawledAt": "2025-12-06T04:22:14.327Z",
       "id": "csx6bu"
     },
     {
@@ -6271,7 +6676,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:35.795Z",
+      "crawledAt": "2025-12-06T04:21:44.522Z",
       "id": "r09g6q"
     },
     {
@@ -6286,8 +6691,23 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:55.060Z",
+      "crawledAt": "2025-12-06T04:24:08.925Z",
       "id": "z87oni"
+    },
+    {
+      "title": "Relitigating the Race to Build Friendly AI",
+      "url": "https://www.alignmentforum.org/posts/dGotimttzHAs9rcxH/relitigating-the-race-to-build-friendly-ai",
+      "source": "Alignment Forum",
+      "source_domain": "alignmentforum.org",
+      "source_category": "safety",
+      "source_priority": "high",
+      "pubDate": "2025-12-03T11:34:13.000Z",
+      "metaDescription": "Published on December 3, 2025 11:34 AM GMT\n\nRecently I've been relitigating some of my old debates with Eliezer, to right the historical wrongs. Err, I mean to improve the AI x-risk community's strate",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2025-12-06T04:22:20.213Z",
+      "id": "hmb44o"
     },
     {
       "title": "Anthropic just revealed how AI-orchestrated cyberattacks actually work—Here’s what enterprises need to know",
@@ -6301,7 +6721,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:01.471Z",
+      "crawledAt": "2025-12-06T04:22:14.523Z",
       "id": "qqz6md"
     },
     {
@@ -6316,7 +6736,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:10.317Z",
+      "crawledAt": "2025-12-06T04:23:23.545Z",
       "id": "b3x5d0"
     },
     {
@@ -6331,7 +6751,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:01.633Z",
+      "crawledAt": "2025-12-06T04:22:14.718Z",
       "id": "s79ky5"
     },
     {
@@ -6346,7 +6766,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:01.813Z",
+      "crawledAt": "2025-12-06T04:22:14.909Z",
       "id": "2b5qmh"
     },
     {
@@ -6361,7 +6781,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:53.756Z",
+      "crawledAt": "2025-12-06T04:24:07.599Z",
       "id": "t4etpt"
     },
     {
@@ -6376,7 +6796,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:12.346Z",
+      "crawledAt": "2025-12-06T04:23:26.149Z",
       "id": "58m7rq"
     },
     {
@@ -6391,7 +6811,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:12.223Z",
+      "crawledAt": "2025-12-06T04:23:26.030Z",
       "id": "6b75gx"
     },
     {
@@ -6406,7 +6826,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:15.157Z",
+      "crawledAt": "2025-12-06T04:23:30.844Z",
       "id": "3n2pfs"
     },
     {
@@ -6421,7 +6841,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:15.219Z",
+      "crawledAt": "2025-12-06T04:23:30.905Z",
       "id": "vrvhlh"
     },
     {
@@ -6436,7 +6856,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:15.279Z",
+      "crawledAt": "2025-12-06T04:23:30.962Z",
       "id": "xy9sk9"
     },
     {
@@ -6451,7 +6871,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:35.964Z",
+      "crawledAt": "2025-12-06T04:21:44.691Z",
       "id": "f87v0e"
     },
     {
@@ -6466,7 +6886,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:20.861Z",
+      "crawledAt": "2025-12-06T04:22:33.589Z",
       "id": "l2nq7l"
     },
     {
@@ -6481,7 +6901,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:15.870Z",
+      "crawledAt": "2025-12-06T04:22:29.432Z",
       "id": "24sztv"
     },
     {
@@ -6496,7 +6916,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:16.045Z",
+      "crawledAt": "2025-12-06T04:22:29.610Z",
       "id": "i3ue0i"
     },
     {
@@ -6511,7 +6931,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:16.216Z",
+      "crawledAt": "2025-12-06T04:22:29.782Z",
       "id": "pcnncm"
     },
     {
@@ -6526,7 +6946,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:49.114Z",
+      "crawledAt": "2025-12-06T04:24:11.941Z",
       "id": "9jc1hi"
     },
     {
@@ -6541,7 +6961,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:12.545Z",
+      "crawledAt": "2025-12-06T04:23:26.346Z",
       "id": "p6lcmc"
     },
     {
@@ -6556,7 +6976,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:20.078Z",
+      "crawledAt": "2025-12-06T04:23:33.076Z",
       "id": "sghdin"
     },
     {
@@ -6571,7 +6991,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:36.084Z",
+      "crawledAt": "2025-12-06T04:21:44.811Z",
       "id": "tnnqzk"
     },
     {
@@ -6586,7 +7006,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:41.582Z",
+      "crawledAt": "2025-12-06T04:21:46.593Z",
       "id": "c3fnu2"
     },
     {
@@ -6601,7 +7021,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:59.004Z",
+      "crawledAt": "2025-12-06T04:22:12.320Z",
       "id": "gvu1n3"
     },
     {
@@ -6616,7 +7036,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:32.385Z",
+      "crawledAt": "2025-12-06T04:23:42.115Z",
       "id": "q6n7q6"
     },
     {
@@ -6631,7 +7051,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:12.728Z",
+      "crawledAt": "2025-12-06T04:23:26.526Z",
       "id": "1jjikm"
     },
     {
@@ -6646,7 +7066,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:38.988Z",
+      "crawledAt": "2025-12-06T04:21:49.718Z",
       "id": "2vojw6"
     },
     {
@@ -6661,7 +7081,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:15.901Z",
+      "crawledAt": "2025-12-06T04:23:31.572Z",
       "id": "r2x54d"
     },
     {
@@ -6676,7 +7096,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:44.585Z",
+      "crawledAt": "2025-12-06T04:21:59.814Z",
       "id": "iuz9v3"
     },
     {
@@ -6691,7 +7111,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:15.329Z",
+      "crawledAt": "2025-12-06T04:23:31.010Z",
       "id": "wiwkrr"
     },
     {
@@ -6706,7 +7126,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:01.954Z",
+      "crawledAt": "2025-12-06T04:22:15.066Z",
       "id": "pt01xn"
     },
     {
@@ -6721,7 +7141,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:39.181Z",
+      "crawledAt": "2025-12-06T04:21:50.099Z",
       "id": "owhrwo"
     },
     {
@@ -6736,7 +7156,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:59.178Z",
+      "crawledAt": "2025-12-06T04:22:12.489Z",
       "id": "mev6ut"
     },
     {
@@ -6751,7 +7171,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:52.441Z",
+      "crawledAt": "2025-12-06T04:24:06.299Z",
       "id": "r3qaka"
     },
     {
@@ -6766,7 +7186,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:15.387Z",
+      "crawledAt": "2025-12-06T04:23:31.068Z",
       "id": "o5xqxv"
     },
     {
@@ -6781,7 +7201,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:17.747Z",
+      "crawledAt": "2025-12-06T04:23:29.428Z",
       "id": "lqs5ud"
     },
     {
@@ -6796,7 +7216,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:15.473Z",
+      "crawledAt": "2025-12-06T04:23:31.150Z",
       "id": "tg4qak"
     },
     {
@@ -6811,7 +7231,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:52.590Z",
+      "crawledAt": "2025-12-06T04:24:06.446Z",
       "id": "h58kvn"
     },
     {
@@ -6826,7 +7246,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:19.424Z",
+      "crawledAt": "2025-12-06T04:23:33.725Z",
       "id": "m8suja"
     },
     {
@@ -6841,7 +7261,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:59.394Z",
+      "crawledAt": "2025-12-06T04:22:12.647Z",
       "id": "57izuu"
     },
     {
@@ -6856,7 +7276,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:55.199Z",
+      "crawledAt": "2025-12-06T04:24:09.062Z",
       "id": "v3hn1n"
     },
     {
@@ -6871,7 +7291,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:09.659Z",
+      "crawledAt": "2025-12-06T04:23:21.917Z",
       "id": "8mr3ld"
     },
     {
@@ -6886,7 +7306,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:52.731Z",
+      "crawledAt": "2025-12-06T04:24:06.585Z",
       "id": "8w0glv"
     },
     {
@@ -6901,7 +7321,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:53.935Z",
+      "crawledAt": "2025-12-06T04:24:07.775Z",
       "id": "r0kk1j"
     },
     {
@@ -6916,7 +7336,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:54.134Z",
+      "crawledAt": "2025-12-06T04:24:07.972Z",
       "id": "l2uexb"
     },
     {
@@ -6931,23 +7351,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:12.961Z",
+      "crawledAt": "2025-12-06T04:23:26.753Z",
       "id": "8xp7z2"
-    },
-    {
-      "title": "How to Generate QR Codes in Python",
-      "url": "https://towardsdatascience.com/how-to-generate-qr-code-in-python/",
-      "source": "Towards Data Science",
-      "source_domain": "towardsdatascience.com",
-      "source_category": "tutorial",
-      "source_priority": "high",
-      "pubDate": "2025-12-02T12:30:00.000Z",
-      "metaDescription": "A beginner-friendly tutorial exploring the Python \"qrcode\" Package \nThe post How to Generate QR Codes in Python appeared first on Towards Data Science.",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2025-12-06T01:24:59.531Z",
-      "id": "xokugt"
     },
     {
       "title": "The Roadmap for Mastering Agentic AI in 2026",
@@ -6961,7 +7366,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:03.409Z",
+      "crawledAt": "2025-12-06T04:22:16.506Z",
       "id": "z44z71"
     },
     {
@@ -6976,7 +7381,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:12.843Z",
+      "crawledAt": "2025-12-06T04:23:26.639Z",
       "id": "z9i4s3"
     },
     {
@@ -6991,7 +7396,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:44.807Z",
+      "crawledAt": "2025-12-06T04:22:55.727Z",
       "id": "c62g65"
     },
     {
@@ -7006,7 +7411,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:21.014Z",
+      "crawledAt": "2025-12-06T04:22:33.741Z",
       "id": "vbhi3h"
     },
     {
@@ -7021,7 +7426,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:36.362Z",
+      "crawledAt": "2025-12-06T04:21:44.948Z",
       "id": "6epy2y"
     },
     {
@@ -7036,7 +7441,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:13.064Z",
+      "crawledAt": "2025-12-06T04:23:26.853Z",
       "id": "kzugqb"
     },
     {
@@ -7051,7 +7456,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:54.317Z",
+      "crawledAt": "2025-12-06T04:24:08.154Z",
       "id": "miu1mt"
     },
     {
@@ -7066,7 +7471,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:54.499Z",
+      "crawledAt": "2025-12-06T04:24:08.335Z",
       "id": "zf9yti"
     },
     {
@@ -7081,7 +7486,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:39.358Z",
+      "crawledAt": "2025-12-06T04:21:50.480Z",
       "id": "1z1baa"
     },
     {
@@ -7096,7 +7501,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:44.743Z",
+      "crawledAt": "2025-12-06T04:21:59.967Z",
       "id": "xtgrzg"
     },
     {
@@ -7111,7 +7516,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:15.527Z",
+      "crawledAt": "2025-12-06T04:23:31.203Z",
       "id": "rj7s17"
     },
     {
@@ -7126,7 +7531,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:21.377Z",
+      "crawledAt": "2025-12-06T04:23:34.366Z",
       "id": "df2ske"
     },
     {
@@ -7141,7 +7546,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:17.804Z",
+      "crawledAt": "2025-12-06T04:23:29.483Z",
       "id": "539hoq"
     },
     {
@@ -7156,7 +7561,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:03.560Z",
+      "crawledAt": "2025-12-06T04:22:16.656Z",
       "id": "6ac5ym"
     },
     {
@@ -7171,8 +7576,38 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:55.356Z",
+      "crawledAt": "2025-12-06T04:24:09.217Z",
       "id": "2z267d"
+    },
+    {
+      "title": "How Can Interpretability Researchers Help AGI Go Well?",
+      "url": "https://www.alignmentforum.org/posts/MnkeepcGirnJn736j/how-can-interpretability-researchers-help-agi-go-well",
+      "source": "Alignment Forum",
+      "source_domain": "alignmentforum.org",
+      "source_category": "safety",
+      "source_priority": "high",
+      "pubDate": "2025-12-01T13:05:50.000Z",
+      "metaDescription": "Published on December 1, 2025 1:05 PM GMT\n\nExecutive Summary\nOver the past year, the Google DeepMind mechanistic interpretability team has pivoted to a pragmatic approach to interpretability, as detai",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2025-12-06T04:22:20.392Z",
+      "id": "esnb0h"
+    },
+    {
+      "title": "A Pragmatic Vision for Interpretability",
+      "url": "https://www.alignmentforum.org/posts/StENzDcD3kpfGJssR/a-pragmatic-vision-for-interpretability",
+      "source": "Alignment Forum",
+      "source_domain": "alignmentforum.org",
+      "source_category": "safety",
+      "source_priority": "high",
+      "pubDate": "2025-12-01T13:05:32.000Z",
+      "metaDescription": "Published on December 1, 2025 1:05 PM GMT\n\nExecutive Summary\nThe Google DeepMind mechanistic interpretability team has made a strategic pivot over the past year, from ambitious reverse-engineering to ",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2025-12-06T04:22:20.550Z",
+      "id": "smvo52"
     },
     {
       "title": "CodeModeToon",
@@ -7186,7 +7621,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:13.511Z",
+      "crawledAt": "2025-12-06T04:23:27.291Z",
       "id": "fhsjd7"
     },
     {
@@ -7201,7 +7636,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:13.420Z",
+      "crawledAt": "2025-12-06T04:23:27.204Z",
       "id": "9im9i3"
     },
     {
@@ -7216,7 +7651,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:55.516Z",
+      "crawledAt": "2025-12-06T04:24:09.374Z",
       "id": "teq6zu"
     },
     {
@@ -7231,7 +7666,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:57.778Z",
+      "crawledAt": "2025-12-06T04:23:08.092Z",
       "id": "ur2c43"
     },
     {
@@ -7246,7 +7681,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:13.323Z",
+      "crawledAt": "2025-12-06T04:23:27.110Z",
       "id": "byekkf"
     },
     {
@@ -7261,7 +7696,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:44.996Z",
+      "crawledAt": "2025-12-06T04:22:55.911Z",
       "id": "yux8k2"
     },
     {
@@ -7276,7 +7711,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:24:41.650Z",
+      "crawledAt": "2025-12-06T04:21:46.659Z",
       "id": "e6quo3"
     },
     {
@@ -7291,7 +7726,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:16.409Z",
+      "crawledAt": "2025-12-06T04:22:29.973Z",
       "id": "bcnpwe"
     },
     {
@@ -7306,7 +7741,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:08.707Z",
+      "crawledAt": "2025-12-06T04:23:22.596Z",
       "id": "83qvci"
     },
     {
@@ -7321,7 +7756,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:03.711Z",
+      "crawledAt": "2025-12-06T04:22:16.804Z",
       "id": "lr9xfk"
     },
     {
@@ -7336,7 +7771,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:13.680Z",
+      "crawledAt": "2025-12-06T04:23:27.455Z",
       "id": "xxd2mf"
     },
     {
@@ -7351,38 +7786,23 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:13.994Z",
+      "crawledAt": "2025-12-06T04:23:27.734Z",
       "id": "wdjbi5"
     },
     {
-      "title": "HELP - EXHAUSTED from manually prompting/shuttling AI outputs for my cross-\"AI Panel\" Evaluation...does Perplexity's Comet browser's agentic multi-tab orchestration actually work?!",
-      "url": "https://www.reddit.com/r/AutoGPT/comments/1p9euff/help_exhausted_from_manually_promptingshuttling/",
-      "source": "r/AutoGPT",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
+      "title": "Circuit discovery through chain of thought using policy gradients",
+      "url": "https://www.alignmentforum.org/posts/N4P9LSa6B2KyQtG5d/circuit-discovery-through-chain-of-thought-using-policy",
+      "source": "Alignment Forum",
+      "source_domain": "alignmentforum.org",
+      "source_category": "safety",
       "source_priority": "high",
-      "pubDate": "2025-11-29T03:47:36.000Z",
-      "metaDescription": "Hello! \n I run a full \"AI Panel\" (Claude Max 5x, ChatGPT Plus, Gemini Pro, Perplexity Pro, Grok) behind a \"Memory Stack\" (spare you full details, but it includes tools like Supermemory + MCP-Claude De",
+      "pubDate": "2025-11-29T07:56:17.000Z",
+      "metaDescription": "Published on November 29, 2025 7:56 AM GMT\n\nCircuit discovery has been restricted to the single-forward-pass setting, because the algorithms to attribute changes in behavior to particular neurons / SA",
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:58.074Z",
-      "id": "p2zefj"
-    },
-    {
-      "title": "Learn ML at Production level",
-      "url": "https://www.reddit.com/r/mlops/comments/1p9ems3/learn_ml_at_production_level/",
-      "source": "r/MLOps",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2025-11-29T03:36:49.000Z",
-      "metaDescription": "I want someone who has basic knowledge of machine learning and want to explore DevOps side or how to deploy model at production level.\n Comment here I will reach out to you. The material is below link",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2025-12-06T01:26:13.854Z",
-      "id": "5c0ioi"
+      "crawledAt": "2025-12-06T04:22:20.711Z",
+      "id": "ji4khy"
     },
     {
       "title": "Fine-Tuning a BERT Model",
@@ -7396,7 +7816,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:03.866Z",
+      "crawledAt": "2025-12-06T04:22:16.954Z",
       "id": "w7dp89"
     },
     {
@@ -7411,7 +7831,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:17.869Z",
+      "crawledAt": "2025-12-06T04:23:29.545Z",
       "id": "hnkcjm"
     },
     {
@@ -7426,7 +7846,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:22.234Z",
+      "crawledAt": "2025-12-06T04:23:35.204Z",
       "id": "3tb2i9"
     },
     {
@@ -7441,7 +7861,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:22.338Z",
+      "crawledAt": "2025-12-06T04:23:35.304Z",
       "id": "lpwgzr"
     },
     {
@@ -7456,7 +7876,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:15.596Z",
+      "crawledAt": "2025-12-06T04:23:31.269Z",
       "id": "e8o8xm"
     },
     {
@@ -7471,7 +7891,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:17.944Z",
+      "crawledAt": "2025-12-06T04:23:29.616Z",
       "id": "2pw6z5"
     },
     {
@@ -7486,7 +7906,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:04.045Z",
+      "crawledAt": "2025-12-06T04:22:17.098Z",
       "id": "qca7ew"
     },
     {
@@ -7501,7 +7921,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:55.685Z",
+      "crawledAt": "2025-12-06T04:24:09.542Z",
       "id": "qz1c7i"
     },
     {
@@ -7516,7 +7936,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:04.216Z",
+      "crawledAt": "2025-12-06T04:22:17.265Z",
       "id": "642vwf"
     },
     {
@@ -7531,7 +7951,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:20.132Z",
+      "crawledAt": "2025-12-06T04:23:33.131Z",
       "id": "p3v04s"
     },
     {
@@ -7546,7 +7966,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:15.650Z",
+      "crawledAt": "2025-12-06T04:23:31.321Z",
       "id": "on7mm"
     },
     {
@@ -7561,7 +7981,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:33.991Z",
+      "crawledAt": "2025-12-06T04:23:40.471Z",
       "id": "2ivwf3"
     },
     {
@@ -7576,7 +7996,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:18.016Z",
+      "crawledAt": "2025-12-06T04:23:29.681Z",
       "id": "996uzt"
     },
     {
@@ -7591,7 +8011,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:18.085Z",
+      "crawledAt": "2025-12-06T04:23:29.748Z",
       "id": "j2674i"
     },
     {
@@ -7606,7 +8026,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:55.842Z",
+      "crawledAt": "2025-12-06T04:24:09.700Z",
       "id": "kowfby"
     },
     {
@@ -7621,7 +8041,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:04.326Z",
+      "crawledAt": "2025-12-06T04:22:17.373Z",
       "id": "y63urz"
     },
     {
@@ -7636,7 +8056,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:18.136Z",
+      "crawledAt": "2025-12-06T04:23:29.799Z",
       "id": "hf4aaf"
     },
     {
@@ -7651,7 +8071,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:08.065Z",
+      "crawledAt": "2025-12-06T04:23:24.142Z",
       "id": "7u8w5n"
     },
     {
@@ -7666,7 +8086,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:19.493Z",
+      "crawledAt": "2025-12-06T04:23:33.792Z",
       "id": "deodhc"
     },
     {
@@ -7681,7 +8101,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:55.984Z",
+      "crawledAt": "2025-12-06T04:24:09.842Z",
       "id": "q41itd"
     },
     {
@@ -7696,7 +8116,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:21.431Z",
+      "crawledAt": "2025-12-06T04:23:34.419Z",
       "id": "h80k14"
     },
     {
@@ -7711,7 +8131,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:25:04.409Z",
+      "crawledAt": "2025-12-06T04:22:17.454Z",
       "id": "pircci"
     },
     {
@@ -7726,7 +8146,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:10.386Z",
+      "crawledAt": "2025-12-06T04:23:23.611Z",
       "id": "bgys1"
     },
     {
@@ -7741,7 +8161,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:09.729Z",
+      "crawledAt": "2025-12-06T04:23:21.986Z",
       "id": "v0nttr"
     },
     {
@@ -7756,7 +8176,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2025-12-06T01:26:19.552Z",
+      "crawledAt": "2025-12-06T04:23:33.850Z",
       "id": "ndr9q2"
     }
   ]
