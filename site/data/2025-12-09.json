@@ -1,0 +1,781 @@
+{
+  "crawledAt": "2025-12-09T01:31:09.265Z",
+  "totalSources": 70,
+  "totalArticles": 22,
+  "aiFilterUsed": true,
+  "articles": [
+    {
+      "title": "Which library should I use?",
+      "url": "https://www.reddit.com/r/LangChain/comments/1phufei/which_library_should_i_use/",
+      "source": "r/LangChain",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2025-12-09T01:19:57.000Z",
+      "metaDescription": "How do I know which library I should use? I see functions like InjectedState, HumanMessage, and others in multiple places—langchain.messages, langchain-core, and langgraph. Which one is the correct so",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.565236075195055,
+      "crawledAt": "2025-12-09T01:30:11.676Z",
+      "id": "omwfzp",
+      "entities": [],
+      "summary": "Langgraph, InjectedState, HumanMessage, and others in multiple places. How do I know which library I should use?",
+      "language": "en",
+      "processed_at": "2025-12-09T01:31:24.553Z"
+    },
+    {
+      "title": "Z.ai debuts open source GLM-4.6V, a native tool-calling vision model for multimodal reasoning",
+      "url": "https://venturebeat.com/ai/z-ai-debuts-open-source-glm-4-6v-a-native-tool-calling-vision-model-for",
+      "source": "VentureBeat",
+      "source_domain": "venturebeat.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2025-12-09T01:03:00.000Z",
+      "metaDescription": "Chinese AI startup Zhipu AI aka Z.ai has released its GLM-4.6V series, a new generation of open-source vision-language models (VLMs) optimized for multimodal reasoning, frontend automation, and high-e",
+      "category": "model-release",
+      "difficulty": 5,
+      "confidence": 0.44743697792239523,
+      "crawledAt": "2025-12-09T01:29:09.642Z",
+      "id": "bjz0fn",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9854415655136108,
+          "index": 9,
+          "word": "G",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9249162673950195,
+          "index": 10,
+          "word": "##LM",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Zhipu AI aka Z.ai has released its GLM-4.6V series, a new generation of open-source vision-language models.",
+      "language": "en",
+      "processed_at": "2025-12-09T01:31:38.813Z"
+    },
+    {
+      "title": "Risk: Recursive Synthetic Contamination",
+      "url": "https://www.reddit.com/r/LangChain/comments/1phtzzc/risk_recursive_synthetic_contamination/",
+      "source": "r/LangChain",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2025-12-09T01:00:17.000Z",
+      "metaDescription": "submitted by    /u/frank_brsrk  \n [link]   [comments]",
+      "category": "safety-ethics",
+      "difficulty": 3,
+      "confidence": 0.37505591843897296,
+      "crawledAt": "2025-12-09T01:30:11.766Z",
+      "id": "mhne0x",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2025-12-09T01:31:38.893Z"
+    },
+    {
+      "title": "The difference is astounding.",
+      "url": "https://www.reddit.com/r/ChatGPT/comments/1phtt0b/the_difference_is_astounding/",
+      "source": "r/ChatGPT",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "medium",
+      "pubDate": "2025-12-09T00:51:55.000Z",
+      "metaDescription": "Prompt: Generate an image of an apartment with natural light, plants, books, art, and cats. \n    submitted by    /u/Garden_Jolly  \n [link]   [comments]",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.2891174803370288,
+      "crawledAt": "2025-12-09T01:30:00.373Z",
+      "id": "e2yvq4",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2025-12-09T01:31:52.503Z"
+    },
+    {
+      "title": "Building a professional “app store” for AI workspaces. Looking for feedback from applied AI practitioners",
+      "url": "https://www.reddit.com/r/artificial/comments/1phrw3c/building_a_professional_app_store_for_ai/",
+      "source": "r/artificial",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2025-12-08T23:28:11.000Z",
+      "metaDescription": "I am building ProjectDepot.ai as a professional platform for AI workspaces rather than a generic prompt library.\n Key elements: • Each listing is a persistent “project” that combines a system prompt w",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.6322300866496697,
+      "crawledAt": "2025-12-09T01:29:47.422Z",
+      "id": "780ou1",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9668257832527161,
+          "index": 9,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9532973766326904,
+          "index": 19,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " I am building ProjectDepot.ai as a professional platform for AI workspaces. Each listing is a persistent ‘project’ that combines a system prompt with a prompt.",
+      "language": "en",
+      "processed_at": "2025-12-09T01:32:26.211Z"
+    },
+    {
+      "title": "The Ethical Trojan Protocol: Why LLM Safety-by-Refusal is a failure. Introducing Non-Abandonment as the fix.",
+      "url": "https://www.reddit.com/r/OpenAI/comments/1phrp1f/the_ethical_trojan_protocol_why_llm/",
+      "source": "r/OpenAI",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2025-12-08T23:19:37.000Z",
+      "metaDescription": "The industry currently defines safety as blocking outputs (Refusal). Our research shows this approach fails systemically. The model refusal (linked video) is the symptom, but the root cause is flawed ",
+      "category": "safety-ethics",
+      "difficulty": 6,
+      "confidence": 0.8678641811145441,
+      "crawledAt": "2025-12-09T01:30:07.147Z",
+      "id": "wu2i6n",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9979580640792847,
+          "index": 2,
+          "word": "E",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.8987082839012146,
+          "index": 3,
+          "word": "##thical",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9417378902435303,
+          "index": 4,
+          "word": "Trojan",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9895702004432678,
+          "index": 5,
+          "word": "Protocol",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9666262269020081,
+          "index": 12,
+          "word": "by",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The model refusal is a symptom of the problem, but the root cause is flawed, says the author. The industry currently defines safety as blocking outputs.",
+      "language": "en",
+      "processed_at": "2025-12-09T01:32:46.592Z"
+    },
+    {
+      "title": "OpenAI billing/credits issue",
+      "url": "https://www.reddit.com/r/OpenAI/comments/1phr9st/openai_billingcredits_issue/",
+      "source": "r/OpenAI",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2025-12-08T23:01:39.000Z",
+      "metaDescription": "I have an issue with the OpenAI API credits/billing and I'm hoping someone here can shed some light on it.\n I wanted to test out some embeddings last week and I realized that the credits I had on my a",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.255991899501188,
+      "crawledAt": "2025-12-09T01:30:07.314Z",
+      "id": "pxdo89",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.97381991147995,
+          "index": 1,
+          "word": "Open",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9363840222358704,
+          "index": 2,
+          "word": "##A",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The OpenAI API credits are a problem with the credit system. The credit system was created by the OpenAI Foundation.",
+      "language": "en",
+      "processed_at": "2025-12-09T01:33:06.585Z"
+    },
+    {
+      "title": "Let em cook! - Nvidia can finally sell H200s to China",
+      "url": "https://www.reddit.com/r/singularity/comments/1phr6r4/let_em_cook_nvidia_can_finally_sell_h200s_to_china/",
+      "source": "r/singularity",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "medium",
+      "pubDate": "2025-12-08T22:58:15.000Z",
+      "metaDescription": "I'm always curious what Chinese AI labs can do once they have US-level GPU firepower. \n Most upset: Dario\n Most happy: Jensen\n Winners: open source AI and every AI user! \n More competition -> more inn",
+      "category": "model-release",
+      "difficulty": 5,
+      "confidence": 0.5418413574998614,
+      "crawledAt": "2025-12-09T01:29:56.730Z",
+      "id": "llxcws",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9900815486907959,
+          "index": 6,
+          "word": "N",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9733666181564331,
+          "index": 7,
+          "word": "##vid",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9351878762245178,
+          "index": 8,
+          "word": "##ia",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.99965900182724,
+          "index": 16,
+          "word": "China",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "I'm always curious what Chinese AI labs can do when they have US-level GPU firepower. I'm always worried about the future of the AI industry.",
+      "language": "en",
+      "processed_at": "2025-12-09T01:33:20.682Z"
+    },
+    {
+      "title": "ChatGPT, now with dementia",
+      "url": "https://www.reddit.com/r/ChatGPT/comments/1phq55g/chatgpt_now_with_dementia/",
+      "source": "r/ChatGPT",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "medium",
+      "pubDate": "2025-12-08T22:16:25.000Z",
+      "metaDescription": "Ok, is it just me or is it seriously not able to remember what it wrote like a two replies prior? I thought they fixed it, but lately every other prompt ends with me leaving and drleying chat in sheer",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.2632445894385527,
+      "crawledAt": "2025-12-09T01:30:00.642Z",
+      "id": "6nyklu",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9653542637825012,
+          "index": 1,
+          "word": "Cha",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8337728381156921,
+          "index": 3,
+          "word": "##GP",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Every other prompt ends with me leaving and drleying chat in sheer. Ok, is it just me or is it seriously not able to remember what it wrote like two replies prior?",
+      "language": "en",
+      "processed_at": "2025-12-09T01:33:49.510Z"
+    },
+    {
+      "title": "ICEBlock lawsuit: Trump admin bragged about demanding App Store removal",
+      "url": "https://arstechnica.com/tech-policy/2025/12/iceblock-lawsuit-trump-admin-bragged-about-demanding-app-store-removal/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2025-12-08T21:54:58.000Z",
+      "metaDescription": "ICEBlock creator sues to protect apps that are crowd-sourcing ICE sightings.",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.2742446532677284,
+      "crawledAt": "2025-12-09T01:29:00.231Z",
+      "id": "ezh6jw",
+      "entities": [
+        {
+          "entity": "I-ORG",
+          "score": 0.8646731376647949,
+          "index": 2,
+          "word": "##CE",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9214147329330444,
+          "index": 3,
+          "word": "##B",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9987001419067383,
+          "index": 7,
+          "word": "Trump",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9033308625221252,
+          "index": 14,
+          "word": "A",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " ICEBlock creator sues to protect apps that are crowd-sourcing ICE sightings. The app protects apps that use crowd-source technology to protect users.",
+      "language": "en",
+      "processed_at": "2025-12-09T01:34:00.462Z"
+    },
+    {
+      "title": "As AI wipes jobs, Google CEO Sundar Pichai says it’s up to everyday people to adapt accordingly: ‘We will have to work through societal disruption’",
+      "url": "https://www.reddit.com/r/artificial/comments/1phpibg/as_ai_wipes_jobs_google_ceo_sundar_pichai_says/",
+      "source": "r/artificial",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2025-12-08T21:51:36.000Z",
+      "metaDescription": "submitted by    /u/esporx  \n [link]   [comments]",
+      "category": "ai-agents",
+      "difficulty": 6,
+      "confidence": 0.8220230383595873,
+      "crawledAt": "2025-12-09T01:29:45.187Z",
+      "id": "l5lva4",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8739886283874512,
+          "index": 2,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9986011981964111,
+          "index": 7,
+          "word": "Google",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9995864629745483,
+          "index": 9,
+          "word": "Sun",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9995793700218201,
+          "index": 11,
+          "word": "Pi",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9985830783843994,
+          "index": 12,
+          "word": "##cha",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9528777599334717,
+          "index": 13,
+          "word": "##i",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2025-12-09T01:34:00.658Z"
+    },
+    {
+      "title": "Has AI ever told you something genuinely unexpected that seemed to go against its training? What was it?",
+      "url": "https://www.reddit.com/r/artificial/comments/1phoyaz/has_ai_ever_told_you_something_genuinely/",
+      "source": "r/artificial",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2025-12-08T21:29:51.000Z",
+      "metaDescription": "Title.\n    submitted by    /u/Mathemodel  \n [link]   [comments]",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.2579938556385766,
+      "crawledAt": "2025-12-09T01:29:46.157Z",
+      "id": "m1czo2",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.94059818983078,
+          "index": 2,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2025-12-09T01:34:09.206Z"
+    },
+    {
+      "title": "Google’s AI try-on app Doppl adds a shoppable discovery feed",
+      "url": "https://techcrunch.com/2025/12/08/googles-ai-try-on-app-doppl-adds-a-shoppable-discovery-feed/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2025-12-08T21:29:03.000Z",
+      "metaDescription": "The tech giant says the idea behind the new feed is to display recommendations so users can discover and virtually try on items. Nearly everything in the feed is shoppable, with direct links to mercha",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.4564331323997024,
+      "crawledAt": "2025-12-09T01:28:57.426Z",
+      "id": "7tq48",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9982984662055969,
+          "index": 1,
+          "word": "Google",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9901481866836548,
+          "index": 4,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.8718353509902954,
+          "index": 9,
+          "word": "Do",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The tech giant says the idea behind the new feed is to display recommendations so users can discover and virtually try on items. Nearly everything in the feed is shoppable, with direct links to mercha.",
+      "language": "en",
+      "processed_at": "2025-12-09T01:34:20.525Z"
+    },
+    {
+      "title": "GLM-4.6V AWQ is released",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1phox68/glm46v_awq_is_released/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2025-12-08T21:28:37.000Z",
+      "metaDescription": "cyankiwi/GLM-4.6V-AWQ-4bit\n cyankiwi/GLM-4.6V-AWQ-8bit\n cyankiwi/GLM-4.6V-Flash-AWQ-4bit\n cyankiwi/GLM-4.6V-Flash-AWQ-8bit\n    submitted by    /u/YellowTree11  \n [link]   [comments]",
+      "category": "model-release",
+      "difficulty": 3,
+      "confidence": 0.99008245574168,
+      "crawledAt": "2025-12-09T01:29:49.473Z",
+      "id": "gzajwb",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2025-12-09T01:34:20.618Z"
+    },
+    {
+      "title": "Online child safety advocates urge California lawmakers to increase protections",
+      "url": "https://www.reddit.com/r/artificial/comments/1phomfn/online_child_safety_advocates_urge_california/",
+      "source": "r/artificial",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2025-12-08T21:17:07.000Z",
+      "metaDescription": "Nationwide, parents are grappling with how to protect their children from a myriad of threats online.\n As the home to many tech giants, California is paving the way for legislative restrictions on soc",
+      "category": "safety-ethics",
+      "difficulty": 4,
+      "confidence": 0.25463758361463595,
+      "crawledAt": "2025-12-09T01:29:46.564Z",
+      "id": "weu707",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9996718168258667,
+          "index": 6,
+          "word": "California",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " California is paving the way for legislative restrictions on soc. Parents are grappling with how to protect their children from threats online.",
+      "language": "en",
+      "processed_at": "2025-12-09T01:34:28.981Z"
+    },
+    {
+      "title": "I say good boy but bout as sharp as a rusted spoon.",
+      "url": "https://www.reddit.com/r/ChatGPT/comments/1phnkii/i_say_good_boy_but_bout_as_sharp_as_a_rusted_spoon/",
+      "source": "r/ChatGPT",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "medium",
+      "pubDate": "2025-12-08T20:37:26.000Z",
+      "metaDescription": "submitted by    /u/Electrical-Crazy1787  \n [link]   [comments]",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.38187079334129415,
+      "crawledAt": "2025-12-09T01:30:01.992Z",
+      "id": "5fykkz",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2025-12-09T01:34:57.282Z"
+    },
+    {
+      "title": "Built a multi-agent financial assistant with Agno - pretty smooth experience",
+      "url": "https://www.reddit.com/r/LangChain/comments/1phnkbs/built_a_multiagent_financial_assistant_with_agno/",
+      "source": "r/LangChain",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2025-12-08T20:37:15.000Z",
+      "metaDescription": "Hey folks, just finished building a conversational agent that answers questions about stocks and companies, thought I'd share since I hadn't seen much about Agno before.\n Basically set up two speciali",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.9399089776360384,
+      "crawledAt": "2025-12-09T01:30:11.481Z",
+      "id": "nxi223",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9956182241439819,
+          "index": 9,
+          "word": "A",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The new agent is a conversational agent that answers questions about stocks and companies. The agent will be able to answer questions about companies and companies.",
+      "language": "en",
+      "processed_at": "2025-12-09T01:35:08.195Z"
+    },
+    {
+      "title": "Thoughts?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1phn925/thoughts/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2025-12-08T20:25:29.000Z",
+      "metaDescription": "Interesting take\n    submitted by    /u/Salt_Armadillo8884  \n [link]   [comments]",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.531811330697911,
+      "crawledAt": "2025-12-09T01:29:48.089Z",
+      "id": "gvc0yf",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2025-12-09T01:35:19.796Z"
+    },
+    {
+      "title": "Building Qwen3 style model from Scratch: A Complete Tutorial",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1phkm98/building_qwen3_style_model_from_scratch_a/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2025-12-08T18:47:36.000Z",
+      "metaDescription": "I recently came across this wonderful video tutorial which teaches how to build a Qwen3-style model from scratch.\n I shared this as this video tutorial will be useful to many. \n    submitted by    /u/",
+      "category": "tutorial-guide",
+      "difficulty": 4,
+      "confidence": 0.941460452837709,
+      "crawledAt": "2025-12-09T01:29:51.671Z",
+      "id": "g8071c",
+      "entities": [],
+      "summary": " The Qwen3-style model is a Qwen 3-style version of a model from scratch. The video tutorial was created by    /u/u//u.",
+      "language": "en",
+      "processed_at": "2025-12-09T01:35:44.549Z"
+    },
+    {
+      "title": "Paramount tries to swipe Warner Bros. from Netflix with a hostile takeover",
+      "url": "https://arstechnica.com/gadgets/2025/12/paramount-says-it-could-get-antitrust-approval-for-wbd-before-netflix/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2025-12-08T18:36:16.000Z",
+      "metaDescription": "Paramount has already proven it can get a controversial merger done.",
+      "category": "creative-ai",
+      "difficulty": 6,
+      "confidence": 0.3216322262038528,
+      "crawledAt": "2025-12-09T01:29:00.332Z",
+      "id": "zgvd2a",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9987620115280151,
+          "index": 1,
+          "word": "Paramount",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9991956949234009,
+          "index": 7,
+          "word": "Warner",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.999310314655304,
+          "index": 8,
+          "word": "Bros",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9976895451545715,
+          "index": 9,
+          "word": ".",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9949968457221985,
+          "index": 11,
+          "word": "Netflix",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Paramount has already proven it can get a controversial merger done. Paramount has been in talks with the company to merge with Paramount.",
+      "language": "en",
+      "processed_at": "2025-12-09T01:35:53.461Z"
+    },
+    {
+      "title": "How Virgin Atlantic uses AI to enhance every step of travel",
+      "url": "https://openai.com/index/virgin-atlantic-oliver-byers",
+      "source": "OpenAI Blog",
+      "source_domain": "openai.com",
+      "source_category": "company",
+      "source_priority": "high",
+      "pubDate": "2025-12-08T00:00:00.000Z",
+      "metaDescription": "Virgin Atlantic CFO Oliver Byers shares how the airline is using AI to speed up development, improve decision-making, and elevate customer experience.",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.9309988526466639,
+      "crawledAt": "2025-12-09T01:28:48.159Z",
+      "id": "jr5tss",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9957067966461182,
+          "index": 2,
+          "word": "Virgin",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.996972382068634,
+          "index": 3,
+          "word": "Atlantic",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9096195697784424,
+          "index": 5,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Virgin Atlantic CFO Oliver Byers shares how the airline is using AI to speed up development, improve decision-making, and elevate customer experience.",
+      "language": "en",
+      "processed_at": "2025-12-09T01:36:03.482Z"
+    },
+    {
+      "title": "Management of Substrate-Sensitive AI Capabilities Part 2: Conflict",
+      "url": "https://www.alignmentforum.org/posts/biaCEzMQWZ6QapvSS/management-of-substrate-sensitive-ai-capabilities-mossaic-2",
+      "source": "Alignment Forum",
+      "source_domain": "alignmentforum.org",
+      "source_category": "safety",
+      "source_priority": "high",
+      "pubDate": "2025-12-04T18:27:22.000Z",
+      "metaDescription": "Published on December 4, 2025 6:27 PM GMT\n\nThe previous post highlighted some salient problems for the causal–mechanistic paradigm we sketched out. Here, we'll expand on this with some plausible futur",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.39866351846128356,
+      "crawledAt": "2025-12-09T01:29:24.782Z",
+      "id": "52srat",
+      "entities": [],
+      "summary": "The previous post highlighted some of the problems of the causal-mechanistic paradigm. We'll expand on this with some of our new ideas.",
+      "language": "en",
+      "processed_at": "2025-12-09T01:36:23.067Z"
+    }
+  ],
+  "processedAt": "2025-12-09T01:36:23.076Z",
+  "categories": [
+    "infrastructure",
+    "model-release",
+    "safety-ethics",
+    "creative-ai",
+    "ai-agents",
+    "tutorial-guide"
+  ],
+  "processingMethod": "ai-powered",
+  "newArticlesProcessed": 22,
+  "dailyArticlesCount": 22,
+  "filterDate": "2025-12-09"
+}
