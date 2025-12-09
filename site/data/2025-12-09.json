@@ -1,9 +1,337 @@
 {
-  "crawledAt": "2025-12-09T01:31:09.265Z",
+  "crawledAt": "2025-12-09T04:30:54.317Z",
   "totalSources": 70,
-  "totalArticles": 22,
+  "totalArticles": 32,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "Understanding XGBoost: A Deep Dive into the Algorithm",
+      "url": "https://pub.towardsai.net/understanding-xgboost-a-deep-dive-into-the-algorithm-94e8a28957ee?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2025-12-09T04:08:52.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.3659776027555494,
+      "crawledAt": "2025-12-09T04:29:20.916Z",
+      "id": "sbyrbr",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9108522534370422,
+          "index": 15,
+          "word": "##ith",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2025-12-09T04:30:56.373Z"
+    },
+    {
+      "title": "How to Build Travel AI Agents Using Phidata and Qdrant",
+      "url": "https://pub.towardsai.net/how-to-build-travel-ai-agents-using-phidata-and-qdrant-1c4327c4f2de?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2025-12-09T04:08:40.000Z",
+      "metaDescription": "",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.9864130611981521,
+      "crawledAt": "2025-12-09T04:29:20.986Z",
+      "id": "btuu01",
+      "entities": [],
+      "summary": "Community discussion seeking help or recommendations on AI-related topics.",
+      "language": "en",
+      "processed_at": "2025-12-09T04:30:56.513Z"
+    },
+    {
+      "title": "Prompt Engineering Quick Guide",
+      "url": "https://pub.towardsai.net/prompt-engineering-quick-guide-f72025137678?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2025-12-09T04:07:57.000Z",
+      "metaDescription": "Prompt Engineering is the science of designing effective inputs (prompts) to get accurate, reliable, and optimized outputs from LLMs or…\nContinue reading on Towards AI »",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.4440722855321729,
+      "crawledAt": "2025-12-09T04:29:21.224Z",
+      "id": "v9idh9",
+      "entities": [],
+      "summary": " Prompt Engineering is the science of designing effective inputs (prompts) to get accurate, reliable, and optimized outputs from LLMs.",
+      "language": "en",
+      "processed_at": "2025-12-09T04:31:05.566Z"
+    },
+    {
+      "title": "Google’s Nested Learning: The Brain-Inspired AI That Never Forgets ✨",
+      "url": "https://pub.towardsai.net/googles-nested-learning-the-brain-inspired-ai-that-never-forgets-dc8c37f3b85f?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2025-12-09T04:06:26.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.9904774528737877,
+      "crawledAt": "2025-12-09T04:29:21.322Z",
+      "id": "e66nmp",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9969704151153564,
+          "index": 1,
+          "word": "Google",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9833527207374573,
+          "index": 9,
+          "word": "Brain",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9280079007148743,
+          "index": 11,
+          "word": "Inspired",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2025-12-09T04:31:05.685Z"
+    },
+    {
+      "title": "ChatGPT, Gemini, DeepSeek, Claude, Perplexity, and Grok give response to this article about what one person’s power means.",
+      "url": "https://www.reddit.com/r/artificial/comments/1phx4v0/chatgpt_gemini_deepseek_claude_perplexity_and/",
+      "source": "r/artificial",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2025-12-09T03:26:16.000Z",
+      "metaDescription": "submitted by    /u/Character_Point_2327  \n [link]   [comments]",
+      "category": "creative-ai",
+      "difficulty": 7,
+      "confidence": 0.6865022714103962,
+      "crawledAt": "2025-12-09T04:29:35.500Z",
+      "id": "vte4fw",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9550907611846924,
+          "index": 1,
+          "word": "Cha",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.8145955204963684,
+          "index": 2,
+          "word": "##t",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8755048513412476,
+          "index": 3,
+          "word": "##GP",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.904445230960846,
+          "index": 4,
+          "word": "##T",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9269794821739197,
+          "index": 6,
+          "word": "Gemini",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9688670039176941,
+          "index": 8,
+          "word": "Deep",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9924326539039612,
+          "index": 9,
+          "word": "##S",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.974924623966217,
+          "index": 10,
+          "word": "##eek",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Discussion about AI models and tools mentioned in the title.",
+      "language": "en",
+      "processed_at": "2025-12-09T04:31:05.919Z"
+    },
+    {
+      "title": "They crave that mineral.",
+      "url": "https://www.reddit.com/r/ChatGPT/comments/1phwz90/they_crave_that_mineral/",
+      "source": "r/ChatGPT",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "medium",
+      "pubDate": "2025-12-09T03:18:43.000Z",
+      "metaDescription": "submitted by    /u/Ok-boomer4947  \n [link]   [comments]",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.3092625576753064,
+      "crawledAt": "2025-12-09T04:29:43.107Z",
+      "id": "5ksa1w",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2025-12-09T04:31:06.027Z"
+    },
+    {
+      "title": "Tesla's AI Automatic Emergency Braking saves a child's life",
+      "url": "https://www.reddit.com/r/artificial/comments/1phwtbf/teslas_ai_automatic_emergency_braking_saves_a/",
+      "source": "r/artificial",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2025-12-09T03:10:55.000Z",
+      "metaDescription": "Tesla's AI Automatic Emergency Braking saves a child's life\n \n    submitted by    /u/redsixerfan  \n [link]   [comments]",
+      "category": "ai-agents",
+      "difficulty": 6,
+      "confidence": 0.4963963213139931,
+      "crawledAt": "2025-12-09T04:29:35.940Z",
+      "id": "vwcgs0",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9432622790336609,
+          "index": 1,
+          "word": "Te",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9837517142295837,
+          "index": 5,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9675247669219971,
+          "index": 6,
+          "word": "Automatic",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9425181150436401,
+          "index": 7,
+          "word": "Emergency",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9420846104621887,
+          "index": 8,
+          "word": "B",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2025-12-09T04:31:06.165Z"
+    },
+    {
+      "title": "Large update: 12 new frontier models added to the Step Game social reasoning benchmark.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1phuuuj/large_update_12_new_frontier_models_added_to_the/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2025-12-09T01:39:45.000Z",
+      "metaDescription": "In this benchmark, 3 players race to the finish line. Each turn they talk, then secretly pick 1, 3, or 5 steps. If 2+ players pick the same number, nobody moves. To win, a model has to reason about ot",
+      "category": "model-release",
+      "difficulty": 5,
+      "confidence": 0.8765363930480301,
+      "crawledAt": "2025-12-09T04:29:41.085Z",
+      "id": "v8voyp",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9928566217422485,
+          "index": 11,
+          "word": "Step",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.998088538646698,
+          "index": 12,
+          "word": "Game",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " 3 players race to the finish line, then secretly pick 1, 3, or 5 steps. If 2+ players pick the same number, nobody moves.",
+      "language": "en",
+      "processed_at": "2025-12-09T04:31:31.158Z"
+    },
+    {
+      "title": "Check on lil bro",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1phujwo/check_on_lil_bro/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2025-12-09T01:25:42.000Z",
+      "metaDescription": "submitted by    /u/k_means_clusterfuck  \n [link]   [comments]",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.47272317599580466,
+      "crawledAt": "2025-12-09T04:29:37.482Z",
+      "id": "87pyza",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2025-12-09T04:31:31.224Z"
+    },
     {
       "title": "Which library should I use?",
       "url": "https://www.reddit.com/r/LangChain/comments/1phufei/which_library_should_i_use/",
@@ -96,6 +424,66 @@
       "summary": "Community discussion about AI developments and related topics.",
       "language": "en",
       "processed_at": "2025-12-09T01:31:52.503Z"
+    },
+    {
+      "title": "The Universal Weight Subspace Hypothesis",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1phsyag/the_universal_weight_subspace_hypothesis/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2025-12-09T00:14:11.000Z",
+      "metaDescription": "We show that deep neural networks trained across diverse tasks exhibit remarkably similar low-dimensional parametric subspaces. We provide the first large-scale empirical evidence that demonstrates th",
+      "category": "safety-ethics",
+      "difficulty": 6,
+      "confidence": 0.4395105193754363,
+      "crawledAt": "2025-12-09T04:29:40.873Z",
+      "id": "mgkze4",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9923054575920105,
+          "index": 2,
+          "word": "Universal",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9946526885032654,
+          "index": 3,
+          "word": "Weight",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9869959950447083,
+          "index": 4,
+          "word": "Sub",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9779191613197327,
+          "index": 5,
+          "word": "##space",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9834340214729309,
+          "index": 6,
+          "word": "H",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The first large-scale empirical evidence that shows that deep neural networks are similar to parametric subspaces. We show that deep- neural networks have similar low-dimensional subspots.",
+      "language": "en",
+      "processed_at": "2025-12-09T04:31:43.095Z"
     },
     {
       "title": "Building a professional “app store” for AI workspaces. Looking for feedback from applied AI practitioners",
@@ -765,17 +1153,17 @@
       "processed_at": "2025-12-09T01:36:23.067Z"
     }
   ],
-  "processedAt": "2025-12-09T01:36:23.076Z",
+  "processedAt": "2025-12-09T04:32:09.877Z",
   "categories": [
-    "infrastructure",
-    "model-release",
-    "safety-ethics",
     "creative-ai",
     "ai-agents",
+    "model-release",
+    "infrastructure",
+    "safety-ethics",
     "tutorial-guide"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 22,
-  "dailyArticlesCount": 22,
+  "newArticlesProcessed": 10,
+  "dailyArticlesCount": 32,
   "filterDate": "2025-12-09"
 }
