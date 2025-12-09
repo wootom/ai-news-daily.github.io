@@ -1,9 +1,479 @@
 {
-  "crawledAt": "2025-12-09T08:31:53.935Z",
+  "crawledAt": "2025-12-09T12:45:31.255Z",
   "totalSources": 70,
-  "totalArticles": 88,
+  "totalArticles": 115,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "There's no way I'm the only one getting these shitty outputs",
+      "url": "https://www.reddit.com/r/OpenAI/comments/1pi6ecd/theres_no_way_im_the_only_one_getting_these/",
+      "source": "r/OpenAI",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2025-12-09T12:40:38.000Z",
+      "metaDescription": "Tried a couple more times and it kept doing this, asked for a simple straight text and no sucess, had to open a new chat. At this point GPT it's just too much work to use.\n My input was just \"recomend",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.2986541030996329,
+      "crawledAt": "2025-12-09T12:44:23.145Z",
+      "id": "hfr1ta",
+      "entities": [],
+      "summary": " Tried a couple more times and it kept doing this, asked for a simple straight text. At this point GPT it's just too much work to use.",
+      "language": "en",
+      "processed_at": "2025-12-09T12:45:45.769Z"
+    },
+    {
+      "title": "EU investigates Google over AI-generated summaries in search results",
+      "url": "https://www.reddit.com/r/artificial/comments/1pi6doo/eu_investigates_google_over_aigenerated_summaries/",
+      "source": "r/artificial",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2025-12-09T12:39:39.000Z",
+      "metaDescription": "submitted by    /u/Negative-Art-4440  \n [link]   [comments]",
+      "category": "ai-agents",
+      "difficulty": 5,
+      "confidence": 0.8381180923147903,
+      "crawledAt": "2025-12-09T12:44:06.993Z",
+      "id": "1tmozy",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9992414712905884,
+          "index": 1,
+          "word": "EU",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9965670704841614,
+          "index": 4,
+          "word": "Google",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9992581605911255,
+          "index": 6,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2025-12-09T12:45:45.882Z"
+    },
+    {
+      "title": "Going Agentic in the Opentargets Hackathon 2025 with Google ADK Opensource",
+      "url": "https://pub.towardsai.net/going-agentic-in-the-opentargets-hackathon-2025-with-google-adk-opensource-478e58d2bb22?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2025-12-09T12:02:15.000Z",
+      "metaDescription": "",
+      "category": "product-launch",
+      "difficulty": 8,
+      "confidence": 0.33858438590775036,
+      "crawledAt": "2025-12-09T12:43:56.862Z",
+      "id": "8uzobr",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9936316013336182,
+          "index": 6,
+          "word": "Open",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9937472939491272,
+          "index": 7,
+          "word": "##tar",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9965767860412598,
+          "index": 8,
+          "word": "##gets",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9939902424812317,
+          "index": 9,
+          "word": "Ha",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9803693890571594,
+          "index": 11,
+          "word": "##ath",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9504052996635437,
+          "index": 12,
+          "word": "##on",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.979402482509613,
+          "index": 16,
+          "word": "Google",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9095062613487244,
+          "index": 17,
+          "word": "AD",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8031468987464905,
+          "index": 18,
+          "word": "##K",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2025-12-09T12:46:19.079Z"
+    },
+    {
+      "title": "A Realistic Roadmap to Start an AI Career in 2026",
+      "url": "https://towardsdatascience.com/a-realistic-roadmap-to-start-an-ai-career-in-2026/",
+      "source": "Towards Data Science",
+      "source_domain": "towardsdatascience.com",
+      "source_category": "tutorial",
+      "source_priority": "high",
+      "pubDate": "2025-12-09T12:00:00.000Z",
+      "metaDescription": "How to learn AI in 2026 through real, usable projects\nThe post A Realistic Roadmap to Start an AI Career in 2026 appeared first on Towards Data Science.",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.2904782202402957,
+      "crawledAt": "2025-12-09T12:43:29.078Z",
+      "id": "gv9o3l",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8820129036903381,
+          "index": 10,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9071779847145081,
+          "index": 11,
+          "word": "Career",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The post A Realistic Roadmap to Start an AI Career in 2026 appeared first on Towards Data Science. How to learn AI in 20 26 through real, usable projects.",
+      "language": "en",
+      "processed_at": "2025-12-09T12:46:32.529Z"
+    },
+    {
+      "title": "GLM-4.6V Model Now Available in GGUF Format",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1pi4yr4/glm46v_model_now_available_in_gguf_format/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2025-12-09T11:20:33.000Z",
+      "metaDescription": "I recently came across the GGUF version of the popular GLM-4.6V Flash model. I shared this as this will be useful to many who want to try this model.\n    submitted by    /u/Dear-Success-1441  \n [link]",
+      "category": "model-release",
+      "difficulty": 4,
+      "confidence": 0.9891619412952806,
+      "crawledAt": "2025-12-09T12:44:12.010Z",
+      "id": "bwzqgx",
+      "entities": [],
+      "summary": "Announcement or discussion about new AI model releases and updates.",
+      "language": "en",
+      "processed_at": "2025-12-09T12:46:32.823Z"
+    },
+    {
+      "title": "AI this, AI that, but I have to delete every chat manually?",
+      "url": "https://www.reddit.com/r/ChatGPT/comments/1pi4ec0/ai_this_ai_that_but_i_have_to_delete_every_chat/",
+      "source": "r/ChatGPT",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "medium",
+      "pubDate": "2025-12-09T10:46:48.000Z",
+      "metaDescription": "You just started 20 new chats? Well, have fun deleting them manually. Wow.\n Jesus they are building incredible things but can't add a stupid select checkbox and delete multiple chats? Same with Gemini",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.25123504028139276,
+      "crawledAt": "2025-12-09T12:44:10.841Z",
+      "id": "k0lzte",
+      "entities": [],
+      "summary": " You just started 20 new chats. You can't add a stupid checkbox and delete multiple chats? Same with Gemini?",
+      "language": "en",
+      "processed_at": "2025-12-09T12:46:53.386Z"
+    },
+    {
+      "title": "Open Source Alternative to NotebookLM",
+      "url": "https://www.reddit.com/r/LangChain/comments/1pi4a14/open_source_alternative_to_notebooklm/",
+      "source": "r/LangChain",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2025-12-09T10:39:24.000Z",
+      "metaDescription": "For those of you who aren't familiar with SurfSense, it aims to be the open-source alternative to NotebookLM, Perplexity, or Glean.\n In short, it's a Highly Customizable AI Research Agent that connect",
+      "category": "research-paper",
+      "difficulty": 4,
+      "confidence": 0.33647056002243697,
+      "crawledAt": "2025-12-09T12:44:27.672Z",
+      "id": "lc3mgi",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8313751220703125,
+          "index": 2,
+          "word": "Source",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " SurfSense aims to be the open-source alternative to NotebookLM, Perplexity, or Glean. In short, it's a Highly Customizable AI Research Agent.",
+      "language": "en",
+      "processed_at": "2025-12-09T12:47:05.727Z"
+    },
+    {
+      "title": "America’s Biggest Bitcoin Miners Are Pivoting to AI",
+      "url": "https://www.wired.com/story/bitcoin-miners-pivot-ai-data-centers/",
+      "source": "Wired AI",
+      "source_domain": "wired.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2025-12-09T10:30:00.000Z",
+      "metaDescription": "In the face of a profitability crisis, industrial-scale bitcoin miners are transforming their data centers into AI factories.",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.31140414613744705,
+      "crawledAt": "2025-12-09T12:43:26.188Z",
+      "id": "tti0cd",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.99957674741745,
+          "index": 1,
+          "word": "America",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Industry-based bitcoin miners are transforming their data centers into factories. They are turning their data centres into factories.",
+      "language": "en",
+      "processed_at": "2025-12-09T12:47:14.315Z"
+    },
+    {
+      "title": "I'll red-team your AI agent for loops & PII leaks",
+      "url": "https://www.reddit.com/r/LangChain/comments/1pi3vb6/free_ill_redteam_your_ai_agent_for_loops_pii/",
+      "source": "r/LangChain",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2025-12-09T10:14:15.000Z",
+      "metaDescription": "Built a safety tool after my agent drained $200 in support tickets. \n Offering free audits to first 5 devs who comment their agent stack (LangChain/Autogen/CrewAI).\n I'll book a 15-min screenshare and",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.7519802845911046,
+      "crawledAt": "2025-12-09T12:44:28.056Z",
+      "id": "p9hx5z",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8454636335372925,
+          "index": 11,
+          "word": "loops",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The free audits are free to first 5 devs who comment their agent stack. I'll book a 15-min screenshare and 15-minute screenshare.",
+      "language": "en",
+      "processed_at": "2025-12-09T12:47:33.531Z"
+    },
+    {
+      "title": "Nvm, ChatGPT is smarter than I ever expected 😲",
+      "url": "https://www.reddit.com/r/ChatGPT/comments/1pi3ffd/nvm_chatgpt_is_smarter_than_i_ever_expected/",
+      "source": "r/ChatGPT",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "medium",
+      "pubDate": "2025-12-09T09:45:36.000Z",
+      "metaDescription": "submitted by    /u/Direct-Till-2680  \n [link]   [comments]",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.29715851975103724,
+      "crawledAt": "2025-12-09T12:44:10.545Z",
+      "id": "brjd47",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9454417824745178,
+          "index": 5,
+          "word": "Cha",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Discussion about AI models and tools mentioned in the title.",
+      "language": "en",
+      "processed_at": "2025-12-09T12:48:08.332Z"
+    },
+    {
+      "title": "ZAI Open Source AutoGLM --A AI Phone Agent",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1pi3aah/zai_open_source_autoglm_a_ai_phone_agent/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2025-12-09T09:36:03.000Z",
+      "metaDescription": "https://huggingface.co/zai-org/AutoGLM-Phone-9B\n https://github.com/zai-org/Open-AutoGLM\n    submitted by    /u/External_Mood4719  \n [link]   [comments]",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.9843815402399421,
+      "crawledAt": "2025-12-09T12:44:13.513Z",
+      "id": "k64pvv",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8351365327835083,
+          "index": 4,
+          "word": "Open",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9207217693328857,
+          "index": 5,
+          "word": "Source",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2025-12-09T12:48:08.483Z"
+    },
+    {
+      "title": "Choose your Destiny",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1pi39z8/choose_your_destiny/",
+      "source": "r/StableDiffusion",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "medium",
+      "pubDate": "2025-12-09T09:35:29.000Z",
+      "metaDescription": "submitted by    /u/ElErranteRojo  \n [link]   [comments]",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.366912736865067,
+      "crawledAt": "2025-12-09T12:44:36.811Z",
+      "id": "wz14a7",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2025-12-09T12:48:08.580Z"
+    },
+    {
+      "title": "Bro, you don’t need a photographer😂",
+      "url": "https://www.reddit.com/r/ChatGPT/comments/1pi36dk/bro_you_dont_need_a_photographer/",
+      "source": "r/ChatGPT",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "medium",
+      "pubDate": "2025-12-09T09:28:59.000Z",
+      "metaDescription": "Generated this car scene with iMini to test how well it handles night lighting and reflections. Pretty impressed with how realistic the details came out.\n    submitted by    /u/ShoddyPut8089  \n [link]",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.34945851757112584,
+      "crawledAt": "2025-12-09T12:44:09.687Z",
+      "id": "k5f2sn",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2025-12-09T12:48:20.875Z"
+    },
+    {
+      "title": "when an upscaler is so good it feels illegal",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1pi2pxu/when_an_upscaler_is_so_good_it_feels_illegal/",
+      "source": "r/StableDiffusion",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "medium",
+      "pubDate": "2025-12-09T08:58:50.000Z",
+      "metaDescription": "I'm absolutely in love with SeedVR2 and the FP16 model. Honestly, it's the best upscaler I've ever used. It keeps the image exactly as it is. no weird artifacts, no distortion, nothing. Just super cle",
+      "category": "industry-news",
+      "difficulty": 3,
+      "confidence": 0.3030930412196287,
+      "crawledAt": "2025-12-09T12:44:34.687Z",
+      "id": "bvgtc4",
+      "entities": [],
+      "summary": " The FP16 model is the best upscaler I've ever used. It keeps the image exactly as it is.",
+      "language": "en",
+      "processed_at": "2025-12-09T12:49:10.131Z"
+    },
+    {
+      "title": "LLMs Path to GenAI; Graph Info Maps",
+      "url": "https://www.reddit.com/r/artificial/comments/1pi2pgq/llms_path_to_genai_graph_info_maps/",
+      "source": "r/artificial",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2025-12-09T08:57:53.000Z",
+      "metaDescription": "LLMs, a Race for more data centers, Nvidia chips and more model parameters, yet no LLM can understand concepts and their relationships and still limited to next token prediction.\n Trying to increase m",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.3784291985310578,
+      "crawledAt": "2025-12-09T12:44:06.886Z",
+      "id": "yhhghk",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8150153756141663,
+          "index": 9,
+          "word": "G",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9325444102287292,
+          "index": 12,
+          "word": "In",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " LLM can't understand concepts and relationships and still limited to next token prediction. Trying to increase m. m. prediction is still limited.",
+      "language": "en",
+      "processed_at": "2025-12-09T12:49:23.398Z"
+    },
     {
       "title": "Newsweek: Building AI-resilience for the next era of information",
       "url": "https://www.artificialintelligence-news.com/news/newsweek-building-ai-resilience-for-the-next-era-of-information/",
@@ -1860,6 +2330,132 @@
       "processed_at": "2025-12-09T08:48:20.290Z"
     },
     {
+      "title": "Empathy by Design: Aligning Large Language Models for Healthcare Dialogue",
+      "url": "https://arxiv.org/abs/2512.06097",
+      "source": "arXiv Computation and Language",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2025-12-09T05:00:00.000Z",
+      "metaDescription": "arXiv:2512.06097v1 Announce Type: new \nAbstract: General-purpose large language models (LLMs) have demonstrated remarkable generative and reasoning capabilities but remain limited in healthcare and ca",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.7889791850989266,
+      "crawledAt": "2025-12-09T12:45:10.153Z",
+      "id": "89tg5i",
+      "entities": [],
+      "summary": " The new language models have demonstrated remarkable generative and reasoning capabilities but remain limited in healthcare and ca. arXiv: 2512.06097v1.",
+      "language": "en",
+      "processed_at": "2025-12-09T12:50:13.028Z"
+    },
+    {
+      "title": "Automated Data Enrichment using Confidence-Aware Fine-Grained Debate among Open-Source LLMs for Mental Health and Online Safety",
+      "url": "https://arxiv.org/abs/2512.06227",
+      "source": "arXiv Computation and Language",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2025-12-09T05:00:00.000Z",
+      "metaDescription": "arXiv:2512.06227v1 Announce Type: new \nAbstract: Real-world indicators are important for improving natural language processing (NLP) tasks such as life events for mental health analysis and risky beha",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.33796792940636167,
+      "crawledAt": "2025-12-09T12:45:10.790Z",
+      "id": "wquoda",
+      "entities": [],
+      "summary": " The New York City-based company has launched a new project to improve the language of the world's language. The project is called \"The New York-based Project, The New Year's Day, and the New Year’s Day.",
+      "language": "en",
+      "processed_at": "2025-12-09T12:50:46.565Z"
+    },
+    {
+      "title": "Adapting AlignScore Mertic for Factual Consistency Evaluation of Text in Russian: A Student Abstract",
+      "url": "https://arxiv.org/abs/2512.06586",
+      "source": "arXiv Computation and Language",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2025-12-09T05:00:00.000Z",
+      "metaDescription": "arXiv:2512.06586v1 Announce Type: new \nAbstract: Ensuring factual consistency in generated text is crucial for reliable natural language processing applications. However, there is a lack of evaluation",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.39996703228839253,
+      "crawledAt": "2025-12-09T12:45:12.466Z",
+      "id": "30jt4y",
+      "entities": [
+        {
+          "entity": "I-ORG",
+          "score": 0.8214671611785889,
+          "index": 6,
+          "word": "##S",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.819892942905426,
+          "index": 8,
+          "word": "Me",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9985129237174988,
+          "index": 22,
+          "word": "Russian",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " There is a lack of evaluation, says the author. Ensuring factual consistency in generated text is crucial for reliable natural language processing applications.",
+      "language": "en",
+      "processed_at": "2025-12-09T12:52:21.093Z"
+    },
+    {
+      "title": "CMV-Fuse: Cross Modal-View Fusion of AMR, Syntax, and Knowledge Representations for Aspect Based Sentiment Analysis",
+      "url": "https://arxiv.org/abs/2512.06679",
+      "source": "arXiv Computation and Language",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2025-12-09T05:00:00.000Z",
+      "metaDescription": "arXiv:2512.06679v1 Announce Type: new \nAbstract: Natural language understanding inherently depends on integrating multiple complementary perspectives spanning from surface syntax to deep semantics and",
+      "category": "infrastructure",
+      "difficulty": 7,
+      "confidence": 0.27248097985706915,
+      "crawledAt": "2025-12-09T12:45:12.811Z",
+      "id": "yhgg42",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9670960307121277,
+          "index": 9,
+          "word": "Mo",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8705586194992065,
+          "index": 10,
+          "word": "##dal",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.8206677436828613,
+          "index": 18,
+          "word": "S",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "ArXiv:. arXiv. arxiv:    Announcement:  New:  New:  The new: New: The new   \"New: The New: New \"The New: \"The New\"",
+      "language": "en",
+      "processed_at": "2025-12-09T12:52:48.392Z"
+    },
+    {
       "title": "Bugged out ChatGPT output formatting- anyone else seen this?",
       "url": "https://www.reddit.com/r/OpenAI/comments/1phyl13/bugged_out_chatgpt_output_formatting_anyone_else/",
       "source": "r/OpenAI",
@@ -2218,6 +2814,42 @@
       "processed_at": "2025-12-09T04:31:06.165Z"
     },
     {
+      "title": "RealGen: another photoreal model, but this one uses AI detectors as a reward to kill \"AI artifacts\"; optimized FLUX.1-dev + Qwen-3 4B + Qwen2.5-VL; achieves a 50.15% win rate against real photos.",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1phuw1x/realgen_another_photoreal_model_but_this_one_uses/",
+      "source": "r/StableDiffusion",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "medium",
+      "pubDate": "2025-12-09T01:41:16.000Z",
+      "metaDescription": "submitted by    /u/balianone  \n [link]   [comments]",
+      "category": "ai-agents",
+      "difficulty": 5,
+      "confidence": 0.4291157868527112,
+      "crawledAt": "2025-12-09T12:44:36.384Z",
+      "id": "wh4s3f",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9824866652488708,
+          "index": 14,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9839816093444824,
+          "index": 23,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2025-12-09T12:52:48.870Z"
+    },
+    {
       "title": "Large update: 12 new frontier models added to the Step Game social reasoning benchmark.",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1phuuuj/large_update_12_new_frontier_models_added_to_the/",
       "source": "r/LocalLLaMA",
@@ -2252,6 +2884,58 @@
       "summary": " 3 players race to the finish line, then secretly pick 1, 3, or 5 steps. If 2+ players pick the same number, nobody moves.",
       "language": "en",
       "processed_at": "2025-12-09T04:31:31.158Z"
+    },
+    {
+      "title": "Star Wars Comparison",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1phulbo/star_wars_comparison_zimage_is_awesome_but_flux_2/",
+      "source": "r/StableDiffusion",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "medium",
+      "pubDate": "2025-12-09T01:27:33.000Z",
+      "metaDescription": "TLDR: Z-Image is great but Flux 2 Dev performs better with concepts/complexity.\n Prompts/approach in comments. Full-res comparisons and generations with embedded workflows available here.\n Before the ",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.34221459992228653,
+      "crawledAt": "2025-12-09T12:44:35.694Z",
+      "id": "ttv1om",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9973384737968445,
+          "index": 1,
+          "word": "Star",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9982811808586121,
+          "index": 2,
+          "word": "Wars",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9868245720863342,
+          "index": 3,
+          "word": "Co",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9911462068557739,
+          "index": 6,
+          "word": "##on",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Z-Image is great but Flux 2 Dev performs better with concepts/complexity. Full-res comparisons and generations with embedded workflows available here.",
+      "language": "en",
+      "processed_at": "2025-12-09T12:52:58.253Z"
     },
     {
       "title": "Check on lil bro",
@@ -2364,6 +3048,61 @@
       "summary": "Community discussion about AI developments and related topics.",
       "language": "en",
       "processed_at": "2025-12-09T01:31:52.503Z"
+    },
+    {
+      "title": "Natural Woman - Z Image Turbo Lora",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1phtqf4/natural_woman_z_image_turbo_lora/",
+      "source": "r/StableDiffusion",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "medium",
+      "pubDate": "2025-12-09T00:48:46.000Z",
+      "metaDescription": "A simple LORA for fixing the \"actor face\" that plagues Z Image Turbo. Produces rounder more realistic faces, much better representation of larger body types, skin details, and more natural posing.\n CI",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.5941900431514373,
+      "crawledAt": "2025-12-09T12:44:37.804Z",
+      "id": "l1yk0t",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.992776095867157,
+          "index": 4,
+          "word": "Z",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9943757057189941,
+          "index": 5,
+          "word": "Image",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Z Image Turbo's \"actor face\" features more realistic faces. The \"actor faces\" are more realistic and more realistic.",
+      "language": "en",
+      "processed_at": "2025-12-09T12:53:06.641Z"
+    },
+    {
+      "title": "How are they creating such hyper realistic fan arts?",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1phta1t/how_are_they_creating_such_hyper_realistic_fan/",
+      "source": "r/StableDiffusion",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "medium",
+      "pubDate": "2025-12-09T00:28:07.000Z",
+      "metaDescription": "There is a page on instagram which posts such fan art of Indian actress Shraddha Kapoor in cosplay outfits. How are they making this? How and where can I find learning tutorials?\n    submitted by    /",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.8973929527671156,
+      "crawledAt": "2025-12-09T12:44:36.551Z",
+      "id": "2wrodi",
+      "entities": [],
+      "summary": " There is a page on instagram which posts fan art of Indian actress Shraddha Kapoor. The page is dedicated to the actress.",
+      "language": "en",
+      "processed_at": "2025-12-09T12:53:17.152Z"
     },
     {
       "title": "The Universal Weight Subspace Hypothesis",
@@ -2492,6 +3231,25 @@
       "summary": " Deutsche Telekom is collaborating with OpenAI to bring advanced, multilingual AI experiences to millions of people across Europe. ChatGPT Enterprise will also be deployed to help employees at Deutsche.",
       "language": "en",
       "processed_at": "2025-12-09T08:49:06.944Z"
+    },
+    {
+      "title": "If your AI always agrees with you, it probably doesn’t understand you",
+      "url": "https://www.reddit.com/r/OpenAI/comments/1phsa2i/if_your_ai_always_agrees_with_you_it_probably/",
+      "source": "r/OpenAI",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2025-12-08T23:44:58.000Z",
+      "metaDescription": "For the last two years, most of what I’ve seen in the AI space is people trying to make models more “obedient.” Better prompts, stricter rules, longer instructions, more role-play. It all revolves aro",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.2521298394798487,
+      "crawledAt": "2025-12-09T12:44:22.942Z",
+      "id": "w2h0y4",
+      "entities": [],
+      "summary": " The AI is trying to make models more “obedient’s’. Better prompts, stricter rules, longer instructions, more role-play.",
+      "language": "en",
+      "processed_at": "2025-12-09T12:53:38.373Z"
     },
     {
       "title": "Building a professional “app store” for AI workspaces. Looking for feedback from applied AI practitioners",
@@ -2712,6 +3470,50 @@
       "summary": "Every other prompt ends with me leaving and drleying chat in sheer. Ok, is it just me or is it seriously not able to remember what it wrote like two replies prior?",
       "language": "en",
       "processed_at": "2025-12-09T01:33:49.510Z"
+    },
+    {
+      "title": "Gooning with Z-Image + LoRa",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1phpw5d/gooning_with_zimage_lora/",
+      "source": "r/StableDiffusion",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "medium",
+      "pubDate": "2025-12-08T22:06:29.000Z",
+      "metaDescription": "I'm having wayy too much fun with Z-Image and testing my LoRa with it. These images are basic generations too, aka no workflow, inpainting, upscaling, etc. Just rawdoggin it. And it also helps that Z-",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.3983898932807123,
+      "crawledAt": "2025-12-09T12:44:35.546Z",
+      "id": "de2mnj",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9681506752967834,
+          "index": 4,
+          "word": "Z",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9722833037376404,
+          "index": 6,
+          "word": "Image",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9159587025642395,
+          "index": 9,
+          "word": "##R",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Z-Image and LoRa are basic generations too, aka no workflow, inpainting, upscaling, etc. Just rawdoggin it.",
+      "language": "en",
+      "processed_at": "2025-12-09T12:53:50.594Z"
     },
     {
       "title": "ICEBlock lawsuit: Trump admin bragged about demanding App Store removal",
@@ -3161,6 +3963,25 @@
       "processed_at": "2025-12-09T01:36:03.482Z"
     },
     {
+      "title": "The Download: political chatbot persuasion, and genetic optimization adverts",
+      "url": "https://www.technologyreview.com/2025/12/05/1128927/the-download-political-chatbot-persuasion-gene-editing-adverts/",
+      "source": "MIT Technology Review",
+      "source_domain": "technologyreview.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2025-12-05T13:10:00.000Z",
+      "metaDescription": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI chatbots can sway voters better than political advertisemen",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.422736928935948,
+      "crawledAt": "2025-12-09T12:43:25.228Z",
+      "id": "piav1l",
+      "entities": [],
+      "summary": " The Download is a daily dose of what's going on in the world of technology. This is today's edition of The Download.",
+      "language": "en",
+      "processed_at": "2025-12-09T12:53:59.484Z"
+    },
+    {
       "title": "Management of Substrate-Sensitive AI Capabilities Part 2: Conflict",
       "url": "https://www.alignmentforum.org/posts/biaCEzMQWZ6QapvSS/management-of-substrate-sensitive-ai-capabilities-mossaic-2",
       "source": "Alignment Forum",
@@ -3178,23 +3999,42 @@
       "summary": "The previous post highlighted some of the problems of the causal-mechanistic paradigm. We'll expand on this with some of our new ideas.",
       "language": "en",
       "processed_at": "2025-12-09T01:36:23.067Z"
+    },
+    {
+      "title": "DeepMath: A lightweight math reasoning Agent with smolagents",
+      "url": "https://huggingface.co/blog/intel-deepmath",
+      "source": "Hugging Face Blog",
+      "source_domain": "huggingface.co",
+      "source_category": "company",
+      "source_priority": "high",
+      "pubDate": "2025-12-04T00:00:00.000Z",
+      "metaDescription": "",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.32549947529464596,
+      "crawledAt": "2025-12-09T12:43:12.582Z",
+      "id": "u7il6z",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2025-12-09T12:53:59.606Z"
     }
   ],
-  "processedAt": "2025-12-09T08:49:19.598Z",
+  "processedAt": "2025-12-09T12:53:59.619Z",
   "categories": [
     "creative-ai",
     "ai-agents",
+    "product-launch",
+    "model-release",
+    "research-paper",
+    "industry-news",
+    "infrastructure",
     "safety-ethics",
     "developer-tool",
-    "infrastructure",
-    "research-paper",
-    "product-launch",
-    "industry-news",
-    "model-release",
     "tutorial-guide"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 56,
-  "dailyArticlesCount": 88,
+  "newArticlesProcessed": 27,
+  "dailyArticlesCount": 115,
   "filterDate": "2025-12-09"
 }
