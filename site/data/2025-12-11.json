@@ -1,9 +1,457 @@
 {
-  "crawledAt": "2025-12-11T08:31:05.709Z",
+  "crawledAt": "2025-12-11T12:46:28.217Z",
   "totalSources": 70,
-  "totalArticles": 130,
+  "totalArticles": 145,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "The Hidden Algorithm Controlling AI Search .",
+      "url": "https://pub.towardsai.net/the-hidden-algorithm-controlling-ai-search-and-how-to-enter-it-90effe486230?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2025-12-11T12:02:25.000Z",
+      "metaDescription": "",
+      "category": "ai-agents",
+      "difficulty": 7,
+      "confidence": 0.2718806289214538,
+      "crawledAt": "2025-12-11T12:45:24.391Z",
+      "id": "npsqjx",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9708538055419922,
+          "index": 3,
+          "word": "Al",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9435745477676392,
+          "index": 4,
+          "word": "##gor",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9887328147888184,
+          "index": 5,
+          "word": "##ith",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8654221296310425,
+          "index": 9,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9207462668418884,
+          "index": 10,
+          "word": "Search",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2025-12-11T12:46:30.248Z"
+    },
+    {
+      "title": "How Agent Handoffs Work in Multi-Agent Systems",
+      "url": "https://towardsdatascience.com/how-agent-handoffs-work-in-multi-agent-systems/",
+      "source": "Towards Data Science",
+      "source_domain": "towardsdatascience.com",
+      "source_category": "tutorial",
+      "source_priority": "high",
+      "pubDate": "2025-12-11T12:00:00.000Z",
+      "metaDescription": "Understanding how LLM-based agents transfer control to each other in a multi-agent system with LangGraph\nThe post How Agent Handoffs Work in Multi-Agent Systems appeared first on Towards Data Science.",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.30051363531933073,
+      "crawledAt": "2025-12-11T12:45:00.249Z",
+      "id": "hie8g0",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9159501194953918,
+          "index": 9,
+          "word": "Agent",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The post is part of a series of articles on how to work in a multi-agent system. The post includes a series on how agents work together.",
+      "language": "en",
+      "processed_at": "2025-12-11T12:46:42.823Z"
+    },
+    {
+      "title": "From Concept to Deployment: How a Machine Learning Development Company Builds Production-Ready…",
+      "url": "https://ai.plainenglish.io/from-concept-to-deployment-how-a-machine-learning-development-company-builds-production-ready-a6391a013bf9?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2025-12-11T11:27:36.000Z",
+      "metaDescription": "",
+      "category": "developer-tool",
+      "difficulty": 5,
+      "confidence": 0.8489264059610143,
+      "crawledAt": "2025-12-11T12:45:32.162Z",
+      "id": "krwgm8",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9948758482933044,
+          "index": 11,
+          "word": "Machine",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9990076422691345,
+          "index": 12,
+          "word": "Learning",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9989849328994751,
+          "index": 13,
+          "word": "Development",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9964041709899902,
+          "index": 14,
+          "word": "Company",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2025-12-11T12:46:42.956Z"
+    },
+    {
+      "title": "Why Startups Should Choose Expert Machine Learning Consulting Services",
+      "url": "https://ai.plainenglish.io/why-startups-should-choose-expert-machine-learning-consulting-services-7e6bda05bb3c?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2025-12-11T11:26:46.000Z",
+      "metaDescription": "",
+      "category": "developer-tool",
+      "difficulty": 5,
+      "confidence": 0.5189491904091457,
+      "crawledAt": "2025-12-11T12:45:32.239Z",
+      "id": "1utp2b",
+      "entities": [
+        {
+          "entity": "I-ORG",
+          "score": 0.9983567595481873,
+          "index": 10,
+          "word": "Learning",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9973848462104797,
+          "index": 11,
+          "word": "Consul",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9928193092346191,
+          "index": 12,
+          "word": "##ting",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9907082915306091,
+          "index": 13,
+          "word": "Services",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2025-12-11T12:46:43.087Z"
+    },
+    {
+      "title": "Port raises $100M at $800M valuation to take on Spotify’s Backstage",
+      "url": "https://techcrunch.com/2025/12/11/port-raises-100m-at-800m-valuation-to-take-on-spotifys-backstage/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2025-12-11T11:00:00.000Z",
+      "metaDescription": "Port offers a proprietary alternative to Spotify's popular devtool catalog Backstage, but with a valuable addition: it can be used to manage AI agents, too.",
+      "category": "product-launch",
+      "difficulty": 5,
+      "confidence": 0.3138646736183571,
+      "crawledAt": "2025-12-11T12:44:48.480Z",
+      "id": "rwq8kp",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9133526086807251,
+          "index": 1,
+          "word": "Port",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9956340193748474,
+          "index": 16,
+          "word": "Spot",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9936359524726868,
+          "index": 17,
+          "word": "##ify",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Port offers a proprietary alternative to Spotify's popular devtool catalog Backstage. It can be used to manage AI agents, too.",
+      "language": "en",
+      "processed_at": "2025-12-11T12:46:53.103Z"
+    },
+    {
+      "title": "Solar geoengineering startups are getting serious",
+      "url": "https://www.technologyreview.com/2025/12/11/1129239/solar-geoengineering-startups-are-getting-serious/",
+      "source": "MIT Technology Review",
+      "source_domain": "technologyreview.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2025-12-11T11:00:00.000Z",
+      "metaDescription": "Solar geoengineering aims to manipulate the climate by bouncing sunlight back into space. In theory, it could ease global warming. But as interest in the idea grows, so do concerns about potential con",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.2748220386632912,
+      "crawledAt": "2025-12-11T12:44:58.424Z",
+      "id": "ain2j5",
+      "entities": [],
+      "summary": "Solar geoengineering aims to manipulate the climate by bouncing sunlight back into space. In theory, it could ease global warming, but as interest in the idea grows, so do concerns about potential con con.",
+      "language": "en",
+      "processed_at": "2025-12-11T12:47:05.423Z"
+    },
+    {
+      "title": "Harness hits $5.5B valuation with $240M raise to automate AI’s ‘after-code’ gap",
+      "url": "https://techcrunch.com/2025/12/11/harness-hits-5-5b-valuation-with-240m-to-automate-ais-after-code-gap/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2025-12-11T10:30:00.000Z",
+      "metaDescription": "Goldman Sachs has led Harness's Series E round, with participation from IVP, Menlo Ventures, and Unusual Ventures.",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.26655645172907116,
+      "crawledAt": "2025-12-11T12:44:48.638Z",
+      "id": "obyyor",
+      "entities": [],
+      "summary": " Goldman Sachs has led Harness's Series E round, with participation from IVP, Menlo Ventures, and Unusual Ventures.",
+      "language": "en",
+      "processed_at": "2025-12-11T12:47:15.478Z"
+    },
+    {
+      "title": "When a Pediatric AI Becomes a System of Perfect Logic and Perfect Failure",
+      "url": "https://ai.plainenglish.io/the-tenth-parenting-protocol-when-a-pediatric-ai-becomes-a-system-of-perfect-logic-and-perfect-dccbe059da03?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2025-12-11T10:28:07.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.35503914033372014,
+      "crawledAt": "2025-12-11T12:45:32.305Z",
+      "id": "ifqivd",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8067741990089417,
+          "index": 3,
+          "word": "P",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2025-12-11T12:47:15.597Z"
+    },
+    {
+      "title": "Why Anti-Hallucination Prompts Make AI Hallucinate More",
+      "url": "https://ai.plainenglish.io/why-anti-bs-prompts-actually-make-ai-bs-more-eb4726d7fc0f?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2025-12-11T10:27:54.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.33613553495543025,
+      "crawledAt": "2025-12-11T12:45:32.375Z",
+      "id": "gk2p0e",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8771401047706604,
+          "index": 2,
+          "word": "Anti",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9426277875900269,
+          "index": 4,
+          "word": "Hall",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8153721690177917,
+          "index": 5,
+          "word": "##uc",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9569527506828308,
+          "index": 6,
+          "word": "##ination",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2025-12-11T12:47:15.740Z"
+    },
+    {
+      "title": "Why Role-Play Prompts Create the Strongest AI Illusions",
+      "url": "https://ai.plainenglish.io/why-role-play-prompts-create-the-strongest-ai-illusions-99321492738f?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2025-12-11T10:27:42.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.6628393701949447,
+      "crawledAt": "2025-12-11T12:45:32.438Z",
+      "id": "ltdj83",
+      "entities": [],
+      "summary": "Discussion about AI-powered creative content generation and tools.",
+      "language": "en",
+      "processed_at": "2025-12-11T12:47:15.877Z"
+    },
+    {
+      "title": "How a “Zero-Error” Medical AI Becomes the Most Reliable Machine for Letting Patients Die The…",
+      "url": "https://ai.plainenglish.io/the-ultimate-paradox-how-a-zero-error-medical-ai-becomes-the-most-reliable-machine-for-letting-79dbc9587f08?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2025-12-11T10:27:24.000Z",
+      "metaDescription": "",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.2868808772471619,
+      "crawledAt": "2025-12-11T12:45:32.522Z",
+      "id": "ugx836",
+      "entities": [],
+      "summary": "Community discussion seeking help or recommendations on AI-related topics.",
+      "language": "en",
+      "processed_at": "2025-12-11T12:47:16.066Z"
+    },
+    {
+      "title": "The Claude Skills Ecosystem Is Exploding… This GitHub Repo Shows Why",
+      "url": "https://ai.plainenglish.io/claude-skills-are-quietly-becoming-the-new-automation-superpower-97f6a9e2bb42?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2025-12-11T09:53:08.000Z",
+      "metaDescription": "Claude Skills are transforming AI from chat to action. Here is how the ecosystem is evolving and why the Awesome Claude Skills repo…\nContinue reading on Artificial Intelligence in Plain English »",
+      "category": "product-launch",
+      "difficulty": 4,
+      "confidence": 0.90694687421666,
+      "crawledAt": "2025-12-11T12:45:32.680Z",
+      "id": "3jkb9",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9633287191390991,
+          "index": 17,
+          "word": "##H",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Claude Skills is changing the way AI is used to communicate with people. Claude Skills can be used as a tool to help people communicate with their friends.",
+      "language": "en",
+      "processed_at": "2025-12-11T12:47:26.518Z"
+    },
+    {
+      "title": "10 Python Libraries That Turn Plain Text Into Intelligence",
+      "url": "https://python.plainenglish.io/10-python-libraries-that-turn-plain-text-into-intelligence-ffbbb9186381?source=rss----78073def27b8---4",
+      "source": "Python in Plain English",
+      "source_domain": "python.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2025-12-11T09:19:20.000Z",
+      "metaDescription": "From summaries to sentiment — no ML degree required.\nContinue reading on Python in Plain English »",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.27612783599999585,
+      "crawledAt": "2025-12-11T12:45:33.221Z",
+      "id": "6k0kew",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8909953236579895,
+          "index": 2,
+          "word": "Python",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " From summaries to sentiment to sentiment, read on Python in Plain English. From summary to sentiment — no ML degree required.",
+      "language": "en",
+      "processed_at": "2025-12-11T12:47:44.402Z"
+    },
     {
       "title": "I Didn’t Believe AI Could Think Until One Experiment Proved Me Wrong",
       "url": "https://ai.plainenglish.io/i-didnt-believe-ai-could-think-until-one-experiment-proved-me-wrong-ea329ef24125?source=rss----78d064101951---4",
@@ -90,6 +538,66 @@
       "summary": "Announcement or discussion about new AI model releases and updates.",
       "language": "en",
       "processed_at": "2025-12-11T08:31:47.347Z"
+    },
+    {
+      "title": "DeepMind’s New Game AI Just Made History",
+      "url": "https://www.youtube.com/watch?v=-ZFH4oJzCdU",
+      "source": "Two Minute Papers",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2025-12-11T07:51:58.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 6,
+      "confidence": 0.9775966320565841,
+      "crawledAt": "2025-12-11T12:45:39.436Z",
+      "id": "44ef8n",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9923762679100037,
+          "index": 1,
+          "word": "Deep",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9953002333641052,
+          "index": 2,
+          "word": "##M",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9842143654823303,
+          "index": 3,
+          "word": "##ind",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.938882052898407,
+          "index": 7,
+          "word": "Game",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9712086319923401,
+          "index": 8,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Announcement or discussion about new AI model releases and updates.",
+      "language": "en",
+      "processed_at": "2025-12-11T12:47:44.676Z"
     },
     {
       "title": "FIRST CONTACT - Disclosure Protocols",
@@ -1814,6 +2322,50 @@
       "summary": " Code pre-trained models have shown promising effectiveness in various software engineering tasks. Among these tasks are related to soft engineering tasks.",
       "language": "en",
       "processed_at": "2025-12-11T08:48:03.415Z"
+    },
+    {
+      "title": "Creating a glass box: How NetSuite is engineering trust into AI",
+      "url": "https://venturebeat.com/ai/creating-a-glass-box-how-netsuite-is-engineering-trust-into-ai",
+      "source": "VentureBeat",
+      "source_domain": "venturebeat.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2025-12-11T05:00:00.000Z",
+      "metaDescription": "Presented by Oracle NetSuite\n\nWhen any company tells you it is their biggest product release in almost three decades, it’s worth listening. When the person saying it founded the world’s first cloud co",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.6993774230756095,
+      "crawledAt": "2025-12-11T12:45:03.488Z",
+      "id": "bbf6sf",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8952676653862,
+          "index": 9,
+          "word": "Net",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9051806926727295,
+          "index": 10,
+          "word": "##S",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9233607053756714,
+          "index": 11,
+          "word": "##uit",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "When any company tells you it's their biggest product release in almost three decades, it's worth listening to. Oracle NetSuite is the world's first cloud co-founder.",
+      "language": "en",
+      "processed_at": "2025-12-11T12:47:56.445Z"
     },
     {
       "title": "The Physics of Prompting: Why Words Don’t Matter, But Structure Does",
@@ -4591,21 +5143,21 @@
       "processed_at": "2025-12-11T04:41:47.954Z"
     }
   ],
-  "processedAt": "2025-12-11T08:49:42.024Z",
+  "processedAt": "2025-12-11T12:47:56.454Z",
   "categories": [
+    "ai-agents",
     "creative-ai",
+    "developer-tool",
+    "product-launch",
+    "infrastructure",
     "safety-ethics",
     "industry-news",
-    "ai-agents",
-    "developer-tool",
-    "infrastructure",
     "research-paper",
     "model-release",
-    "tutorial-guide",
-    "product-launch"
+    "tutorial-guide"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 67,
-  "dailyArticlesCount": 130,
+  "newArticlesProcessed": 15,
+  "dailyArticlesCount": 145,
   "filterDate": "2025-12-11"
 }
