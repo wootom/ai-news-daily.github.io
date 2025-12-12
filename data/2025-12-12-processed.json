@@ -1,9 +1,121 @@
 {
-  "crawledAt": "2025-12-12T01:42:41.392Z",
+  "crawledAt": "2025-12-12T04:35:24.722Z",
   "totalSources": 70,
-  "totalArticles": 57,
+  "totalArticles": 59,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "Building the Future With AI: My Journey From Curiosity to Real-World Applications",
+      "url": "https://ai.plainenglish.io/building-the-future-with-ai-my-journey-from-curiosity-to-real-world-applications-87d048ecc1c9?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2025-12-12T03:32:16.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.3727593813170407,
+      "crawledAt": "2025-12-12T04:34:36.689Z",
+      "id": "3w6pjp",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8470419645309448,
+          "index": 5,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.92100590467453,
+          "index": 18,
+          "word": "Applications",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2025-12-12T04:35:26.776Z"
+    },
+    {
+      "title": "Star Wars: Fate of the Old Republic announced as a KOTOR spiritual successor",
+      "url": "https://arstechnica.com/gaming/2025/12/star-wars-fate-of-the-old-republic-announced-as-a-kotor-spiritual-successor/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2025-12-12T02:51:40.000Z",
+      "metaDescription": "Original KOTOR director Casey Hudson returns to Star Wars with new studio Arcanaut.",
+      "category": "product-launch",
+      "difficulty": 7,
+      "confidence": 0.32599318556162044,
+      "crawledAt": "2025-12-12T04:33:57.357Z",
+      "id": "xnprvj",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9966927766799927,
+          "index": 1,
+          "word": "Star",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.998253583908081,
+          "index": 2,
+          "word": "Wars",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9544340968132019,
+          "index": 4,
+          "word": "Fate",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9968631267547607,
+          "index": 5,
+          "word": "of",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9976058602333069,
+          "index": 6,
+          "word": "the",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9950385093688965,
+          "index": 7,
+          "word": "Old",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9943175911903381,
+          "index": 8,
+          "word": "Republic",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Original KOTOR director Casey Hudson returns to Star Wars with new studio Arcanaut. New studio is ArcanaUT.",
+      "language": "en",
+      "processed_at": "2025-12-12T04:35:43.699Z"
+    },
     {
       "title": "Sub-Linear Knowledge Retrieval via Quantum-Inspired Hyperdimensional Folded Space",
       "url": "https://www.reddit.com/r/deeplearning/comments/1pkf909/sublinear_knowledge_retrieval_via_quantuminspired/",
@@ -1737,19 +1849,19 @@
       "processed_at": "2025-12-12T01:54:29.486Z"
     }
   ],
-  "processedAt": "2025-12-12T01:54:49.446Z",
+  "processedAt": "2025-12-12T04:35:55.642Z",
   "categories": [
-    "infrastructure",
     "creative-ai",
-    "ai-agents",
     "product-launch",
+    "infrastructure",
+    "ai-agents",
     "model-release",
     "research-paper",
     "safety-ethics",
     "industry-news"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 57,
-  "dailyArticlesCount": 57,
+  "newArticlesProcessed": 2,
+  "dailyArticlesCount": 59,
   "filterDate": "2025-12-12"
 }
