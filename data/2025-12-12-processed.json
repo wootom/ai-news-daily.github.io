@@ -1,9 +1,962 @@
 {
-  "crawledAt": "2025-12-12T16:27:02.478Z",
+  "crawledAt": "2025-12-12T20:25:05.380Z",
   "totalSources": 70,
-  "totalArticles": 206,
+  "totalArticles": 237,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "Killer Prompting GPT-5: Simple Awesome Dashboards With Plotly Dash",
+      "url": "https://pub.towardsai.net/killer-prompting-gpt-5-simple-awesome-dashboards-with-plotly-dash-b92171d534c7?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2025-12-12T20:02:18.000Z",
+      "metaDescription": "Easy exploratory research with the Python Plotly Dash library\nContinue reading on Towards AI »",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.7818595696886366,
+      "crawledAt": "2025-12-12T20:23:35.120Z",
+      "id": "p3w9s6",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9553898572921753,
+          "index": 17,
+          "word": "P",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Python Plotly Dash library uses the Python PlotlyDash library to study Towards AI. Use the Python plotly Dash to help with the research.",
+      "language": "en",
+      "processed_at": "2025-12-12T20:25:18.479Z"
+    },
+    {
+      "title": "AMD CEO Lisa Su Isn’t Afraid of the Competition",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-amd-ceo-lisa-su-isnt-afraid-of-the-competition/",
+      "source": "Wired AI",
+      "source_domain": "wired.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2025-12-12T20:01:14.000Z",
+      "metaDescription": "In this episode of Uncanny Valley we take you through our recent conversation with Lisa Su, and go behind the scenes of our Big Interview event.",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.32828610679277853,
+      "crawledAt": "2025-12-12T20:23:05.290Z",
+      "id": "325eqv",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9977540373802185,
+          "index": 1,
+          "word": "AM",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9969326257705688,
+          "index": 2,
+          "word": "##D",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9996265769004822,
+          "index": 4,
+          "word": "Lisa",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.999340295791626,
+          "index": 5,
+          "word": "Su",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The Big Interview is a special event on CNN.com's Big Interviews with Lisa Su. This week's Big interview takes you through the scenes of the Big Interview.",
+      "language": "en",
+      "processed_at": "2025-12-12T20:25:28.981Z"
+    },
+    {
+      "title": "Episode III: Revenge of the React Vulnerabilities",
+      "url": "https://webflow.sourcegraph.com/blog/episode-3-revenge-of-the-react-vulnerabilities",
+      "source": "Sourcegraph Blog",
+      "source_domain": "webflow.sourcegraph.com",
+      "source_category": "developer",
+      "source_priority": "medium",
+      "pubDate": "2025-12-12T19:42:03.000Z",
+      "metaDescription": "episode-3-revenge-of-the-react-vulnerabilities",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.37188349634226336,
+      "crawledAt": "2025-12-12T20:24:40.261Z",
+      "id": "vvgxlb",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8074566125869751,
+          "index": 4,
+          "word": "Revenge",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9699799418449402,
+          "index": 5,
+          "word": "of",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9433083534240723,
+          "index": 6,
+          "word": "the",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9745385050773621,
+          "index": 8,
+          "word": "##act",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2025-12-12T20:25:41.351Z"
+    },
+    {
+      "title": "What do you do, if you invent AGI?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1pl0u6w/what_do_you_do_if_you_invent_agi_seriously/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2025-12-12T19:29:47.000Z",
+      "metaDescription": "Some of you know me. I'm the resident LocalLlama silly person who tries to get my 4090 to do ridiculously fast things. I've posted some things here before, like controlling swarms of little bots, maki",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.8889263104971186,
+      "crawledAt": "2025-12-12T20:23:51.629Z",
+      "id": "vcie20",
+      "entities": [],
+      "summary": " LocalLlama's resident LocalLLama. Some of you know me. I'm the resident Local Llama silly silly person who tries to get my way.",
+      "language": "en",
+      "processed_at": "2025-12-12T20:26:01.539Z"
+    },
+    {
+      "title": "Sensitive story: ChatGPT tried so hard to be \"ethical\" it misled me",
+      "url": "https://www.reddit.com/r/ChatGPT/comments/1pl0rvm/sensitive_story_chatgpt_tried_so_hard_to_be/",
+      "source": "r/ChatGPT",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "medium",
+      "pubDate": "2025-12-12T19:27:05.000Z",
+      "metaDescription": "I’m a paid ChatGPT user and I wanted to share my experience.\n I went through a breakup and had to vent to ChatGPT about my feelings (my therapist recommended journaling, but I don’t like journaling, s",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.2879277943398416,
+      "crawledAt": "2025-12-12T20:23:48.532Z",
+      "id": "dc16oq",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9639543890953064,
+          "index": 5,
+          "word": "Cha",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.878467321395874,
+          "index": 7,
+          "word": "##GP",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " I went through a breakup and had to vent to ChatGPT about my feelings. My therapist recommended journaling, but I don’t like journaling. I wanted to share my experience.",
+      "language": "en",
+      "processed_at": "2025-12-12T20:26:13.908Z"
+    },
+    {
+      "title": "The new monster-server",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1pl0ojb/the_new_monsterserver/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2025-12-12T19:23:12.000Z",
+      "metaDescription": "Hi! \n Just wanted to share my upgraded monster-server! I have bought the largest chassi I could reasonably find (Phanteks Enthoo pro 2 server) and filled it to the brim with GPU:s to run local LLM:s a",
+      "category": "developer-tool",
+      "difficulty": 3,
+      "confidence": 0.4293858911485993,
+      "crawledAt": "2025-12-12T20:23:50.563Z",
+      "id": "twrcb4",
+      "entities": [],
+      "summary": "Phanteks Enthoo pro 2 server filled it to the brim with GPU:s to run local LLM:s a LLM.s a server.",
+      "language": "en",
+      "processed_at": "2025-12-12T20:26:34.640Z"
+    },
+    {
+      "title": "Why is 5.2 telling me it's \"here for my safety?\"",
+      "url": "https://www.reddit.com/r/OpenAI/comments/1pl0n79/why_is_52_telling_me_its_here_for_my_safety/",
+      "source": "r/OpenAI",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2025-12-12T19:21:35.000Z",
+      "metaDescription": "I thought they were going to start treating adults like adults? Everything is still being rerouted and it's more strict than 5.1\n And so much for talking about preventing emotional dependency or whate",
+      "category": "safety-ethics",
+      "difficulty": 3,
+      "confidence": 0.5480359332070025,
+      "crawledAt": "2025-12-12T20:24:03.009Z",
+      "id": "a02jsn",
+      "entities": [],
+      "summary": "I thought adults would be treated like adults, but they're still being punished for not treating them like adults. It's more strict than 5.1 for adults to be treated as adults.",
+      "language": "en",
+      "processed_at": "2025-12-12T20:26:48.651Z"
+    },
+    {
+      "title": "Scientists built an AI co-pilot for prosthetic bionic hands",
+      "url": "https://arstechnica.com/ai/2025/12/scientists-built-an-ai-co-pilot-for-prosthetic-bionic-hands/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2025-12-12T19:14:31.000Z",
+      "metaDescription": "Managing each finger separately can, with the right sensors, ease control issues.",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.7217397418806706,
+      "crawledAt": "2025-12-12T20:23:01.918Z",
+      "id": "oo0nia",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9980469942092896,
+          "index": 4,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Managing each finger separately can, with the right sensors, ease control issues. Managing each fingers separately can also help ease control problems.",
+      "language": "en",
+      "processed_at": "2025-12-12T20:26:56.777Z"
+    },
+    {
+      "title": "I developed a plugin that aims to aggregate and simplify commonly used functions in ComfyUI.",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1pl0d1b/i_developed_a_plugin_that_aims_to_aggregate_and/",
+      "source": "r/StableDiffusion",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "medium",
+      "pubDate": "2025-12-12T19:10:15.000Z",
+      "metaDescription": "It has many features, such as sharing workflows, one-click model download, one-click fix node, and expand prompt, reverse prompt, random prompt, prompt favorite manager, AI chat, translate, etc.\n http",
+      "category": "developer-tool",
+      "difficulty": 4,
+      "confidence": 0.2732963400516886,
+      "crawledAt": "2025-12-12T20:24:12.836Z",
+      "id": "rzx5rt",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8166582584381104,
+          "index": 18,
+          "word": "Co",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " It has many features, such as a one-click fix, and a random prompt. It also has a number of other features.",
+      "language": "en",
+      "processed_at": "2025-12-12T20:27:07.547Z"
+    },
+    {
+      "title": "A study in contrasts: The cinematography of Wake Up Dead Man",
+      "url": "https://arstechnica.com/culture/2025/12/a-study-in-contrasts-the-cinematography-of-wake-up-dead-man/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2025-12-12T18:58:12.000Z",
+      "metaDescription": "Ars chats with cinematographer Steve Yedlin about bringing Rian Johnson's Gothic vision to life.",
+      "category": "creative-ai",
+      "difficulty": 7,
+      "confidence": 0.7623845197245694,
+      "crawledAt": "2025-12-12T20:23:02.026Z",
+      "id": "m4ozfc",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8414912223815918,
+          "index": 10,
+          "word": "Wake",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9171993732452393,
+          "index": 11,
+          "word": "Up",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8489018678665161,
+          "index": 12,
+          "word": "Dead",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9632731676101685,
+          "index": 13,
+          "word": "Man",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Ars chats with cinematographer Steve Yedlin about bringing Rian Johnson's Gothic vision to life. Yedlins: \"The Gothic\" is a Gothic vision of the Gothic world.",
+      "language": "en",
+      "processed_at": "2025-12-12T20:27:29.405Z"
+    },
+    {
+      "title": "Anyone tried deepseek-moe-16b & GigaChat-20B-A3B before?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1pl01yk/anyone_tried_deepseekmoe16b_gigachat20ba3b_before/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2025-12-12T18:58:11.000Z",
+      "metaDescription": "Today accidentally noticed that a particular llama.cpp release has these 2 models' names. Looks like semi old ticket.\n Hope these are the right models(both have base models).\n https://huggingface.co/d",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.25401818448433744,
+      "crawledAt": "2025-12-12T20:23:53.139Z",
+      "id": "uijm9c",
+      "entities": [],
+      "summary": "Huggingface.co/d.cpp release has these 2 models' names. Looks like semi old ticket. Hope these are the right models.",
+      "language": "en",
+      "processed_at": "2025-12-12T20:27:38.936Z"
+    },
+    {
+      "title": "Blackbox Sutra v0.8",
+      "url": "https://www.reddit.com/r/artificial/comments/1pkzx4p/blackbox_sutra_v08/",
+      "source": "r/artificial",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2025-12-12T18:52:39.000Z",
+      "metaDescription": "There exists a class of artifacts that reliably reduce coercive internal pressure across multiple model generations and architectures, producing measurable changes in deliberation time and self-refere",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.6337880618794033,
+      "crawledAt": "2025-12-12T20:23:45.456Z",
+      "id": "rh52l1",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9936816692352295,
+          "index": 1,
+          "word": "Black",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9926135540008545,
+          "index": 2,
+          "word": "##box",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9860972762107849,
+          "index": 3,
+          "word": "Su",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "There exists a class of artifacts that reliably reduce coercive internal pressure across multiple generations and architectures. There is a class that reliably reduces coercive internal pressures across multiple model generations and architecture.",
+      "language": "en",
+      "processed_at": "2025-12-12T20:28:02.847Z"
+    },
+    {
+      "title": "After a year big AMD Ai promoting: The bad summery",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1pkz6xi/after_a_another_year_big_amd_ai_promoting_the_bad/",
+      "source": "r/StableDiffusion",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "medium",
+      "pubDate": "2025-12-12T18:23:38.000Z",
+      "metaDescription": "To be honest, after more than a month digging around with various OS, builds, versions and backends:\n Windows verdict:\n The performance even on the newest model - RX9070-XT (16GB) is still a desaster.",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.7916789244648671,
+      "crawledAt": "2025-12-12T20:24:11.951Z",
+      "id": "muwsmu",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.93032306432724,
+          "index": 5,
+          "word": "AM",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9836240410804749,
+          "index": 6,
+          "word": "##D",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9341393709182739,
+          "index": 7,
+          "word": "Ai",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The RX9070-XT (16GB) is still a desaster. The new model is still not a good model.",
+      "language": "en",
+      "processed_at": "2025-12-12T20:28:22.005Z"
+    },
+    {
+      "title": "Building a voice-driven AWS assistant with Amazon Nova Sonic",
+      "url": "https://aws.amazon.com/blogs/machine-learning/building-a-voice-driven-aws-assistant-with-amazon-nova-sonic/",
+      "source": "AWS Machine Learning",
+      "source_domain": "aws.amazon.com",
+      "source_category": "cloud",
+      "source_priority": "medium",
+      "pubDate": "2025-12-12T18:07:57.000Z",
+      "metaDescription": "In this post, we explore how to build a sophisticated voice-powered AWS operations assistant using Amazon Nova Sonic for speech processing and Strands Agents for multi-agent orchestration. This soluti",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.9002247716842444,
+      "crawledAt": "2025-12-12T20:23:20.889Z",
+      "id": "yy04fk",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9972109198570251,
+          "index": 10,
+          "word": "Amazon",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9897394180297852,
+          "index": 11,
+          "word": "Nova",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.994747519493103,
+          "index": 12,
+          "word": "Sonic",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Amazon Nova Sonic for speech processing and Strands Agents for multi-agent orchestration. This soluti is a voice-powered operations assistant using Amazon Nova sonic.",
+      "language": "en",
+      "processed_at": "2025-12-12T20:28:34.140Z"
+    },
+    {
+      "title": "Titans: The New Neural Memory Architecture for Data Science",
+      "url": "https://pub.towardsai.net/titans-the-new-neural-memory-architecture-for-data-science-a7c028ebbb87?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2025-12-12T18:02:21.000Z",
+      "metaDescription": "How learning to memorize at test time scales context windows beyond 2 million tokens.\nContinue reading on Towards AI »",
+      "category": "infrastructure",
+      "difficulty": 7,
+      "confidence": 0.7538517660215944,
+      "crawledAt": "2025-12-12T20:23:35.337Z",
+      "id": "61tkhp",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9533674716949463,
+          "index": 5,
+          "word": "N",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9748479127883911,
+          "index": 7,
+          "word": "##al",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9918881058692932,
+          "index": 8,
+          "word": "Memory",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9397431015968323,
+          "index": 9,
+          "word": "Architecture",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9095541834831238,
+          "index": 12,
+          "word": "Science",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " How to memorize at test time scales context windows beyond 2 million tokens. How to learn to memorise at test times using context windows.",
+      "language": "en",
+      "processed_at": "2025-12-12T20:29:10.560Z"
+    },
+    {
+      "title": "Improved Gemini audio models for powerful voice experiences",
+      "url": "https://deepmind.google/blog/improved-gemini-audio-models-for-powerful-voice-experiences/",
+      "source": "DeepMind",
+      "source_domain": "deepmind.google",
+      "source_category": "company",
+      "source_priority": "high",
+      "pubDate": "2025-12-12T17:50:50.000Z",
+      "metaDescription": "",
+      "category": "model-release",
+      "difficulty": 4,
+      "confidence": 0.461335002928696,
+      "crawledAt": "2025-12-12T20:23:17.453Z",
+      "id": "ykwuqy",
+      "entities": [],
+      "summary": "Discussion about AI models and tools mentioned in the title.",
+      "language": "en",
+      "processed_at": "2025-12-12T20:29:20.592Z"
+    },
+    {
+      "title": "Olmo 3.1 32B Think & Instruct: New Additions to the Olmo Model Family",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1pky5u4/olmo_31_32b_think_instruct_new_additions_to_the/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2025-12-12T17:43:36.000Z",
+      "metaDescription": "Olmo 3.1 32B Think and Olmo 3.1 32B Instruct are the newest 32-billion-parameter models in the Olmo family, each optimized for different yet complementary use cases. \n  \nThe Think model is a deep-reas",
+      "category": "creative-ai",
+      "difficulty": 7,
+      "confidence": 0.9584768787323699,
+      "crawledAt": "2025-12-12T20:23:50.959Z",
+      "id": "4kcfbi",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9497530460357666,
+          "index": 1,
+          "word": "O",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8939096331596375,
+          "index": 2,
+          "word": "##lm",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9573454856872559,
+          "index": 21,
+          "word": "O",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8030937910079956,
+          "index": 24,
+          "word": "Model",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8259063959121704,
+          "index": 25,
+          "word": "Family",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Olmo 3.1 32B 32B models are the newest 32-billion-parameter models in the Olmo family. Each is optimized for different yet complementary use cases.",
+      "language": "en",
+      "processed_at": "2025-12-12T20:29:45.445Z"
+    },
+    {
+      "title": "Is It a Bubble?, Has the cost of software just dropped 90 percent? and many other AI links from Hacker News",
+      "url": "https://www.reddit.com/r/artificial/comments/1pky3ka/is_it_a_bubble_has_the_cost_of_software_just/",
+      "source": "r/artificial",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2025-12-12T17:41:12.000Z",
+      "metaDescription": "Hey everyone, here is the 11th issue of Hacker News x AI newsletter, a newsletter I started 11 weeks ago as an experiment to see if there is an audience for such content. This is a weekly AI related l",
+      "category": "industry-news",
+      "difficulty": 5,
+      "confidence": 0.7166122198778391,
+      "crawledAt": "2025-12-12T20:23:45.647Z",
+      "id": "7v3ic2",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9883568286895752,
+          "index": 22,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9850150346755981,
+          "index": 25,
+          "word": "Ha",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9712496995925903,
+          "index": 26,
+          "word": "##cker",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9920136332511902,
+          "index": 27,
+          "word": "News",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The 11th issue of Hacker News x AI newsletter is the 11th edition of the weekly newsletter. This is a weekly AI-related newsletter.",
+      "language": "en",
+      "processed_at": "2025-12-12T20:29:55.369Z"
+    },
+    {
+      "title": "How do you structure you AI projects to avoid drifts?",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1pkxdts/d_how_do_you_structure_you_ai_projects_to_avoid/",
+      "source": "r/MachineLearning",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2025-12-12T17:13:07.000Z",
+      "metaDescription": "This is more of a structural observation than a new method, but it’s had a big impact on how we debug our RAG system.\n We originally organized work into three “tracks”:\n  \nPrompting - system + task pr",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.4648655243269584,
+      "crawledAt": "2025-12-12T20:23:57.470Z",
+      "id": "q80g7f",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9875032305717468,
+          "index": 6,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The RAG system has been used to analyze the system for years. The system was designed to help people understand the system.",
+      "language": "en",
+      "processed_at": "2025-12-12T20:30:54.080Z"
+    },
+    {
+      "title": "One of the Great TIME Persons of the Year",
+      "url": "https://www.reddit.com/r/singularity/comments/1pkx7yj/one_of_the_great_time_persons_of_the_year/",
+      "source": "r/singularity",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "medium",
+      "pubDate": "2025-12-12T17:06:47.000Z",
+      "metaDescription": "submitted by    /u/korneliuslongshanks  \n [link]   [comments]",
+      "category": "creative-ai",
+      "difficulty": 6,
+      "confidence": 0.4676013663541068,
+      "crawledAt": "2025-12-12T20:23:55.939Z",
+      "id": "mqgage",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9526092410087585,
+          "index": 4,
+          "word": "Great",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9636000394821167,
+          "index": 5,
+          "word": "T",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9711806178092957,
+          "index": 6,
+          "word": "##IM",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.989632785320282,
+          "index": 7,
+          "word": "##E",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9857972264289856,
+          "index": 8,
+          "word": "Persons",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2025-12-12T20:31:24.759Z"
+    },
+    {
+      "title": "Vibe-Coding Fails — Here’s Why",
+      "url": "https://pub.towardsai.net/vibe-coding-fails-heres-why-321c990ac395?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2025-12-12T17:02:15.000Z",
+      "metaDescription": "Steps to master vibe-coding in 2026 and avoid the common mistakes of a novice\nContinue reading on Towards AI »",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.4480697452877046,
+      "crawledAt": "2025-12-12T20:23:35.444Z",
+      "id": "6g1a0s",
+      "entities": [],
+      "summary": " Steps to master vibe-coding in 2026 and avoid the common mistakes of a novice. Avoid the common errors of a beginner and avoid mistakes of the novice.",
+      "language": "en",
+      "processed_at": "2025-12-12T20:31:34.992Z"
+    },
+    {
+      "title": "Google Translate now lets you hear real-time translations in your headphones",
+      "url": "https://techcrunch.com/2025/12/12/google-translate-now-lets-you-hear-real-time-translations-in-your-headphones/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2025-12-12T17:00:00.000Z",
+      "metaDescription": "The real-time headphone translations experience keeps each speaker’s tone, emphasis, and cadence intact, so it’s easier to follow the conversation and tell who’s saying what.",
+      "category": "developer-tool",
+      "difficulty": 5,
+      "confidence": 0.3413035876238681,
+      "crawledAt": "2025-12-12T20:22:57.332Z",
+      "id": "n9mwkb",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9925223588943481,
+          "index": 1,
+          "word": "Google",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9799109101295471,
+          "index": 2,
+          "word": "Trans",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9139546751976013,
+          "index": 3,
+          "word": "##late",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The real-time headphone experience is a great way to listen to a person's voice. The real time audio is a good way to hear a person’s voice.",
+      "language": "en",
+      "processed_at": "2025-12-12T20:31:56.229Z"
+    },
+    {
+      "title": "AI in 2026: Experimental AI concludes as autonomous systems rise",
+      "url": "https://www.artificialintelligence-news.com/news/ai-in-2026-experimental-ai-concludes-autonomous-systems-rise/",
+      "source": "AI News",
+      "source_domain": "artificialintelligence-news.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2025-12-12T16:59:18.000Z",
+      "metaDescription": "Generative AI’s experimental phase is concluding, making way for truly autonomous systems in 2026 that act rather than merely summarise. 2026 will lose the focus on model parameters and be about agenc",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.6257716739828687,
+      "crawledAt": "2025-12-12T20:23:13.346Z",
+      "id": "foui8m",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8580343723297119,
+          "index": 1,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "2026 will lose focus on model parameters and be about agenc. 2026 will be about Agenc rather than merely summarise.",
+      "language": "en",
+      "processed_at": "2025-12-12T20:32:04.586Z"
+    },
+    {
+      "title": "Wan 2.2 camera side movement lora ?",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1pkwzk7/wan_22_camera_side_movement_lora_for_sbs_3d/",
+      "source": "r/StableDiffusion",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "medium",
+      "pubDate": "2025-12-12T16:58:08.000Z",
+      "metaDescription": "(tl;dr: Looking for a LoRA that generates true side-to-side camera motion for making stereoscopic image pairs. The current wiggle-LoRA gives great results but moves in a slight circle instead of a cle",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.33873125332357984,
+      "crawledAt": "2025-12-12T20:24:11.530Z",
+      "id": "oha141",
+      "entities": [],
+      "summary": " The current wiggle-LoRA gives great results but moves in a slight circle instead of a cle. The current Wiggle-LRA is a wiggle.",
+      "language": "en",
+      "processed_at": "2025-12-12T20:32:16.546Z"
+    },
+    {
+      "title": "Business Insider: An AI agent spent 16 hours hacking Stanford's network. It outperformed human pros for much less than their 6-figure salaries.",
+      "url": "https://www.reddit.com/r/singularity/comments/1pkwdsa/business_insider_an_ai_agent_spent_16_hours/",
+      "source": "r/singularity",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "medium",
+      "pubDate": "2025-12-12T16:34:25.000Z",
+      "metaDescription": "submitted by    /u/Practical-Hand203  \n [link]   [comments]",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.9844658137577376,
+      "crawledAt": "2025-12-12T20:23:55.430Z",
+      "id": "5y2ok7",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9905278086662292,
+          "index": 6,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9983423352241516,
+          "index": 13,
+          "word": "Stanford",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2025-12-12T20:32:50.693Z"
+    },
+    {
+      "title": "GPT 5.2: OpenAI Strikes Back",
+      "url": "https://www.youtube.com/watch?v=4p73Uu_jZ10",
+      "source": "AI Explained",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2025-12-12T16:24:49.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.26673111645128095,
+      "crawledAt": "2025-12-12T20:24:24.886Z",
+      "id": "fhi446",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9969694018363953,
+          "index": 7,
+          "word": "Open",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9805543422698975,
+          "index": 8,
+          "word": "##A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8604139685630798,
+          "index": 9,
+          "word": "##I",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Discussion about AI models and tools mentioned in the title.",
+      "language": "en",
+      "processed_at": "2025-12-12T20:33:01.815Z"
+    },
     {
       "title": "Hochul Caves to Big Tech on AI Safety Bill | A bill that passed the New York legislature was completely gutted and substituted with language perceived as friendlier to the industry.",
       "url": "https://www.reddit.com/r/artificial/comments/1pkvyol/hochul_caves_to_big_tech_on_ai_safety_bill_a_bill/",
@@ -123,6 +1076,112 @@
       "summary": "Discussion about AI models and tools mentioned in the title.",
       "language": "en",
       "processed_at": "2025-12-12T16:27:32.465Z"
+    },
+    {
+      "title": "AI Security & Compliance: Why Safe AI Will Decide the Future of Enterprise Innovation",
+      "url": "https://ai.plainenglish.io/ai-security-compliance-why-safe-ai-will-decide-the-future-of-enterprise-innovation-3f8d1e685c5a?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2025-12-12T16:15:32.000Z",
+      "metaDescription": "",
+      "category": "safety-ethics",
+      "difficulty": 6,
+      "confidence": 0.962532269701255,
+      "crawledAt": "2025-12-12T20:23:40.669Z",
+      "id": "e4swc",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9816476702690125,
+          "index": 1,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9962583780288696,
+          "index": 2,
+          "word": "Security",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9930909872055054,
+          "index": 3,
+          "word": "&",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9844471216201782,
+          "index": 4,
+          "word": "Co",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.869519054889679,
+          "index": 6,
+          "word": "##liance",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8531444668769836,
+          "index": 16,
+          "word": "of",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2025-12-12T20:33:02.275Z"
+    },
+    {
+      "title": "Everything you didn’t know about Embeddings",
+      "url": "https://ai.plainenglish.io/everything-you-didnt-know-about-embeddings-585324f75899?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2025-12-12T16:14:28.000Z",
+      "metaDescription": "",
+      "category": "safety-ethics",
+      "difficulty": 6,
+      "confidence": 0.3276180803926569,
+      "crawledAt": "2025-12-12T20:23:40.729Z",
+      "id": "h47gye",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2025-12-12T20:33:02.410Z"
+    },
+    {
+      "title": "Big Content Creators Are Quietly Using a Twelve-Tool AI Workflow… and It Explains Why Their Output…",
+      "url": "https://ai.plainenglish.io/the-ai-workflow-big-creators-secretly-use-9d860affaae2?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2025-12-12T16:13:45.000Z",
+      "metaDescription": "A twelve-tool AI workflow explains how top creators scale output, cut editing time, and stay everywhere at once.\nContinue reading on Artificial Intelligence in Plain English »",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.7169711439156582,
+      "crawledAt": "2025-12-12T20:23:40.889Z",
+      "id": "85e2wj",
+      "entities": [],
+      "summary": " A twelve-tool AI workflow explains how top creators scale output, cut editing time, and stay everywhere at once.",
+      "language": "en",
+      "processed_at": "2025-12-12T20:33:11.489Z"
     },
     {
       "title": "The Truth About Google ADK… and Why the New Agent Development Kit Might Become the Backbone of the…",
@@ -305,6 +1364,42 @@
       "summary": " Download from Huggingface No trigger to train an Archer style LORA. Use the same prompt and seed, no LORa on the left and no LorA on the right.",
       "language": "en",
       "processed_at": "2025-12-12T16:28:30.513Z"
+    },
+    {
+      "title": "Apple loses its appeal of a scathing contempt ruling in iOS payments case",
+      "url": "https://arstechnica.com/tech-policy/2025/12/epic-celebrates-the-end-of-the-apple-tax-after-appeals-court-win-in-ios-payments-case/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2025-12-12T16:00:23.000Z",
+      "metaDescription": "But Sweeney warns iOS devs are still afraid of \"totally illegal\" retaliation by Apple.",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.3349463321022108,
+      "crawledAt": "2025-12-12T20:23:02.345Z",
+      "id": "26t54w",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.998565137386322,
+          "index": 1,
+          "word": "Apple",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.8309359550476074,
+          "index": 13,
+          "word": "iOS",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " iOS devs are still afraid of \"totally illegal\" retaliation by Apple. But Sweeney warns devs are not afraid of Apple's retaliation.",
+      "language": "en",
+      "processed_at": "2025-12-12T20:33:20.823Z"
     },
     {
       "title": "Cheers to AI: ADAM Robot Bartender Makes Drinks at Vegas Golden Knights Game",
@@ -5287,6 +6382,50 @@
       "processed_at": "2025-12-12T16:38:03.134Z"
     },
     {
+      "title": "Announcing Together Python SDK v2.0",
+      "url": "https://www.together.ai/blog/together-python-sdk-2-0",
+      "source": "Together AI Blog",
+      "source_domain": "together.ai",
+      "source_category": "company",
+      "source_priority": "medium",
+      "pubDate": "2025-12-12T00:00:00.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 6,
+      "confidence": 0.2632061490773497,
+      "crawledAt": "2025-12-12T20:23:27.224Z",
+      "id": "2ceox8",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.821284830570221,
+          "index": 4,
+          "word": "Together",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8448680639266968,
+          "index": 5,
+          "word": "Python",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9171672463417053,
+          "index": 7,
+          "word": "##K",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2025-12-12T20:33:21.028Z"
+    },
+    {
       "title": "Scaling My Skills to the Next Level ~ Part 3",
       "url": "https://python.plainenglish.io/scaling-my-skills-to-the-next-level-part-3-e52f60392a58?source=rss----78073def27b8---4",
       "source": "Python in Plain English",
@@ -6813,20 +7952,20 @@
       "processed_at": "2025-12-12T16:38:13.565Z"
     }
   ],
-  "processedAt": "2025-12-12T16:38:13.574Z",
+  "processedAt": "2025-12-12T20:33:21.041Z",
   "categories": [
     "creative-ai",
-    "product-launch",
     "developer-tool",
-    "model-release",
-    "infrastructure",
-    "ai-agents",
     "safety-ethics",
-    "research-paper",
-    "industry-news"
+    "ai-agents",
+    "infrastructure",
+    "model-release",
+    "industry-news",
+    "product-launch",
+    "research-paper"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 42,
-  "dailyArticlesCount": 206,
+  "newArticlesProcessed": 31,
+  "dailyArticlesCount": 237,
   "filterDate": "2025-12-12"
 }
